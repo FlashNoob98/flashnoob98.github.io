@@ -41,6 +41,22 @@
     .row span { flex:1; }
     .count { opacity:.75; }
     .warn { color: #fbbf24; }
+    .pickerRow{
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:12px;
+    padding:10px 12px;
+    border-radius: 12px;
+    border: 1px solid rgba(255,255,255,.10);
+    background: rgba(255,255,255,.02);
+    color: var(--text);
+    cursor:pointer;
+    }
+    .pickerRowLeft{ display:flex; flex-direction:column; gap:4px; text-align:left; }
+    .chev{ font-size:14px; opacity:.85; transition: transform .15s ease; }
+    .chev.open{ transform: rotate(180deg); }
   </style>
 </head>
 <body>
@@ -183,6 +199,24 @@
   const btnPickAll = document.getElementById("pickAll");
   const btnPickNone = document.getElementById("pickNone");
 
+  const btnPickerToggle = document.getElementById("pickerToggle");
+  const elPickerBody = document.getElementById("pickerBody");
+  const elPickerSummary = document.getElementById("pickerSummary");
+  const elPickerChev = document.getElementById("pickerChev");
+
+
+  function setPickerOpen(open){
+  btnPickerToggle.setAttribute("aria-expanded", open ? "true" : "false");
+  elPickerBody.style.display = open ? "block" : "none";
+  elPickerChev.classList.toggle("open", open);
+  }
+
+  btnPickerToggle.addEventListener("click", () => {
+  const isOpen = btnPickerToggle.getAttribute("aria-expanded") === "true";
+  setPickerOpen(!isOpen);
+  });
+
+
   function saveSelection(){
     try {
       localStorage.setItem(LS_KEY, JSON.stringify(Array.from(selectedBankIds)));
@@ -220,14 +254,18 @@
 
     if(selectedCount === 0){
       elTopicHint.innerHTML = `<span class="warn">Seleziona almeno un argomento.</span>`;
+      elPickerSummary.textContent = `${selectedBankIds.size} argomenti — ${QUESTION_BANK.length} domande`;
       return false;
     }
     if(totalSelectedQuestions < 10){
       elTopicHint.innerHTML = `<span class="warn">Pool selezionato troppo piccolo: ${totalSelectedQuestions} (min 10). Seleziona più argomenti.</span>`;
+      elPickerSummary.textContent = `${selectedBankIds.size} argomenti — ${QUESTION_BANK.length} domande`;
       return false;
     }
 
     elTopicHint.textContent = `Attivi: ${selectedCount} argomenti — pool: ${totalSelectedQuestions} domande.`;
+    // in rebuildQuestionBankFromSelection(), dopo aver calcolato QUESTION_BANK
+    elPickerSummary.textContent = `${selectedBankIds.size} argomenti — ${QUESTION_BANK.length} domande`;
     return true;
   }
 
@@ -343,6 +381,7 @@
     saveSelection();
 
     renderTopicPicker();
+    setPickerOpen(false);
 
     // prima costruzione pool
     const ok = rebuildQuestionBankFromSelection();
