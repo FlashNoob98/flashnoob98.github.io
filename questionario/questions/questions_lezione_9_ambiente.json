@@ -1,0 +1,842 @@
+[
+  {
+    "id": "L9-001",
+    "topic": "Rifiuti - definizione",
+    "q": "Secondo le slide, per “rifiuto” si intende:",
+    "options": [
+      "Qualsiasi materiale che può essere riciclato",
+      "Qualsiasi sostanza o oggetto di cui il detentore abbia l'intenzione o l'obbligo di disfarsi",
+      "Solo sostanze pericolose con asterisco",
+      "Solo materiali prodotti da imprese"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=5"
+  },
+  {
+    "id": "L9-002",
+    "topic": "Rifiuti - produttore",
+    "q": "Secondo le slide, il “produttore dei rifiuti” è:",
+    "options": [
+      "Solo chi trasporta il rifiuto",
+      "Il soggetto la cui attività produce rifiuti (produttore iniziale) o chi effettua operazioni che ne modificano natura/composizione (nuovo produttore)",
+      "Solo chi compila il FIR",
+      "Solo chi conferisce in discarica"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=5"
+  },
+  {
+    "id": "L9-003",
+    "topic": "Rifiuti - detentore",
+    "q": "Secondo le slide, il “detentore” è:",
+    "options": [
+      "Il produttore dei rifiuti o la persona fisica/giuridica che ne è in possesso",
+      "Solo il destinatario finale",
+      "Solo l’intermediario",
+      "Solo il recuperatore"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 9 — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=5"
+  },
+  {
+    "id": "L9-004",
+    "topic": "Rifiuti - recupero",
+    "q": "Secondo le slide, il “recupero” è:",
+    "options": [
+      "Qualsiasi operazione diversa dal recupero",
+      "Qualsiasi operazione il cui principale risultato è permettere ai rifiuti di svolgere un ruolo utile sostituendo altri materiali o preparandoli a tale funzione",
+      "Solo lo smaltimento in discarica",
+      "Solo la raccolta differenziata"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=5"
+  },
+  {
+    "id": "L9-005",
+    "topic": "Rifiuti - smaltimento",
+    "q": "Secondo le slide, lo “smaltimento” è:",
+    "options": [
+      "Qualsiasi operazione diversa dal recupero, anche se può avere come conseguenza secondaria il recupero di sostanze o energia",
+      "Solo il riciclo",
+      "Solo il trasporto",
+      "Solo la messa in riserva"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 9 — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=5"
+  },
+  {
+    "id": "L9-006",
+    "topic": "Normativa rifiuti - riferimento nazionale",
+    "q": "Secondo le slide, la norma nazionale di riferimento per la gestione dei rifiuti è:",
+    "options": [
+      "D.Lgs. 81/08",
+      "Parte IV del D.Lgs. 152/2006 (Codice Ambientale/Testo Unico Ambientale)",
+      "Regolamento UE 2019/1021",
+      "DPCM 08.07.2003"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 7",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=7"
+  },
+  {
+    "id": "L9-007",
+    "topic": "Classificazione rifiuti - origine",
+    "q": "Secondo le slide (art. 184 D.Lgs. 152/2006), i rifiuti si classificano in base all’origine in due famiglie:",
+    "options": [
+      "Pericolosi e non pericolosi",
+      "Urbani e speciali",
+      "Solidi e liquidi",
+      "Recuperabili e non recuperabili"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 7",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=7"
+  },
+  {
+    "id": "L9-008",
+    "topic": "EER/CER - definizione",
+    "q": "Secondo le slide, nell’Elenco Europeo dei Rifiuti (EER) i rifiuti sono individuati tramite:",
+    "options": [
+      "Codici ATECO",
+      "Codici CER (Codice Europeo dei Rifiuti), organizzati in 20 capitoli",
+      "Codici fiscali",
+      "Codici ISBN"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 7",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=7"
+  },
+  {
+    "id": "L9-009",
+    "topic": "Classificazione - contestuale",
+    "q": "Secondo le slide, la classificazione dei rifiuti è:",
+    "options": [
+      "Sempre annuale",
+      "Contestuale alla produzione del rifiuto",
+      "Sempre post conferimento",
+      "Stabilita solo dal trasportatore"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=8"
+  },
+  {
+    "id": "L9-010",
+    "topic": "Rifiuti pericolosi - asterisco",
+    "q": "Secondo le slide, nell’EER un rifiuto è indicato come pericoloso quando:",
+    "options": [
+      "Ha 4 cifre nel codice",
+      "Il codice CER/EER è contrassegnato da un asterisco",
+      "È urbano",
+      "È sempre liquido"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=8"
+  },
+  {
+    "id": "L9-011",
+    "topic": "CER a specchio",
+    "q": "Secondo le slide, i “codici CER a specchio” sono:",
+    "options": [
+      "Codici identici per rifiuti diversi",
+      "Coppie di codici riferite allo stesso rifiuto: uno con asterisco (pericoloso) e uno senza (non pericoloso)",
+      "Codici usati solo per rifiuti urbani",
+      "Codici definiti dal trasportatore"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=8"
+  },
+  {
+    "id": "L9-012",
+    "topic": "Caratterizzazione base - frequenza",
+    "q": "Secondo le slide, la caratterizzazione di base del rifiuto viene effettuata:",
+    "options": [
+      "Solo una volta in vita",
+      "Al primo conferimento e ripetuta ad ogni variazione significativa del processo e comunque almeno una volta l’anno",
+      "Solo se richiesto dal Comune",
+      "Solo per rifiuti non pericolosi"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=8"
+  },
+  {
+    "id": "L9-013",
+    "topic": "CER - struttura",
+    "q": "Secondo le slide, i codici CER (EER) sono sequenze di:",
+    "options": [
+      "4 cifre",
+      "6 cifre riunite in coppie (classe, sottoclasse, descrizione)",
+      "8 cifre e una lettera",
+      "Solo lettere"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=8"
+  },
+  {
+    "id": "L9-014",
+    "topic": "Analisi chimiche - quando richieste",
+    "q": "Secondo le slide, l’analisi chimica dei rifiuti è richiesta anche:",
+    "options": [
+      "Per determinare l’ammissibilità in discarica (D.Lgs. 121/2020) con periodicità almeno annuale",
+      "Solo per rifiuti urbani",
+      "Solo per emissioni in atmosfera",
+      "Solo per rumore"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 9 — pag. 9",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=9"
+  },
+  {
+    "id": "L9-015",
+    "topic": "Recupero semplificato - analisi",
+    "q": "Secondo le slide, per conferimento a recupero in regime semplificato le analisi devono essere ripetute:",
+    "options": [
+      "Ogni 6 mesi per tutti",
+      "Ogni 24 mesi (non pericolosi) o ogni 12 mesi (pericolosi), oltre a variazioni del processo",
+      "Ogni 5 anni",
+      "Mai, basta il primo campione"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 9",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=9"
+  },
+  {
+    "id": "L9-016",
+    "topic": "RENTRI - cos’è",
+    "q": "Secondo le slide, il RENTRI è:",
+    "options": [
+      "Un albo per la sicurezza cantieri",
+      "Lo strumento del MASE per il nuovo sistema di tracciabilità rifiuti, con digitalizzazione dei documenti di movimentazione e trasporto",
+      "Un registro comunale per rifiuti urbani",
+      "Un software per calcolo CEM"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 9",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=9"
+  },
+  {
+    "id": "L9-017",
+    "topic": "FIR - riferimento normativo",
+    "q": "Secondo le slide, il Formulario di Identificazione del Rifiuto (FIR) è disciplinato da:",
+    "options": [
+      "Art. 193 D.Lgs. 152/06",
+      "Art. 37 D.Lgs. 81/08",
+      "DPCM 08.07.2003",
+      "ISO 50001"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 9 — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=10"
+  },
+  {
+    "id": "L9-018",
+    "topic": "FIR - contenuti",
+    "q": "Secondo le slide, dal FIR devono risultare (tra le altre):",
+    "options": [
+      "Solo il CAP del cantiere",
+      "Nome/indirizzo produttore e detentore; origine/tipologia/quantità; impianto destinazione; data e percorso; nome/indirizzo destinatario",
+      "Solo il peso stimato",
+      "Solo il numero di colli"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=10"
+  },
+  {
+    "id": "L9-019",
+    "topic": "FIR - copie e firme",
+    "q": "Secondo le slide, il FIR è costituito da:",
+    "options": [
+      "1 copia firmata solo dal produttore",
+      "2 copie, compilato e firmato dal Produttore/Detentore, controfirmato dal Trasportatore e poi dal Destinatario",
+      "3 copie firmate solo dal trasportatore",
+      "4 copie sempre digitali"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=10"
+  },
+  {
+    "id": "L9-020",
+    "topic": "FIR - numerazione/vidimazione",
+    "q": "Secondo le slide, i FIR devono essere numerati e vidimati secondo modalità definite dal Decreto RENTRI e la vidimazione avviene tramite:",
+    "options": [
+      "PEC al Comune",
+      "Applicativo gestionale WINWASTE",
+      "Portale INPS",
+      "App Menti"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=10"
+  },
+  {
+    "id": "L9-021",
+    "topic": "Registro C/S - riferimento normativo",
+    "q": "Secondo le slide, il registro di carico/scarico è disciplinato da:",
+    "options": [
+      "Art. 190 D.Lgs. 152/06",
+      "Art. 189 D.Lgs. 152/06",
+      "Art. 193 D.Lgs. 152/06",
+      "Art. 184 D.Lgs. 152/06"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 9 — pag. 12",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=12"
+  },
+  {
+    "id": "L9-022",
+    "topic": "MUD - riferimento normativo",
+    "q": "Secondo le slide, la dichiarazione annuale MUD è richiamata da:",
+    "options": [
+      "Art. 189 D.Lgs. 152/06",
+      "Art. 190 D.Lgs. 152/06",
+      "Art. 193 D.Lgs. 152/06",
+      "Art. 242 bis D.Lgs. 152/06"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 9 — pag. 12",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=12"
+  },
+  {
+    "id": "L9-023",
+    "topic": "Registro C/S - tempi produttore",
+    "q": "Secondo le slide, le annotazioni sul registro C/S devono essere effettuate dal Produttore entro:",
+    "options": [
+      "2 giorni lavorativi",
+      "10 giorni lavorativi dalla produzione e/o dal deposito temporaneo",
+      "30 giorni solari",
+      "24 ore"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 12",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=12"
+  },
+  {
+    "id": "L9-024",
+    "topic": "Registro C/S - tempi trasportatore",
+    "q": "Secondo le slide, le annotazioni sul registro C/S devono essere effettuate dal Trasportatore entro:",
+    "options": [
+      "2 giorni lavorativi dal trasporto",
+      "10 giorni lavorativi dal trasporto",
+      "30 giorni dalla chiusura mese",
+      "48 ore"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 12",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=12"
+  },
+  {
+    "id": "L9-025",
+    "topic": "Registro C/S - tempi recuperatore/smaltitore",
+    "q": "Secondo le slide, le annotazioni devono essere effettuate dal Recuperatore/Smaltitore entro:",
+    "options": [
+      "2 giorni lavorativi dalla presa in carico",
+      "10 giorni lavorativi dalla presa in carico",
+      "1 giorno solare",
+      "15 giorni"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 9 — pag. 12",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=12"
+  },
+  {
+    "id": "L9-026",
+    "topic": "Deposito temporaneo manutenzione - art. 230",
+    "q": "Secondo le slide (art. 230 D.Lgs. 152/06), per i rifiuti di manutenzione il deposito temporaneo può essere allestito:",
+    "options": [
+      "Solo nel luogo di produzione materiale",
+      "Presso la sede del cantiere, sede locale del gestore infrastruttura, o luogo di concentramento per valutazione tecnica",
+      "Solo presso la sede legale",
+      "Solo presso discarica"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 13",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=13"
+  },
+  {
+    "id": "L9-027",
+    "topic": "DDT vs FIR - piccoli quantitativi",
+    "q": "Secondo le slide, solo in caso di piccoli quantitativi di rifiuti, la movimentazione dal cantiere al deposito temporaneo può essere accompagnata da:",
+    "options": [
+      "Verbale All.20",
+      "DDT in alternativa al FIR",
+      "Solo fattura",
+      "Nulla (nessun documento)"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 13",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=13"
+  },
+  {
+    "id": "L9-028",
+    "topic": "Materiale tolto d’opera - 60 giorni",
+    "q": "Secondo le slide, i materiali tolti d’opera devono essere sottoposti a Valutazione Tecnica entro:",
+    "options": [
+      "10 giorni",
+      "30 giorni",
+      "60 giorni dalla data di ultimazione lavori",
+      "12 mesi"
+    ],
+    "answerIndex": 2,
+    "refLabel": "Lezione 9 — pag. 13",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=13"
+  },
+  {
+    "id": "L9-029",
+    "topic": "Deposito temporaneo - definizione",
+    "q": "Secondo le slide, il “deposito temporaneo” (artt. 183 c.1 lett. bb e 185-bis D.Lgs. 152/06) è:",
+    "options": [
+      "Raggruppamento dei rifiuti nel luogo in cui sono prodotti",
+      "Trasporto dei rifiuti in discarica",
+      "Recupero energetico",
+      "Stoccaggio definitivo autorizzato"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 9 — pag. 13",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=13"
+  },
+  {
+    "id": "L9-030",
+    "topic": "Deposito temporaneo - conferimento",
+    "q": "Secondo le slide, i rifiuti in deposito temporaneo devono essere avviati a recupero/smaltimento:",
+    "options": [
+      "Solo quando lo decide ARPA",
+      "Con cadenza trimestrale oppure al raggiungimento di 10 mc (pericolosi) e 20 mc (non pericolosi), comunque entro 1 anno",
+      "Solo al raggiungimento di 100 mc",
+      "Ogni 5 anni"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 14",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=14"
+  },
+  {
+    "id": "L9-031",
+    "topic": "Deposito temporaneo - divieto miscelazione",
+    "q": "Secondo le slide, il deposito temporaneo deve essere effettuato:",
+    "options": [
+      "Miscelando per ridurre i volumi",
+      "Per categorie omogenee di rifiuti (divieto di miscelazione)",
+      "Solo per rifiuti non pericolosi",
+      "Solo in fusti metallici"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 14",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=14"
+  },
+  {
+    "id": "L9-032",
+    "topic": "Trasporto rifiuti - ANGA",
+    "q": "Secondo le slide, per enti/imprese che raccolgono o trasportano rifiuti a titolo professionale è obbligatoria:",
+    "options": [
+      "Iscrizione all’Albo Gestori Ambientali (ANGA)",
+      "Iscrizione INAIL",
+      "Iscrizione ISO 50001",
+      "Iscrizione al catasto CEM"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 9 — pag. 14",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=14"
+  },
+  {
+    "id": "L9-033",
+    "topic": "Albo Gestori - categoria 2-bis",
+    "q": "Secondo le slide, la categoria 2-bis riguarda:",
+    "options": [
+      "Trasporto rifiuti urbani",
+      "Trasporto dei propri rifiuti speciali non pericolosi e dei propri rifiuti speciali pericolosi entro 30 kg o 30 litri al giorno",
+      "Intermediazione senza detenzione",
+      "Trasporto rifiuti pericolosi di terzi"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 14",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=14"
+  },
+  {
+    "id": "L9-034",
+    "topic": "PCB - definizione",
+    "q": "Secondo le slide, PCB (nel contesto apparecchiature in olio) sono:",
+    "options": [
+      "Gas fluorurati",
+      "Fluidi contenenti PCB/PCT/PCBT in concentrazione superiore a 50 ppm",
+      "Oli vegetali biodegradabili",
+      "Solventi per vernici"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 16",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=16"
+  },
+  {
+    "id": "L9-035",
+    "topic": "PCB - scadenza 31/12/2025",
+    "q": "Secondo le slide, entro il 31 dicembre 2025 le apparecchiature contenenti PCB con concentrazione >0,005% e volume >0,05 dm³ devono essere:",
+    "options": [
+      "Riclassificate come non pericolose",
+      "Mes­se fuori servizio, bonificate e smaltite",
+      "Solo etichettate",
+      "Solo registrate su FIR"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 16",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=16"
+  },
+  {
+    "id": "L9-036",
+    "topic": "SF6 - GWP100",
+    "q": "Secondo le slide, il “GWP 100” dell’SF6 è circa:",
+    "options": [
+      "2 volte la CO2",
+      "22.200 volte la CO2 (a parità di peso)",
+      "100 volte la CO2",
+      "Uguale alla CO2"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 17",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=17"
+  },
+  {
+    "id": "L9-037",
+    "topic": "SF6 - proprietà",
+    "q": "Secondo le slide, una proprietà fisica dell’SF6 è:",
+    "options": [
+      "Bassa rigidità dielettrica",
+      "Elevata densità (circa 5 volte l’aria)",
+      "Alta solubilità in acqua",
+      "È infiammabile"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 19",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=19"
+  },
+  {
+    "id": "L9-038",
+    "topic": "SF6 - qualifica",
+    "q": "Secondo le slide, chi interviene su apparecchiature elettriche contenenti SF6 deve possedere la qualifica/patentino rilasciata da organismo accreditato secondo:",
+    "options": [
+      "DPR 146/2018",
+      "DPCM 14.11.1997",
+      "ISO 14001",
+      "Legge 447/95"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 9 — pag. 19",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=19"
+  },
+  {
+    "id": "L9-039",
+    "topic": "SF6 - ModSF6",
+    "q": "Secondo le slide, ciascuna Unità Territoriale compila trimestralmente un ModSF6 con dati da inserire su:",
+    "options": [
+      "WINWASTE",
+      "Pelican",
+      "Menti",
+      "AURORA"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 20",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=20"
+  },
+  {
+    "id": "L9-040",
+    "topic": "Eventi ambientali - tipologie",
+    "q": "Secondo le slide, tra le tipologie di incidenti ambientali in e-distribuzione rientra:",
+    "options": [
+      "Sversamento olio a seguito di guasti agli apparecchi",
+      "Solo rumore oltre limiti",
+      "Solo CEM oltre 3 μT",
+      "Solo emissioni di CO2"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 9 — pag. 22",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=22"
+  },
+  {
+    "id": "L9-041",
+    "topic": "Bonifiche - CSC e CSR",
+    "q": "Secondo le slide, la CSC è:",
+    "options": [
+      "Il livello sotto cui è sempre obbligatoria bonifica",
+      "Il livello oltre il quale sono necessarie caratterizzazione e analisi di rischio sito-specifica",
+      "Il limite di rumore notturno",
+      "La soglia per emissioni SF6"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 23",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=23"
+  },
+  {
+    "id": "L9-042",
+    "topic": "Bonifiche - procedura semplificata",
+    "q": "Secondo le slide, gli incidenti ambientali in e-distribuzione ricadono di norma nella procedura semplificata per aree contaminate di ridotte dimensioni:",
+    "options": [
+      "≥ 10.000 m²",
+      "< 1.000 m²",
+      "< 10 m²",
+      "Solo su falda"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 23",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=23"
+  },
+  {
+    "id": "L9-043",
+    "topic": "Bonifiche - notifica 24h",
+    "q": "Secondo le slide, in iter semplificato la notifica dell’evento agli enti deve avvenire entro:",
+    "options": [
+      "2 ore",
+      "24 ore",
+      "7 giorni",
+      "30 giorni"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 23",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=23"
+  },
+  {
+    "id": "L9-044",
+    "topic": "Sversamento olio - MIPRE",
+    "q": "Secondo le slide, tra le Misure di prevenzione (MIPRE) in caso di sversamento olio c’è:",
+    "options": [
+      "Aumentare la velocità dei mezzi",
+      "Contenere lo spandimento con materiali assorbenti e isolare le vie di dispersione (cunicoli/canali/fognature)",
+      "Aprire le griglie verso fognatura",
+      "Ignorare se piove"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 25",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=25"
+  },
+  {
+    "id": "L9-045",
+    "topic": "Sversamento olio - comunicazione CSC",
+    "q": "Secondo le slide, il Responsabile UT/HSE UT invia entro 24h comunicazione di potenziale superamento CSC a:",
+    "options": [
+      "Solo al fornitore",
+      "Regione, Provincia e Comune (ARPA)",
+      "Solo al Sindaco",
+      "Solo ai Vigili del Fuoco"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 25",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=25"
+  },
+  {
+    "id": "L9-046",
+    "topic": "Sversamento olio - kit dotazione",
+    "q": "Secondo le slide, nel kit in dotazione per bonifiche (spargimento sostanze pericolose) è presente anche:",
+    "options": [
+      "Solo estintori CO2",
+      "Cuscini e minibarriere cilindriche + tappeto a tenuta + granulato assorbente + contenitore rigido",
+      "Solo sacchi di cemento",
+      "Solo DPI tessili"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 26",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=26"
+  },
+  {
+    "id": "L9-047",
+    "topic": "MCA - friabile vs compatto",
+    "q": "Secondo le slide, i materiali contenenti amianto “friabili” sono:",
+    "options": [
+      "Materiali duri riducibili in polvere solo con attrezzi meccanici",
+      "Materiali sbriciolabili o riducibili in polvere con semplice pressione delle dita",
+      "Sempre impermeabili",
+      "Sempre non pericolosi"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 32",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=32"
+  },
+  {
+    "id": "L9-048",
+    "topic": "CEM - DPCM 08.07.03 limiti 50Hz",
+    "q": "Secondo le slide, il DPCM 08.07.03 fissa per la popolazione (50 Hz) il limite di esposizione a breve termine per il campo magnetico B pari a:",
+    "options": [
+      "3 μT",
+      "10 μT",
+      "100 μT",
+      "1.000 μT"
+    ],
+    "answerIndex": 2,
+    "refLabel": "Lezione 9 — pag. 34",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=34"
+  },
+  {
+    "id": "L9-049",
+    "topic": "CEM - valore attenzione",
+    "q": "Secondo le slide, il valore di attenzione a lungo termine (mediana sulle 24h in normale esercizio) è:",
+    "options": [
+      "B = 10 μT per aree con permanenza > 4h",
+      "B = 100 μT per aree con permanenza > 4h",
+      "B = 3 μT come valore assoluto sempre",
+      "E = 50 kV/m"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 9 — pag. 34",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=34"
+  },
+  {
+    "id": "L9-050",
+    "topic": "CEM - obiettivo qualità",
+    "q": "Secondo le slide, l’obiettivo di qualità per nuovi elettrodotti (aree con permanenza >4h) è:",
+    "options": [
+      "B = 100 μT",
+      "B = 10 μT",
+      "B = 3 μT come mediana sulle 24h in normale esercizio",
+      "B = 1 μT"
+    ],
+    "answerIndex": 2,
+    "refLabel": "Lezione 9 — pag. 34",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=34"
+  },
+  {
+    "id": "L9-051",
+    "topic": "Rumore - limiti differenziali",
+    "q": "Secondo le slide, i valori limite differenziali in ambiente abitativo sono:",
+    "options": [
+      "10 dB(A) diurno e 8 dB(A) notturno",
+      "5 dB(A) diurno e 3 dB(A) notturno",
+      "3 dB(A) diurno e 5 dB(A) notturno",
+      "1 dB(A) sempre"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 37",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=37"
+  },
+  {
+    "id": "L9-052",
+    "topic": "Scarichi idrici - limiti idrocarburi",
+    "q": "Secondo le slide, per scarichi in acque superficiali (se autorizzati) il limite di idrocarburi totali è:",
+    "options": [
+      "5 mg/l",
+      "10 mg/l",
+      "50 mg/l",
+      "1 mg/l"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 9 — pag. 38",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=38"
+  },
+  {
+    "id": "L9-053",
+    "topic": "Scarichi idrici - fognatura",
+    "q": "Secondo le slide, per scarichi in fognatura (se autorizzati) il limite di idrocarburi totali è:",
+    "options": [
+      "5 mg/l",
+      "10 mg/l",
+      "25 mg/l",
+      "0 mg/l"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 38",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=38"
+  },
+  {
+    "id": "L9-054",
+    "topic": "ISO 14001 - certificazione SGA",
+    "q": "Secondo le slide, il Sistema di Gestione Ambientale (SGA) di e-distribuzione è certificato ISO 14001 a partire dal:",
+    "options": [
+      "2010",
+      "2004",
+      "2018",
+      "2021"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 40",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=40"
+  },
+  {
+    "id": "L9-055",
+    "topic": "ISO 14001 - aspetti ed effetti",
+    "q": "Secondo le slide, un “aspetto ambientale” è:",
+    "options": [
+      "Qualunque modificazione dell’ambiente conseguente ad attività",
+      "Elemento di un’attività/prodotto/servizio che può interagire con l’ambiente",
+      "Solo un parametro di rumore",
+      "Solo un valore di CEM"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 42",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=42"
+  },
+  {
+    "id": "L9-056",
+    "topic": "Sostenibilità - definizione",
+    "q": "Secondo le slide (Rapporto Brundtland 1987), lo sviluppo sostenibile è:",
+    "options": [
+      "Crescita economica senza limiti",
+      "Sviluppo che soddisfa i bisogni presenti senza compromettere la possibilità delle generazioni future",
+      "Solo riduzione CO2",
+      "Solo economia circolare"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 47",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=47"
+  },
+  {
+    "id": "L9-057",
+    "topic": "SDGs - numero e orizzonte",
+    "q": "Secondo le slide, gli SDGs sono:",
+    "options": [
+      "10 obiettivi entro il 2050",
+      "17 obiettivi da raggiungere entro il 2030 (Agenda 2030)",
+      "20 obiettivi entro il 2025",
+      "5 obiettivi entro il 2030"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 47",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=47"
+  },
+  {
+    "id": "L9-058",
+    "topic": "ESG - significato",
+    "q": "Secondo le slide, ESG indica:",
+    "options": [
+      "Energy, Safety, Grid",
+      "Environmental, Social and Governance",
+      "Economic, Sustainable, Green",
+      "Environment, Security, Gas"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 49",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=49"
+  },
+  {
+    "id": "L9-059",
+    "topic": "Etichette ambientali - tipo I",
+    "q": "Secondo le slide, UNI EN ISO 14024 (Tipo I) si riferisce a:",
+    "options": [
+      "Asserzioni ambientali autodichiarate",
+      "Ecolabel rilasciata da organismo indipendente a prodotti con requisiti minimi",
+      "Dichiarazione ambientale di prodotto senza certificazione",
+      "Certificazione edifici WELL"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 9 — pag. 51",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=51"
+  },
+  {
+    "id": "L9-060",
+    "topic": "Etichette ambientali - tipo III",
+    "q": "Secondo le slide, UNI EN ISO 14025 (Tipo III) si riferisce a:",
+    "options": [
+      "EPD (Dichiarazione Ambientale di Prodotto) con dati comparabili e certificazione indipendente",
+      "Ecolabel con requisiti minimi",
+      "Asserzioni ambientali autodichiarate non certificate",
+      "Registro FIR"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 9 — pag. 51",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-9-ambiente.pdf#page=51"
+  }
+]

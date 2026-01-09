@@ -44,6 +44,11 @@
         "id": "lezione_8_modart_modval",
         "title": "Lezione 8 — ModArt e ModVal",
         "file": "questions/questions_lezione_8_modart_modval.json"
+    },
+    {
+        "id": "lezione_9_ambiente",
+        "title": "Lezione 9 — Ambiente",
+        "file": "questions/questions_lezione_9_ambiente.json"
     }
   ]
 }
