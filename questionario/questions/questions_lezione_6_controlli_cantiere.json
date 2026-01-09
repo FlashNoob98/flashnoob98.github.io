@@ -1,0 +1,702 @@
+[
+  {
+    "id": "L6-001",
+    "topic": "Principi fondamentali",
+    "q": "Quali sono i “principi fondamentali dell’attività di controllo” indicati nelle slide?",
+    "options": [
+      "Importanza ai fini della sicurezza, terzietà, omogeneità delle rilevazioni, oggettività delle non conformità, tempestività delle segnalazioni",
+      "Rapidità operativa, riduzione costi, aumento produzione, rotazione personale, outsourcing totale",
+      "Solo tempestività e reporting",
+      "Solo terzietà e oggettività"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 2",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=2"
+  },
+  {
+    "id": "L6-002",
+    "topic": "Tempestività",
+    "q": "Cosa prevede la slide in caso di gravità “Rilevanti”?",
+    "options": [
+      "Informare immediatamente la linea gerarchica",
+      "Registrare a fine mese nel sistema",
+      "Informare solo l’impresa a fine giornata",
+      "Aggiornare esclusivamente il Vendor Rating trimestrale"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 2",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=2"
+  },
+  {
+    "id": "L6-003",
+    "topic": "Tipologie di controllo",
+    "q": "Quali tipologie di controllo sono elencate nelle slide?",
+    "options": [
+      "Controllo sicurezza, controllo regolarità, controllo ambiente, controllo lavori (qualità/quantità), controlli su opere finite ai fini collaudo",
+      "Controllo qualità, controllo tempi, controllo budget, controllo HR",
+      "Solo controllo sicurezza e ambiente",
+      "Solo collaudo e qualità"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 3",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=3"
+  },
+  {
+    "id": "L6-004",
+    "topic": "Figure incaricate",
+    "q": "Chi può essere incaricato del controllo (slide) per contratti aperti e chiusi?",
+    "options": [
+      "Tecnico unità che gestisce appalto; tecnico collaudo; tecnico SIA; professionisti esterni (soggetto terzo)",
+      "Solo il CSE",
+      "Solo l’impresa affidataria",
+      "Solo il committente (persona fisica)"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 3",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=3"
+  },
+  {
+    "id": "L6-005",
+    "topic": "Esiti controlli",
+    "q": "Gli esiti dei controlli eseguiti su Unità diverse da quelle di appartenenza vengono comunicati a:",
+    "options": [
+      "Responsabili di Unità interessati",
+      "Solo al preposto di cantiere",
+      "Solo a GPI",
+      "Solo all’RSPP"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 4",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=4"
+  },
+  {
+    "id": "L6-006",
+    "topic": "Registrazione esiti",
+    "q": "Secondo le slide, i controlli in corso d’opera vengono registrati su schede riepilogative e i dati vengono:",
+    "options": [
+      "Caricati nel sistema informatico dal tecnico che ha eseguito il controllo e autorizzati dal Responsabile di Unità (Zona/SIA/PL/FRI)",
+      "Registrati solo su carta senza sistema informatico",
+      "Inseriti dal preposto dell’impresa e autorizzati dal CSP",
+      "Gestiti solo via email"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 4",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=4"
+  },
+  {
+    "id": "L6-007",
+    "topic": "Vendor Rating",
+    "q": "A cosa serve il Vendor Rating secondo la slide?",
+    "options": [
+      "Misurare le prestazioni dei fornitori d’opera e presidiare gli aspetti qualitativi delle imprese",
+      "Misurare solo i costi di acquisto materiali",
+      "Gestire le ferie del personale",
+      "Certificare i DPI in cantiere"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=5"
+  },
+  {
+    "id": "L6-008",
+    "topic": "Vendor Rating - pesi",
+    "q": "Quali sono le categorie e i pesi dell’indice Vendor Rating Totale (slide)?",
+    "options": [
+      "Sicurezza 40%, Qualità 35%, Puntualità 15%, Correttezza 10%",
+      "Qualità 50%, Sicurezza 20%, Puntualità 20%, Correttezza 10%",
+      "Sicurezza 25%, Qualità 25%, Puntualità 25%, Correttezza 25%",
+      "Sicurezza 60%, Qualità 20%, Puntualità 10%, Correttezza 10%"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=5"
+  },
+  {
+    "id": "L6-009",
+    "topic": "Vendor Rating - frequenza",
+    "q": "Con quale frequenza viene calcolato (slide) l’indice Sicurezza e gli altri aspetti?",
+    "options": [
+      "Mensile per Sicurezza; trimestrale per Impresa/Raggruppamento",
+      "Giornaliero per Sicurezza; mensile per il resto",
+      "Solo annuale",
+      "Solo a fine contratto"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=5"
+  },
+  {
+    "id": "L6-010",
+    "topic": "Documenti di supporto",
+    "q": "Quali documenti di supporto per il controllo (aspetti sicurezza) sono elencati?",
+    "options": [
+      "Scheda RAVICA, Scheda A1, Scheda A2, Scheda A3A, Scheda Sintesi Controllo Cantiere",
+      "Solo PSC e POS",
+      "Solo MArt26 e DUVRI",
+      "Solo PdL/PI/CI"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 6",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=6"
+  },
+  {
+    "id": "L6-011",
+    "topic": "RAVICA",
+    "q": "Cosa contiene il Rapporto Verifica al Cantiere (Scheda RAVICA) secondo le slide?",
+    "options": [
+      "Documenti identificativi cantiere; identificazione personale; identificazione mezzi; descrizione attività al momento accesso; rilievi e prescrizioni",
+      "Solo elenco DPI",
+      "Solo elenco non conformità economiche",
+      "Solo cronoprogramma lavori"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 7",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=7"
+  },
+  {
+    "id": "L6-012",
+    "topic": "Scheda A1",
+    "q": "La nuova Scheda A1 – Sicurezza Cantiere, secondo le slide, comprende:",
+    "options": [
+      "37 item e 8 sezioni",
+      "20 item e 3 sezioni",
+      "50 item e 10 sezioni",
+      "11 item e 2 sezioni"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=8"
+  },
+  {
+    "id": "L6-013",
+    "topic": "Scheda A1 - sezioni",
+    "q": "Quale delle seguenti è una sezione della Scheda A1 (slide)?",
+    "options": [
+      "Prevenzione rischio elettrico",
+      "Gestione fiscale del contratto",
+      "Gestione commerciale",
+      "Marketing territoriale"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=8"
+  },
+  {
+    "id": "L6-014",
+    "topic": "Sanzioni A1",
+    "q": "Quali sanzioni sono previste (slide) per G, GG, GR?",
+    "options": [
+      "G €500; GG €1.000; GR €4.000 + sospensione preposto",
+      "G €100; GG €500; GR €1.000 + richiamo",
+      "G solo richiamo; GG sospensione; GR nessuna sanzione",
+      "G €4.000; GG €1.000; GR €500"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=8"
+  },
+  {
+    "id": "L6-015",
+    "topic": "Scheda A2",
+    "q": "La Scheda A2 – Regolarità Cantiere verifica, tra le altre, quale aspetto?",
+    "options": [
+      "Autorizzazione al subappalto",
+      "Classificazione ATEX delle aree",
+      "Taratura strumenti di misura in cabina primaria",
+      "Prove di collaudo su protezioni di rete"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 9",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=9"
+  },
+  {
+    "id": "L6-016",
+    "topic": "Scheda A3A",
+    "q": "La Scheda A3A – Ambiente riguarda (slide):",
+    "options": [
+      "11 item sulla gestione dei rifiuti in cantiere",
+      "37 item sulla sicurezza cantiere",
+      "6 item sulla regolarità cantiere",
+      "Solo impatto acustico"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=10"
+  },
+  {
+    "id": "L6-017",
+    "topic": "Sintesi controllo",
+    "q": "La Scheda Sintesi Controllo Cantiere (slide) è:",
+    "options": [
+      "Scheda riepilogativa delle eventuali NC condivisa tra esecutore controllo e preposto cantiere",
+      "Un verbale esclusivo per il committente",
+      "Il POS dell’impresa",
+      "Il registro rifiuti"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 11",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=11"
+  },
+  {
+    "id": "L6-018",
+    "topic": "DPI controllore",
+    "q": "Qual è la dotazione minima per il controllo in cantiere (slide)?",
+    "options": [
+      "Calzature di sicurezza + elmetto; nei cantieri stradali aggiungere giubbotto alta visibilità",
+      "Solo elmetto",
+      "Calzature normali + guanti da lavoro",
+      "Imbracatura + cordino sempre"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 12",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=12"
+  },
+  {
+    "id": "L6-019",
+    "topic": "Approccio al controllo",
+    "q": "All’arrivo in cantiere, l’esecutore del controllo (slide):",
+    "options": [
+      "Chiede autorizzazione al PL, esplicita obiettivi/ruolo/mandato, monitora rispetto documenti e visita senza interferire né creare conflitti",
+      "Interrompe il lavoro e riorganizza le squadre",
+      "Esegue direttamente le manovre",
+      "Compila tutti gli item indipendentemente dalle attività in corso"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 13",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=13"
+  },
+  {
+    "id": "L6-020",
+    "topic": "Fotografia attività",
+    "q": "Secondo le slide, il controllo deve “fotografare” le attività e vanno compilati:",
+    "options": [
+      "Solo gli item che rappresentano le attività lavorative in corso",
+      "Sempre tutti gli item della scheda",
+      "Solo gli item di ambiente",
+      "Solo gli item di regolarità"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 13",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=13"
+  },
+  {
+    "id": "L6-021",
+    "topic": "Fine visita",
+    "q": "Al termine della visita, l’esecutore del controllo (slide):",
+    "options": [
+      "Riporta sinteticamente l’esito al PL, evidenzia eventuali irregolarità e applica Stop Work se ricorrono le condizioni",
+      "Invia direttamente sanzioni economiche all’impresa",
+      "Sostituisce il preposto",
+      "Archivia senza comunicazioni"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 14",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=14"
+  },
+  {
+    "id": "L6-022",
+    "topic": "A1 - item segnalamento stradale",
+    "q": "Nella Scheda A1 (modalità di compilazione), l’item su segnalamento temporaneo su sede stradale prevede esiti:",
+    "options": [
+      "Regolare/Irregolare, e Non Controllabile se non su sede stradale",
+      "Solo Regolare",
+      "Solo Irregolare",
+      "Sempre Non Controllabile"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 16",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=16"
+  },
+  {
+    "id": "L6-023",
+    "topic": "A1 - presidi antincendio/PS",
+    "q": "Gli item su presidi antincendio e primo soccorso (slide) devono essere:",
+    "options": [
+      "Sempre compilati, esiti solo Regolare/Irregolare (no Non Controllabile)",
+      "Compilati solo se richiesti dal PL",
+      "Non compilati se il cantiere è piccolo",
+      "Sempre Non Controllabili"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 17",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=17"
+  },
+  {
+    "id": "L6-024",
+    "topic": "A1 - preposto e PES",
+    "q": "Quale item (scheda 37) è GR e riguarda il preposto e l’attestazione PES (slide)?",
+    "options": [
+      "Item 5",
+      "Item 12",
+      "Item 21",
+      "Item 29"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 18-19",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=18"
+  },
+  {
+    "id": "L6-025",
+    "topic": "A1 - profili professionali",
+    "q": "Secondo le slide, quale profilo è “Operatore esperto nella esecuzione di giunzioni e terminazioni MT-BT”?",
+    "options": [
+      "Profilo E",
+      "Profilo C",
+      "Profilo G",
+      "Profilo H"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 19",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=19"
+  },
+  {
+    "id": "L6-026",
+    "topic": "A1 - lavori sotto tensione",
+    "q": "L’item sull’idoneità ai lavori sotto tensione BT (slide) è controllabile:",
+    "options": [
+      "Solo se al momento della visita si stanno eseguendo lavori in tensione; altrimenti Non Controllabile",
+      "Sempre, anche se non si lavora in tensione",
+      "Mai, perché è solo documentale",
+      "Solo per lavori MT"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 20",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=20"
+  },
+  {
+    "id": "L6-027",
+    "topic": "A1 - MArt26/DUVRI",
+    "q": "Nelle modalità di compilazione, l’item 9 (prescrizioni MArt26/DUVRI) si compila:",
+    "options": [
+      "Se il MArt26 consegnato all’impresa è considerato anche DUVRI; altrimenti Non Controllabile",
+      "Solo se c’è PSC",
+      "Solo se c’è subappalto",
+      "Sempre, indipendentemente dal MArt26"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 22",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=22"
+  },
+  {
+    "id": "L6-028",
+    "topic": "A1 - POS",
+    "q": "Secondo le slide, l’item 11 (POS presente in cantiere) prevede esiti:",
+    "options": [
+      "Regolare/Irregolare (va sempre compilato)",
+      "Regolare/Irregolare/Non Controllabile",
+      "Solo Non Controllabile",
+      "Solo Regolare"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 22",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=22"
+  },
+  {
+    "id": "L6-029",
+    "topic": "A1 - PJC",
+    "q": "Secondo le slide, l’item 12 riguarda:",
+    "options": [
+      "PJC/Verifica Stabilità Sostegno presenti quando necessari e correttamente compilati",
+      "Solo il cartello di cantiere",
+      "Solo presidi antincendio",
+      "Solo DPI elettrici"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 23",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=23"
+  },
+  {
+    "id": "L6-030",
+    "topic": "A1 - modulistica PRE",
+    "q": "L’item 13 (modulistica PRE) è controllabile quando:",
+    "options": [
+      "Sono in corso lavori fuori tensione; altrimenti Non Controllabile",
+      "Sempre",
+      "Solo per lavori in tensione",
+      "Solo per cantieri stradali"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 23",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=23"
+  },
+  {
+    "id": "L6-031",
+    "topic": "A1 - prevenzione rischio elettrico",
+    "q": "Quale item (slide) riguarda la verifica di assenza di tensione?",
+    "options": [
+      "Item 16",
+      "Item 14",
+      "Item 18",
+      "Item 19"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 24",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=24"
+  },
+  {
+    "id": "L6-032",
+    "topic": "A1 - esiti sezionamenti/blocchi",
+    "q": "Per gli item 14 e 15 (sezionamenti e blocchi), per lavori svolti da Impresa l’esito è:",
+    "options": [
+      "Non Controllabile",
+      "Sempre Regolare",
+      "Sempre Irregolare",
+      "Regolare solo se presente PdL"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 25",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=25"
+  },
+  {
+    "id": "L6-033",
+    "topic": "A1 - verifica assenza tensione (impresa vs ED)",
+    "q": "Secondo le slide, la verifica assenza tensione (item 16) per Impresa deve essere conforme a:",
+    "options": [
+      "Normative CEI-EN vigenti e quanto descritto nel POS",
+      "Solo PRE",
+      "Solo MArt26",
+      "Solo PSC"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 25",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=25"
+  },
+  {
+    "id": "L6-034",
+    "topic": "A1 - MaT/CTO",
+    "q": "L’item 17 (messa a terra e in cortocircuito) si compila solo se:",
+    "options": [
+      "Si stanno installando o sono installati dispositivi di proprietà appaltatore/subappaltatore",
+      "C’è sempre un PdL in cantiere",
+      "Il cantiere è su sede stradale",
+      "Non ci sono parti attive adiacenti"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 26",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=26"
+  },
+  {
+    "id": "L6-035",
+    "topic": "A1 - equipotenzialità/continuità",
+    "q": "L’item 18 prevede che, se i dispositivi previsti non sono presenti in cantiere, l’esito è:",
+    "options": [
+      "Irregolare",
+      "Regolare",
+      "Non Controllabile",
+      "Non applicabile"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 26",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=26"
+  },
+  {
+    "id": "L6-036",
+    "topic": "A1 - prossimità/vicinanza",
+    "q": "Secondo le slide, per l’item 19 (parti attive adiacenti) bisogna verificare:",
+    "options": [
+      "Adozione misure previste da Nota Tecnica e relativa CEI-EN per attività in prossimità/vicinanza",
+      "Solo presenza del POS",
+      "Solo presenza del cartello cantiere",
+      "Solo uso dei guanti da lavoro"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 26",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=26"
+  },
+  {
+    "id": "L6-037",
+    "topic": "DPI - regole esiti",
+    "q": "Secondo le slide, l’item 21 (DPI rischio generico/specifico) deve essere:",
+    "options": [
+      "Sempre compilato (solo Regolare/Irregolare; no Non Controllabile)",
+      "Compilato solo se c’è rischio elettrico",
+      "Sempre Non Controllabile",
+      "Compilato solo nei cantieri stradali"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 28",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=28"
+  },
+  {
+    "id": "L6-038",
+    "topic": "DPI - rischio elettrico",
+    "q": "Per l’item 22 (DPI rischio elettrico), l’esito Non Controllabile è previsto:",
+    "options": [
+      "Solo per attività in cui non esiste rischio elettrico",
+      "Sempre",
+      "Mai",
+      "Solo se c’è PSC"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 28",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=28"
+  },
+  {
+    "id": "L6-039",
+    "topic": "Attrezzature - accesso elevazione",
+    "q": "Secondo le slide, l’item 29 (uso attrezzature accesso in elevazione) è controllabile:",
+    "options": [
+      "Solo se al momento della visita si stanno utilizzando tali attrezzature; altrimenti Non Controllabile",
+      "Sempre",
+      "Mai",
+      "Solo se presenti trabattelli"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 31",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=31"
+  },
+  {
+    "id": "L6-040",
+    "topic": "Attrezzature - CEI EN 61230",
+    "q": "Secondo le slide, i dispositivi per MaT/CTO ed equipotenzialità/continuità devono avere marcature conformi a:",
+    "options": [
+      "CEI EN 61230",
+      "CEI 11-27",
+      "CEI 0-21",
+      "ISO 45001"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 30-31",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=30"
+  },
+  {
+    "id": "L6-041",
+    "topic": "Automezzi - verifiche periodiche",
+    "q": "Se sono presenti macchine operatrici in cantiere, le slide richiamano la verifica periodica annuale di legge prevista da:",
+    "options": [
+      "Allegato VII del D.Lgs. 81/08",
+      "Titolo IV D.Lgs. 81/08",
+      "DPR 151/2011",
+      "CEI EN 61230"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 33",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=33"
+  },
+  {
+    "id": "L6-042",
+    "topic": "Scheda A2 - personale",
+    "q": "Secondo le slide, il controllo A2 è “Irregolare” se:",
+    "options": [
+      "Le maestranze presenti non sono inserite nell’elenco “maestranze e mezzi” dichiarato dall’appaltatore",
+      "Il cartello cantiere è presente",
+      "È presente un subappalto autorizzato",
+      "Il cantiere non produce rifiuti"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 38",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=38"
+  },
+  {
+    "id": "L6-043",
+    "topic": "Scheda A2 - mezzi",
+    "q": "Secondo le slide, per A2 item 4, se un mezzo d’opera è presente ma non risulta nell’elenco “maestranze e mezzi”, occorre:",
+    "options": [
+      "Verificare comunque il titolo di possesso (ed è irregolare rispetto all’elenco)",
+      "Considerarlo regolare se in buono stato",
+      "Ignorarlo se non viene usato",
+      "Compilarlo come Non Controllabile"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 39",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=39"
+  },
+  {
+    "id": "L6-044",
+    "topic": "A3A - deposito temporaneo",
+    "q": "Secondo le slide, in deposito temporaneo l’invio a recupero/smaltimento deve avvenire almeno:",
+    "options": [
+      "Trimestralmente, indipendentemente dalle quantità in deposito",
+      "Mensilmente",
+      "Semestralmente",
+      "Solo a fine lavori"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 41",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=41"
+  },
+  {
+    "id": "L6-045",
+    "topic": "A3A - limiti volumetrici",
+    "q": "Secondo le slide, il deposito temporaneo è regolare se l’invio avviene quando si raggiungono complessivamente:",
+    "options": [
+      "30 m³ totali di cui max 10 m³ di rifiuti pericolosi",
+      "10 m³ totali di cui max 3 m³ pericolosi",
+      "50 m³ totali senza limiti pericolosi",
+      "5 m³ totali"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 41",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=41"
+  },
+  {
+    "id": "L6-046",
+    "topic": "A3A - codici CER",
+    "q": "Secondo le slide, l’identificazione tipologie rifiuti in deposito temporaneo è regolare se:",
+    "options": [
+      "Rifiuti separati per tipologie omogenee e identificati da codice CER; per pericolosi contenitore per ogni codice e assenza contaminazione",
+      "Rifiuti miscelati per ridurre volumi",
+      "Codice CER non necessario se il cantiere è piccolo",
+      "Basta avere un unico contenitore"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 41",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=41"
+  },
+  {
+    "id": "L6-047",
+    "topic": "A3A - apparecchiature in olio e ADR",
+    "q": "Secondo le slide, per apparecchiature in olio con PCB il trasporto deve rispettare:",
+    "options": [
+      "Normativa ADR (richiamo UN 2315) con attenzione anche al rischio incendio (idoneo estintore)",
+      "Solo POS",
+      "Solo PSC",
+      "Solo indicazioni verbali del PL"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 42",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=42"
+  },
+  {
+    "id": "L6-048",
+    "topic": "NC GR - conseguenze",
+    "q": "In caso di NC con gravità rilevante, la slide prevede (tra le azioni):",
+    "options": [
+      "Sospensione preposto; remediation plan; indicatore VR; possibile intensificazione controlli; escalation fino a sospensione totale lavori",
+      "Solo richiamo verbale",
+      "Solo aggiornamento POS",
+      "Solo formazione facoltativa"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 46",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=46"
+  },
+  {
+    "id": "L6-049",
+    "topic": "NC GR - soglie",
+    "q": "Secondo la slide, se l’impresa ha avuto 4 preposti sospesi negli ultimi 90 giorni, l’azione prevista è:",
+    "options": [
+      "Sospensione totale lavori sul contratto",
+      "Nessuna azione, solo VR",
+      "Sospensione parziale solo in una DTR",
+      "Solo audit documentale"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 46",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=46"
+  },
+  {
+    "id": "L6-050",
+    "topic": "NC GR - esempi",
+    "q": "Quale tra questi è un esempio di NC “Gravità Rilevante” riportato nelle slide (scheda 37)?",
+    "options": [
+      "Dispositivi di equipotenzialità/continuità applicati correttamente (item 18) / DPI rischio elettrico correttamente indossati (item 22)",
+      "Presenza cartello cantiere",
+      "Rifiuti separati correttamente",
+      "Presenza valutazione impatto acustico"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 6 — pag. 47-49",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-6-controlli-cantiere.pdf#page=47"
+  }
+]

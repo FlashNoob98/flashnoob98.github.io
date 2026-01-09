@@ -29,6 +29,11 @@
         "id": "lezione_5_esecuzione_di_giunti",
         "title": "Lezione 5 — Esecuzione di giunti",
         "file": "questions/questions_lezione_5_esecuzione_di_giunti.json"
+    },
+    {
+        "id": "lezione_6_controlli_cantiere",
+        "title": "Lezione 6 — Controlli cantiere (CCO, schede A1/A2/A3A, VR, NC)",
+        "file": "questions/questions_lezione_6_controlli_cantiere.json"
     }
   ]
 }
