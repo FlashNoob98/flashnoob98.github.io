@@ -1,0 +1,203 @@
+[
+  {
+    "id": "81-26-01",
+    "topic": "Appalti e Interferenze",
+    "q": "A cosa serve il DUVRI?",
+    "options": [
+      "A sostituire il POS dell’impresa",
+      "A gestire i rischi da interferenze tra committente e appaltatori",
+      "A certificare l’idoneità sanitaria",
+      "A valutare solo i rischi chimici"
+    ],
+    "answerIndex": 1,
+    "refLabel": "D.Lgs. 81/2008 — art. 26 (Normattiva)",
+    "refUrl": { "normattivaQuery": "decreto legislativo 81 2008 articolo 26" }
+  },
+  {
+    "id": "81-17-01",
+    "topic": "Datore di Lavoro",
+    "q": "Quali obblighi del Datore di Lavoro sono non delegabili?",
+    "options": [
+      "Consegna DPI ai lavoratori",
+      "Valutazione di tutti i rischi ed elaborazione del DVR",
+      "Nomina del medico competente in ogni caso",
+      "Riunione periodica annuale sempre obbligatoria"
+    ],
+    "answerIndex": 1,
+    "refLabel": "D.Lgs. 81/2008 — art. 17 (Normattiva)",
+    "refUrl": { "normattivaQuery": "decreto legislativo 81 2008 articolo 17" }
+  },
+  {
+    "id": "81-PRE-01",
+    "topic": "Preposto",
+    "q": "Chi è il preposto (logica operativa)?",
+    "options": [
+      "Chi firma il DVR",
+      "Chi sovrintende e vigila sull’attività lavorativa in campo",
+      "Chi ha potere di spesa",
+      "Chi redige il PSC"
+    ],
+    "answerIndex": 1,
+    "refLabel": "D.Lgs. 81/2008 — art. 19 (Normattiva)",
+    "refUrl": { "normattivaQuery": "decreto legislativo 81 2008 articolo 19" }
+  },
+  {
+    "id": "81-T4-PSC-01",
+    "topic": "Cantieri — Titolo IV",
+    "q": "Quando è obbligatorio il PSC (regola generale)?",
+    "options": [
+      "Sempre, anche con una sola impresa",
+      "Quando sono previste più imprese (anche non contemporanee) in cantiere",
+      "Solo se lo chiede l’RSPP",
+      "Solo sopra 200 uomini-giorno"
+    ],
+    "answerIndex": 1,
+    "refLabel": "D.Lgs. 81/2008 — Titolo IV (Normattiva)",
+    "refUrl": { "normattivaQuery": "decreto legislativo 81 2008 titolo IV PSC" }
+  },
+
+  {
+    "id": "EL-5RO-01",
+    "topic": "Rischio Elettrico — 5 Regole d’Oro",
+    "q": "Qual è la sequenza corretta delle prime tre “Regole d’Oro” per lavori fuori tensione (Enel)?",
+    "options": [
+      "Verificare assenza tensione → sezionare → mettere a terra",
+      "Sezionare tutte le fonti → assicurarsi contro richiusure/cartelli → verificare assenza di tensione",
+      "Mettere a terra → sezionare → delimitare area",
+      "Sezionare → delimitare area → iniziare i lavori"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Enel Global Procurement — HSE Terms Italia (5 Regole d’Oro, documento pubblico)",
+    "refUrl": "https://globalprocurement.enel.com/content/dam/enel-gp/documents/contractual-standards/hse-terms/ed3/HSEIT01_Condizioni_di_Salute_Sicurezza_e_Ambiente_per_lavori_e_servizi_in_sito_Italia_ed.3.pdf"
+  },
+  {
+    "id": "EL-5RO-02",
+    "topic": "Rischio Elettrico — 5 Regole d’Oro",
+    "q": "Tra le “Regole d’Oro”, quale misura crea la condizione di equipotenzialità (o equivalente)?",
+    "options": [
+      "Apporre cartelli monitori",
+      "Messa a terra e in cortocircuito (e/o metodi equivalenti)",
+      "Verifica assenza tensione",
+      "Sezionamento delle fonti"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Enel Global Procurement — HSE Terms Italia (5 Regole d’Oro, documento pubblico)",
+    "refUrl": "https://globalprocurement.enel.com/content/dam/enel-gp/documents/contractual-standards/hse-terms/ed3/HSEIT01_Condizioni_di_Salute_Sicurezza_e_Ambiente_per_lavori_e_servizi_in_sito_Italia_ed.3.pdf"
+  },
+
+  {
+    "id": "MODART26-01",
+    "topic": "ModArt26 / Interferenze",
+    "q": "Il ModArt26 (in contesto utility) è tipicamente usato per:",
+    "options": [
+      "Sostituire il DVR aziendale",
+      "Formalizzare informazioni/prescrizioni e coordinamento sui rischi specifici/interferenze ai sensi dell’art. 26",
+      "Registrare solo le presenze giornaliere",
+      "Gestire esclusivamente la sorveglianza sanitaria"
+    ],
+    "answerIndex": 1,
+    "refLabel": "D.Lgs. 81/2008 — art. 26 (Normattiva) + modulistica interna (se applicabile)",
+    "refUrl": { "normattivaQuery": "decreto legislativo 81 2008 articolo 26 duvri interferenze" }
+  },
+
+  {
+    "id": "152-DEF-01",
+    "topic": "Rifiuti — Definizioni",
+    "q": "Secondo il D.Lgs. 152/2006, un “rifiuto” è:",
+    "options": [
+      "Qualsiasi materiale destinato a riciclo",
+      "Qualsiasi sostanza/oggetto di cui il detentore si disfi o abbia intenzione/obbligo di disfarsi",
+      "Solo i rifiuti urbani",
+      "Solo i rifiuti pericolosi"
+    ],
+    "answerIndex": 1,
+    "refLabel": "D.Lgs. 152/2006 — definizione di rifiuto (Normattiva)",
+    "refUrl": { "normattivaQuery": "decreto legislativo 152 2006 articolo 183 definizione rifiuto" }
+  },
+  {
+    "id": "152-EER-01",
+    "topic": "Rifiuti — Classificazione EER (ex CER)",
+    "q": "Chi attribuisce correttamente il codice EER (ex CER) al rifiuto prodotto?",
+    "options": [
+      "Il trasportatore",
+      "Il produttore/detentore del rifiuto",
+      "L’impianto di destino",
+      "Il committente sempre"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Classificazione rifiuti e attribuzione EER (Normattiva + indicazioni enti pubblici)",
+    "refUrl": { "normattivaQuery": "decreto legislativo 152 2006 allegato D elenco europeo rifiuti EER" }
+  },
+  {
+    "id": "152-FIR-01",
+    "topic": "Rifiuti — Trasporto (FIR)",
+    "q": "Durante il trasporto dei rifiuti effettuato da enti/imprese, il rifiuto deve essere accompagnato da:",
+    "options": [
+      "Solo DDT",
+      "Formulario di Identificazione del Rifiuto (FIR) con i dati minimi previsti",
+      "Solo registro carico/scarico",
+      "Solo foto geolocalizzate"
+    ],
+    "answerIndex": 1,
+    "refLabel": "D.Lgs. 152/2006 — art. 193 (Normattiva)",
+    "refUrl": { "normattivaQuery": "decreto legislativo 152 2006 articolo 193 formulario identificazione rifiuti" }
+  },
+  {
+    "id": "152-RENTRI-01",
+    "topic": "Rifiuti — Tracciabilità (RENTRI)",
+    "q": "Il RENTRI riguarda principalmente:",
+    "options": [
+      "Solo i rifiuti urbani",
+      "Digitalizzazione/gestione della tracciabilità (registri/FIR) per soggetti obbligati",
+      "Solo i rifiuti non pericolosi",
+      "Solo il trasporto ADR"
+    ],
+    "answerIndex": 1,
+    "refLabel": "RENTRI — scadenze e obblighi (Normativa e comunicazioni di settore)",
+    "refUrl": "https://www.ambientesicurezzanews.it/in-evidenza/rentri-scadenze-13-febbraio-2026.php"
+  },
+
+  {
+    "id": "TRS-01",
+    "topic": "Terre e Rocce da Scavo",
+    "q": "Le terre e rocce da scavo possono essere gestite come “sottoprodotto” (non rifiuto) se:",
+    "options": [
+      "Sempre, in ogni caso",
+      "Ricorrono le condizioni previste dalla disciplina dedicata (es. DPR 120/2017) e requisiti di utilizzo",
+      "Solo se pericolose",
+      "Solo con FIR"
+    ],
+    "answerIndex": 1,
+    "refLabel": "DPR 120/2017 — terre e rocce da scavo (ricerca Normattiva)",
+    "refUrl": { "normattivaQuery": "DPR 120 2017 terre e rocce da scavo sottoprodotto" }
+  },
+
+  {
+    "id": "QUOTA-01",
+    "topic": "Lavori in Quota",
+    "q": "Un “lavoro in quota” è un’attività che espone il lavoratore:",
+    "options": [
+      "A un rischio generico di inciampo",
+      "Al rischio di caduta da una quota posta ad altezza superiore a 2 metri rispetto a un piano stabile",
+      "Solo al rischio elettrico",
+      "Solo quando si usa una PLE"
+    ],
+    "answerIndex": 1,
+    "refLabel": "D.Lgs. 81/2008 — definizioni lavori in quota (Normattiva)",
+    "refUrl": { "normattivaQuery": "decreto legislativo 81 2008 definizione lavori in quota 2 metri" }
+  },
+  {
+    "id": "PLE-01",
+    "topic": "PLE (Piattaforme Mobili)",
+    "q": "Le PLE (ponti mobili sviluppabili su carro) rientrano tra le attrezzature soggette a:",
+    "options": [
+      "Nessuna verifica specifica",
+      "Verifiche periodiche secondo l’Allegato VII del D.Lgs. 81/08 (ove applicabile)",
+      "Solo manutenzione facoltativa",
+      "Solo controllo visivo annuale"
+    ],
+    "answerIndex": 1,
+    "refLabel": "INAIL — PLE nei cantieri (guida pubblica) + riferimenti 81/08",
+    "refUrl": "https://www.aslcn2.it/media/2023/12/PLE-NEI-CANTIERI-INAIL.pdf"
+  }
+]

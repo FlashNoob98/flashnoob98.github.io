@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Quiz HSE — D.Lgs. 81/08 (10 domande random)</title>
+  <title>Quiz HSE — 10 domande random</title>
   <style>
     :root { --bg:#0b1220; --card:#111a2e; --text:#e9eefc; --muted:#aab6d3; --ok:#22c55e; --bad:#ef4444; --accent:#60a5fa; }
     body { margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial; background: var(--bg); color: var(--text); }
@@ -13,7 +13,7 @@
     .meta { color: var(--muted); font-size: 13px; margin-bottom: 14px; display:flex; gap:12px; flex-wrap:wrap; }
     .q { font-size: 16px; margin: 0 0 12px; line-height: 1.35; }
     .opts { display: grid; gap: 10px; }
-    button.opt { text-align:left; padding: 12px 12px; border-radius: 12px; border: 1px solid rgba(255,255,255,.12); background: rgba(255,255,255,.04); color: var(--text); cursor:pointer; }
+    button.opt { text-align:left; padding: 12px; border-radius: 12px; border: 1px solid rgba(255,255,255,.12); background: rgba(255,255,255,.04); color: var(--text); cursor:pointer; }
     button.opt:hover { border-color: rgba(96,165,250,.7); }
     button.opt[disabled] { cursor: default; opacity: .92; }
     .feedback { margin-top: 12px; padding: 12px; border-radius: 12px; border: 1px solid rgba(255,255,255,.10); background: rgba(255,255,255,.03); }
@@ -29,17 +29,17 @@
     .small { font-size: 12px; color: var(--muted); }
     .pill { display:inline-flex; align-items:center; gap:6px; padding: 4px 10px; border-radius: 999px; border:1px solid rgba(255,255,255,.12); background: rgba(255,255,255,.04); }
     .score { font-weight: 600; }
-    code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
   </style>
 </head>
 <body>
   <div class="wrap">
     <div class="card">
-      <h1>Quiz HSE — D.Lgs. 81/08 & Cantieri (10 domande random)</h1>
+      <h1>Quiz HSE — D.Lgs. 81/08 + Rischio Elettrico + Rifiuti + Quota/PLE</h1>
       <div class="meta">
         <span class="pill">Domanda <span id="idx">1</span>/10</span>
         <span class="pill">Punteggio <span class="score" id="score">0</span></span>
         <span class="pill">Seed <span id="seed"></span></span>
+        <span class="pill">Pool <span id="poolSize">-</span></span>
       </div>
 
       <div class="progress"><div class="bar" id="bar"></div></div>
@@ -57,349 +57,116 @@
       </div>
 
       <div class="small" style="margin-top:10px;">
-        Riferimenti: link pubblici a Normattiva via ricerca “semplice”. Nessun contenuto interno.
+        Question bank esterno: <code>questions.json</code>. Riferimenti: link pubblici (Normattiva / fonti pubbliche).
       </div>
     </div>
   </div>
 
 <script>
-/** ====== Normattiva deep-link helper (robusto) ======
- * Usa la ricerca semplice per puntare all'articolo/titolo richiesto.
- */
-function normattivaSearch(queryText){
-  const q = encodeURIComponent(queryText);
-  return `https://www.normattiva.it/ricerca/semplice?testo=${q}`;
-}
-function ref81Art(n){
-  return {
-    refLabel: `D.Lgs. 81/2008 — art. ${n} (Normattiva)`,
-    refUrl: normattivaSearch(`decreto legislativo 81 2008 articolo ${n}`)
-  };
-}
-function ref81Title(titleRoman){
-  return {
-    refLabel: `D.Lgs. 81/2008 — Titolo ${titleRoman} (Normattiva)`,
-    refUrl: normattivaSearch(`decreto legislativo 81 2008 titolo ${titleRoman}`)
-  };
-}
-function ref81Annex(annex){
-  return {
-    refLabel: `D.Lgs. 81/2008 — Allegato ${annex} (Normattiva)`,
-    refUrl: normattivaSearch(`decreto legislativo 81 2008 allegato ${annex}`)
-  };
-}
-
-/** ====== Dataset domande ======
- * { id, topic, q, options:[], answerIndex, refLabel, refUrl }
- * Aggiungi domande espandendo QUESTION_BANK (consigliato: 30-100 per maggiore randomicità).
- */
-const QUESTION_BANK = [
-  {
-    id: "Q1",
-    topic: "Interferenze",
-    q: "A cosa serve il DUVRI?",
-    options: [
-      "A valutare i rischi specifici di un singolo lavoratore",
-      "A valutare e gestire i rischi da interferenze tra committente e appaltatori",
-      "A sostituire il POS dell’impresa",
-      "A certificare l’idoneità sanitaria"
-    ],
-    answerIndex: 1,
-    ...ref81Art(26)
-  },
-  {
-    id: "Q2",
-    topic: "Titolo IV — Cantieri",
-    q: "Quando, in generale, si attivano gli obblighi del Titolo IV (cantieri temporanei o mobili)?",
-    options: [
-      "Quando c’è qualunque attività di manutenzione ordinaria",
-      "Quando c’è un’opera edile/ingegneria civile in un cantiere con impresa/e esecutrici",
-      "Solo quando il committente lo richiede espressamente",
-      "Solo se si usano macchine operatrici"
-    ],
-    answerIndex: 1,
-    ...ref81Title("IV")
-  },
-  {
-    id: "Q3",
-    topic: "Preposto",
-    q: "Chi è il preposto secondo il D.Lgs. 81/08?",
-    options: [
-      "Chi ha potere di spesa e firma il DVR",
-      "Chi sovrintende l’attività lavorativa e vigila sul rispetto delle misure di sicurezza",
-      "Il medico competente",
-      "Il coordinatore CSP"
-    ],
-    answerIndex: 1,
-    ...ref81Art(19)
-  },
-  {
-    id: "Q4",
-    topic: "Datore di lavoro — obblighi non delegabili",
-    q: "Quali obblighi del Datore di Lavoro sono non delegabili (hard law)?",
-    options: [
-      "Nomina del preposto e gestione DPI",
-      "Valutazione di tutti i rischi ed elaborazione del DVR",
-      "Formazione dei lavoratori e consegna attrezzature",
-      "Sopralluoghi giornalieri in cantiere"
-    ],
-    answerIndex: 1,
-    ...ref81Art(17)
-  },
-  {
-    id: "Q5",
-    topic: "PSC vs DUVRI",
-    q: "In un cantiere Titolo IV con PSC, il DUVRI…",
-    options: [
-      "È sempre obbligatorio e si somma al PSC",
-      "È sostituito dal PSC (resta comunque il coordinamento operativo)",
-      "Sostituisce il PSC",
-      "Non è mai necessario coordinare le interferenze"
-    ],
-    answerIndex: 1,
-    ...ref81Title("IV")
-  },
-  {
-    id: "Q6",
-    topic: "CSP / CSE",
-    q: "Qual è la differenza corretta tra CSP e CSE?",
-    options: [
-      "CSP opera in esecuzione, CSE in progettazione",
-      "CSP redige il PSC in progettazione; CSE coordina e verifica in esecuzione e può sospendere in caso di pericolo grave e imminente",
-      "Entrambi fanno solo formazione",
-      "CSE redige il DVR aziendale"
-    ],
-    answerIndex: 1,
-    ...ref81Title("IV")
-  },
-  {
-    id: "Q7",
-    topic: "Interferenze — oltre il documento",
-    q: "In presenza di interferenze, oltre al DUVRI cosa è richiesto in pratica?",
-    options: [
-      "Solo archiviare il documento",
-      "Cooperazione e coordinamento effettivi (briefing, procedure condivise, vigilanza)",
-      "Solo aggiornare il DVR del committente",
-      "Solo nominare un RLS"
-    ],
-    answerIndex: 1,
-    ...ref81Art(26)
-  },
-  {
-    id: "Q8",
-    topic: "Preposto di fatto",
-    q: "Quando una persona è 'preposto di fatto'?",
-    options: [
-      "Solo se nominata per iscritto",
-      "Quando svolge concretamente funzioni di sovrintendenza e vigilanza anche senza nomina formale",
-      "Quando firma il PSC",
-      "Quando è l’unico presente in cantiere"
-    ],
-    answerIndex: 1,
-    ...ref81Art(19)
-  },
-  {
-    id: "Q9",
-    topic: "Idoneità tecnico-professionale",
-    q: "Il committente, negli appalti, deve verificare…",
-    options: [
-      "Solo il badge di ingresso",
-      "L’idoneità tecnico-professionale dell’impresa/appaltatore",
-      "Solo la patente del conducente",
-      "Solo la polizza RC"
-    ],
-    answerIndex: 1,
-    ...ref81Art(26)
-  },
-  {
-    id: "Q10",
-    topic: "Principi generali di prevenzione",
-    q: "Qual è l’ordine corretto delle misure di prevenzione/protezione?",
-    options: [
-      "DPI → protezioni collettive → eliminazione rischio",
-      "Eliminazione rischio → protezioni collettive → DPI",
-      "Formazione → DPI → eliminazione rischio",
-      "Segnaletica → DPI → eliminazione rischio"
-    ],
-    answerIndex: 1,
-    ...ref81Art(15)
-  },
-  {
-    id: "Q11",
-    topic: "Definizioni",
-    q: "Come si identifica il Datore di Lavoro ai sensi del D.Lgs. 81/08 (in sintesi)?",
-    options: [
-      "Solo chi è proprietario dell’azienda",
-      "Chi ha poteri decisionali e di spesa sull’organizzazione del lavoro",
-      "Solo chi firma i contratti di appalto",
-      "Solo chi è RSPP"
-    ],
-    answerIndex: 1,
-    ...ref81Art(2)
-  },
-  {
-    id: "Q12",
-    topic: "Formazione",
-    q: "La formazione in materia di sicurezza è…",
-    options: [
-      "Facoltativa, se l’azienda ha DPI",
-      "Obbligatoria e da aggiornare secondo rischio e mansione",
-      "Sostituibile con un’autodichiarazione",
-      "Solo per i preposti"
-    ],
-    answerIndex: 1,
-    ...ref81Art(37)
-  },
-  {
-    id: "Q13",
-    topic: "DPI",
-    q: "Quando si ricorre ai DPI secondo la gerarchia delle misure?",
-    options: [
-      "Sempre come prima misura",
-      "Quando non è possibile eliminare il rischio o proteggerlo con misure collettive sufficienti",
-      "Solo se richiesto dal lavoratore",
-      "Solo nei cantieri Titolo IV"
-    ],
-    answerIndex: 1,
-    ...ref81Art(15)
-  },
-  {
-    id: "Q14",
-    topic: "RSPP",
-    q: "Il Datore di Lavoro deve…",
-    options: [
-      "Nominare il RSPP nei casi previsti e garantirgli risorse/ruolo",
-      "Delegare al RSPP la firma del DVR",
-      "Assegnare al RSPP la sorveglianza sanitaria",
-      "Usare il RSPP come preposto in cantiere"
-    ],
-    answerIndex: 0,
-    ...ref81Art(17)
-  },
-  {
-    id: "Q15",
-    topic: "Sorveglianza sanitaria",
-    q: "La sorveglianza sanitaria è effettuata da…",
-    options: [
-      "RSPP",
-      "Medico Competente",
-      "RLS",
-      "CSE"
-    ],
-    answerIndex: 1,
-    ...ref81Art(41)
-  },
-  {
-    id: "Q16",
-    topic: "POS",
-    q: "Il POS è…",
-    options: [
-      "Il piano dell’impresa esecutrice riferito al singolo cantiere",
-      "Il documento del committente per le interferenze",
-      "Un documento facoltativo",
-      "Il piano dei Vigili del Fuoco"
-    ],
-    answerIndex: 0,
-    ...ref81Title("IV")
-  },
-  {
-    id: "Q17",
-    topic: "Notifica preliminare",
-    q: "La notifica preliminare nei cantieri è…",
-    options: [
-      "Sempre obbligatoria per qualunque lavoro edile",
-      "Obbligatoria solo al ricorrere di specifiche condizioni/soglie previste",
-      "Sostituibile con il DUVRI",
-      "Compito del preposto"
-    ],
-    answerIndex: 1,
-    ...ref81Title("IV")
-  },
-  {
-    id: "Q18",
-    topic: "Rischio interferenziale",
-    q: "Un rischio interferenziale è…",
-    options: [
-      "Il rischio interno di un’unica mansione senza contatti con altri soggetti",
-      "Il rischio che nasce dall’interazione tra attività di soggetti diversi nello stesso luogo/tempo",
-      "Solo il rischio elettrico",
-      "Solo il rischio chimico"
-    ],
-    answerIndex: 1,
-    ...ref81Art(26)
-  },
-  {
-    id: "Q19",
-    topic: "Sanzioni e responsabilità",
-    q: "La delega di funzioni in materia di sicurezza…",
-    options: [
-      "Elimina ogni responsabilità del Datore di Lavoro",
-      "È valida solo se scritta, accettata, con poteri e autonomia di spesa, e con adeguata competenza",
-      "Non è mai ammessa",
-      "Vale anche solo verbalmente"
-    ],
-    answerIndex: 1,
-    ...ref81Art(16)
-  },
-  {
-    id: "Q20",
-    topic: "Emergenze",
-    q: "Il piano e le misure di gestione emergenze devono essere…",
-    options: [
-      "Solo in forma orale",
-      "Definiti e comunicati ai lavoratori, con organizzazione e prove dove previsto",
-      "Delegati al solo RLS",
-      "Solo per aziende sopra 500 dipendenti"
-    ],
-    answerIndex: 1,
-    ...ref81Art(43)
+  // ====== Normattiva (ricerca veloce) ======
+  const NORMATTIVA_BASE = "https://www.normattiva.it/ricerca/veloce/0";
+  const TAB_ID = "0";
+  function normattivaVeloce(queryText){
+    const u = new URL(NORMATTIVA_BASE);
+    u.searchParams.set("tabID", TAB_ID);
+    u.searchParams.set("title", "lbl.risultatoRicerca");
+    u.searchParams.set("initBreadCrumb", "true");
+    u.searchParams.set("testo", queryText);
+    return u.toString();
   }
-];
 
-// ====== Utils ======
-function mulberry32(a){return function(){let t=a+=0x6D2B79F5;t=Math.imul(t^t>>>15,t|1);t^=t+Math.imul(t^t>>>7,t|61);return((t^t>>>14)>>>0)/4294967296}}
-function shuffle(arr, rng){
-  const a = arr.slice();
-  for(let i=a.length-1;i>0;i--){
-    const j = Math.floor(rng()*(i+1));
-    [a[i], a[j]] = [a[j], a[i]];
+  // ====== RNG / shuffle ======
+  function mulberry32(a){return function(){let t=a+=0x6D2B79F5;t=Math.imul(t^t>>>15,t|1);t^=t+Math.imul(t^t>>>7,t|61);return((t^t>>>14)>>>0)/4294967296}}
+  function shuffle(arr, rng){
+    const a = arr.slice();
+    for(let i=a.length-1;i>0;i--){
+      const j = Math.floor(rng()*(i+1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
   }
-  return a;
-}
-function qs(name){
-  const url = new URL(window.location.href);
-  return url.searchParams.get(name);
-}
-function setQS(name, value){
-  const url = new URL(window.location.href);
-  url.searchParams.set(name, value);
-  return url.toString();
+
+  function shuffleOptionsKeepAnswer(question, rng){
+  const opts = question.options.map((text, idx) => ({ text, idx }));
+  // shuffle dei pair {text, idxOriginale}
+  for(let i = opts.length - 1; i > 0; i--){
+    const j = Math.floor(rng() * (i + 1));
+    [opts[i], opts[j]] = [opts[j], opts[i]];
+  }
+  const newOptions = opts.map(o => o.text);
+  const newAnswerIndex = opts.findIndex(o => o.idx === question.answerIndex);
+
+  return {
+    ...question,
+    options: newOptions,
+    answerIndex: newAnswerIndex
+  };
 }
 
-// ====== App State ======
-let seed = Number(qs("seed")) || Math.floor(Math.random()*1e9);
-let rng = mulberry32(seed);
-let quiz = [];
-let i = 0;
-let score = 0;
-let locked = false;
+  function qs(name){
+    const url = new URL(window.location.href);
+    return url.searchParams.get(name);
+  }
+  function setQS(name, value){
+    const url = new URL(window.location.href);
+    url.searchParams.set(name, value);
+    return url.toString();
+  }
 
-const elIdx = document.getElementById("idx");
-const elScore = document.getElementById("score");
-const elSeed = document.getElementById("seed");
-const elBar = document.getElementById("bar");
-const elTopic = document.getElementById("topic");
-const elQ = document.getElementById("question");
-const elOpts = document.getElementById("options");
-const elFb = document.getElementById("feedback");
-const btnNext = document.getElementById("next");
-const btnRestart = document.getElementById("restart");
-const btnCopy = document.getElementById("copyLink");
+  // ====== App state ======
+  let seed = Number(qs("seed")) || Math.floor(Math.random()*1e9);
+  let rng = mulberry32(seed);
+  let QUESTION_BANK = [];
+  let quiz = [];
+  let i = 0;
+  let score = 0;
+  let locked = false;
+
+  const elIdx = document.getElementById("idx");
+  const elScore = document.getElementById("score");
+  const elSeed = document.getElementById("seed");
+  const elPool = document.getElementById("poolSize");
+  const elBar = document.getElementById("bar");
+  const elTopic = document.getElementById("topic");
+  const elQ = document.getElementById("question");
+  const elOpts = document.getElementById("options");
+  const elFb = document.getElementById("feedback");
+  const btnNext = document.getElementById("next");
+  const btnRestart = document.getElementById("restart");
+  const btnCopy = document.getElementById("copyLink");
+
+  function validateBank(bank){
+    if(!Array.isArray(bank) || bank.length < 10) throw new Error("Question bank non valido o troppo piccolo (min 10).");
+    bank.forEach((q, idx) => {
+      const req = ["id","topic","q","options","answerIndex","refLabel","refUrl"];
+      req.forEach(k => { if(!(k in q)) throw new Error(`Domanda #${idx} manca campo: ${k}`); });
+      if(!Array.isArray(q.options) || q.options.length < 2) throw new Error(`Domanda ${q.id}: options non valide`);
+      if(typeof q.answerIndex !== "number" || q.answerIndex < 0 || q.answerIndex >= q.options.length) throw new Error(`Domanda ${q.id}: answerIndex non valido`);
+      // helper opzionale: se vuoi, consenti refUrl = { normattivaQuery: "..." }
+      if(typeof q.refUrl === "object" && q.refUrl && q.refUrl.normattivaQuery){
+        q.refUrl = normattivaVeloce(q.refUrl.normattivaQuery);
+      }
+    });
+  }
+
+  async function loadBank(){
+    const res = await fetch("./questions.json", { cache: "no-store" });
+    if(!res.ok) throw new Error(`Errore caricamento questions.json (${res.status})`);
+    const bank = await res.json();
+    validateBank(bank);
+    QUESTION_BANK = bank;
+    elPool.textContent = String(QUESTION_BANK.length);
+  }
 
 function buildQuiz(){
   rng = mulberry32(seed);
-  const pool = shuffle(QUESTION_BANK, rng);
-  quiz = pool.slice(0, 10);
+
+  // shuffle pool e prendi 10
+  const pool = shuffle(QUESTION_BANK, rng).slice(0, 10);
+
+  // shuffle opzioni per ciascuna domanda (usando lo stesso rng)
+  quiz = pool.map(q => shuffleOptionsKeepAnswer(q, rng));
+
   i = 0;
   score = 0;
   locked = false;
@@ -407,101 +174,109 @@ function buildQuiz(){
   render();
 }
 
-function render(){
-  const q = quiz[i];
-  elIdx.textContent = (i+1);
-  elScore.textContent = score;
-  elBar.style.width = `${(i/10)*100}%`;
-  elTopic.textContent = `Topic: ${q.topic}`;
-  elQ.textContent = q.q;
 
-  elOpts.innerHTML = "";
-  elFb.innerHTML = "";
-  btnNext.disabled = true;
-  locked = false;
+  function render(){
+    const q = quiz[i];
+    elIdx.textContent = (i+1);
+    elScore.textContent = score;
+    elBar.style.width = `${(i/10)*100}%`;
+    elTopic.textContent = `Topic: ${q.topic}`;
+    elQ.textContent = q.q;
 
-  q.options.forEach((opt, idx) => {
-    const b = document.createElement("button");
-    b.className = "opt";
-    b.textContent = opt;
-    b.onclick = () => choose(idx);
-    elOpts.appendChild(b);
-  });
-
-  btnNext.textContent = (i === 9) ? "Vedi risultato" : "Avanti";
-}
-
-function choose(idx){
-  if(locked) return;
-  locked = true;
-
-  const q = quiz[i];
-  const ok = idx === q.answerIndex;
-
-  [...elOpts.querySelectorAll("button.opt")].forEach((b, j) => {
-    b.disabled = true;
-    if(j === q.answerIndex) b.style.borderColor = "rgba(34,197,94,.8)";
-    if(j === idx && !ok) b.style.borderColor = "rgba(239,68,68,.8)";
-  });
-
-  if(ok) score++;
-
-  elFb.innerHTML = `
-    <div class="feedback ${ok ? "ok" : "bad"}">
-      <div style="font-weight:600;margin-bottom:6px;">
-        ${ok ? "Corretto" : "Errato"}.
-      </div>
-      <div style="color: var(--muted); margin-bottom:8px;">
-        Riferimento: <a href="${q.refUrl}" target="_blank" rel="noopener">${q.refLabel}</a>
-      </div>
-      <div class="small">
-        Il link apre la ricerca Normattiva sul riferimento indicato.
-      </div>
-    </div>
-  `;
-
-  elScore.textContent = score;
-  btnNext.disabled = false;
-  elBar.style.width = `${((i+1)/10)*100}%`;
-}
-
-btnNext.onclick = () => {
-  if(i < 9){
-    i++;
-    render();
-  } else {
-    elBar.style.width = "100%";
-    elQ.textContent = `Fine quiz. Score: ${score}/10`;
-    elTopic.textContent = "Risultato";
     elOpts.innerHTML = "";
-    elFb.innerHTML = `<div class="feedback">
-      <div style="font-weight:600;margin-bottom:6px;">KPI: ${score}/10</div>
-      <div class="small">Clicca “Nuovo quiz” per estrarre 10 domande random dal pool.</div>
-    </div>`;
+    elFb.innerHTML = "";
     btnNext.disabled = true;
+    locked = false;
+
+    q.options.forEach((opt, idx) => {
+      const b = document.createElement("button");
+      b.className = "opt";
+      b.textContent = opt;
+      b.onclick = () => choose(idx);
+      elOpts.appendChild(b);
+    });
+
+    btnNext.textContent = (i === 9) ? "Vedi risultato" : "Avanti";
   }
-};
 
-btnRestart.onclick = () => {
-  seed = Math.floor(Math.random()*1e9);
-  history.replaceState(null, "", setQS("seed", seed));
-  buildQuiz();
-};
+  function choose(idx){
+    if(locked) return;
+    locked = true;
 
-btnCopy.onclick = async () => {
-  const link = setQS("seed", seed);
-  try{
-    await navigator.clipboard.writeText(link);
-    btnCopy.textContent = "Link copiato";
-    setTimeout(()=>btnCopy.textContent="Copia link (stesso seed)", 1200);
-  } catch(e){
-    prompt("Copia questo link:", link);
+    const q = quiz[i];
+    const ok = idx === q.answerIndex;
+
+    [...elOpts.querySelectorAll("button.opt")].forEach((b, j) => {
+      b.disabled = true;
+      if(j === q.answerIndex) b.style.borderColor = "rgba(34,197,94,.8)";
+      if(j === idx && !ok) b.style.borderColor = "rgba(239,68,68,.8)";
+    });
+
+    if(ok) score++;
+
+    elFb.innerHTML = `
+      <div class="feedback ${ok ? "ok" : "bad"}">
+        <div style="font-weight:600;margin-bottom:6px;">
+          ${ok ? "Corretto" : "Errato"}.
+        </div>
+        <div style="color: var(--muted); margin-bottom:8px;">
+          Riferimento: <a href="${q.refUrl}" target="_blank" rel="noopener">${q.refLabel}</a>
+        </div>
+      </div>
+    `;
+
+    elScore.textContent = score;
+    btnNext.disabled = false;
+    elBar.style.width = `${((i+1)/10)*100}%`;
   }
-};
 
-// init
-history.replaceState(null, "", setQS("seed", seed));
-buildQuiz();
+  btnNext.onclick = () => {
+    if(i < 9){
+      i++;
+      render();
+    } else {
+      elBar.style.width = "100%";
+      elQ.textContent = `Fine quiz. Score: ${score}/10`;
+      elTopic.textContent = "Risultato";
+      elOpts.innerHTML = "";
+      elFb.innerHTML = `<div class="feedback">
+        <div style="font-weight:600;margin-bottom:6px;">KPI: ${score}/10</div>
+        <div class="small">“Nuovo quiz” estrae altre 10 domande random dal pool.</div>
+      </div>`;
+      btnNext.disabled = true;
+    }
+  };
+
+  btnRestart.onclick = () => {
+    seed = Math.floor(Math.random()*1e9);
+    history.replaceState(null, "", setQS("seed", seed));
+    buildQuiz();
+  };
+
+  btnCopy.onclick = async () => {
+    const link = setQS("seed", seed);
+    try{
+      await navigator.clipboard.writeText(link);
+      btnCopy.textContent = "Link copiato";
+      setTimeout(()=>btnCopy.textContent="Copia link (stesso seed)", 1200);
+    } catch(e){
+      prompt("Copia questo link:", link);
+    }
+  };
+
+  // init
+  (async function init(){
+    history.replaceState(null, "", setQS("seed", seed));
+    try{
+      await loadBank();
+      buildQuiz();
+    } catch(err){
+      elTopic.textContent = "Errore caricamento";
+      elQ.textContent = err.message || String(err);
+      elOpts.innerHTML = "";
+      btnNext.disabled = true;
+    }
+  })();
 </script>
 </body>
 </html>
