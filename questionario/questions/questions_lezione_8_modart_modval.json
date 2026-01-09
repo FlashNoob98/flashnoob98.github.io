@@ -1,0 +1,590 @@
+[
+  {
+    "id": "L8-001",
+    "topic": "ModVal - definizione",
+    "q": "Secondo le slide, cos’è il ModVal?",
+    "options": [
+      "Un POS dell’impresa esecutrice",
+      "Un documento interno e-distribuzione che riporta valutazione/pianificazione lavori e sintesi adempimenti per l’esecuzione in sicurezza",
+      "Un DUVRI standard valido per ogni appalto",
+      "Un verbale di coordinamento (All. 20)"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 62",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=62"
+  },
+  {
+    "id": "L8-002",
+    "topic": "ModVal - firma e verifica",
+    "q": "Il ModVal viene:",
+    "options": [
+      "Sottoscritto dall’impresa appaltatrice e verificato dal CSE",
+      "Sottoscritto dall’incaricato e-distribuzione e verificato dal Referente",
+      "Sottoscritto dal RSPP e verificato dal Datore di Lavoro",
+      "Firmato solo se c’è PSC"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 62",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=62"
+  },
+  {
+    "id": "L8-003",
+    "topic": "ModVal - archiviazione",
+    "q": "Secondo le slide, il ModVal deve essere archiviato:",
+    "options": [
+      "Solo in email al preposto",
+      "In idonea cartella, congiuntamente alla LCL",
+      "Solo nel POS dell’impresa",
+      "Solo nel fascicolo dell’opera"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 62",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=62"
+  },
+  {
+    "id": "L8-004",
+    "topic": "ModVal - urgenze",
+    "q": "Per le prestazioni urgenti, la compilazione del ModVal è:",
+    "options": [
+      "Sempre obbligatoria",
+      "Non necessaria",
+      "Obbligatoria solo se uomini-giorno ≥ 200",
+      "Obbligatoria solo se ci sono subappalti"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 62",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=62"
+  },
+  {
+    "id": "L8-005",
+    "topic": "ModVal - urgenze e più imprese",
+    "q": "In urgenza, se è necessario far intervenire più imprese (es. rinvenimento canalette in amianto), il Committente deve prevedere:",
+    "options": [
+      "La nomina del CSP",
+      "La nomina del CSE per azioni di coordinamento e controllo",
+      "La nomina dell’RSPP dell’impresa",
+      "La sola notifica preliminare"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 62",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=62"
+  },
+  {
+    "id": "L8-006",
+    "topic": "ModVal - struttura",
+    "q": "Il modello ModVal è costituito da:",
+    "options": [
+      "Una sola parte",
+      "Due parti: A e B",
+      "Tre parti: A, B e C",
+      "Quattro sezioni (A1-A4)"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 63",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=63"
+  },
+  {
+    "id": "L8-007",
+    "topic": "ModVal Parte A",
+    "q": "Quale informazione è esplicitamente indicata tra quelle da riportare nella Parte A del ModVal?",
+    "options": [
+      "Estremi del contratto d’appalto (n° e data)",
+      "Numero di matricola dei DPI",
+      "Registro infortuni dell’impresa",
+      "Piano di emergenza interno aziendale"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 8 — pag. 63",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=63"
+  },
+  {
+    "id": "L8-008",
+    "topic": "ModVal Parte A - check Titolo IV",
+    "q": "A completamento della Parte A, le slide prevedono di indicare se nel cantiere si effettueranno:",
+    "options": [
+      "Attività di marketing territoriale",
+      "Lavori edili/ingegneria civile ricadenti nell’Allegato X (Titolo IV)",
+      "Solo lavori BT in tensione",
+      "Solo attività di collaudo"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 63",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=63"
+  },
+  {
+    "id": "L8-009",
+    "topic": "ModVal - Parte B",
+    "q": "Secondo le slide, la Parte B del ModVal è:",
+    "options": [
+      "Un allegato facoltativo",
+      "Suddivisa in due sottosezioni alternative in base al numero di imprese previste",
+      "Sempre identica a prescindere dalle imprese",
+      "Usata solo per impianti primari"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 64",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=64"
+  },
+  {
+    "id": "L8-010",
+    "topic": "Notifica preliminare",
+    "q": "Nello schema del ModVal (Sez. B1), la notifica preliminare ad ASL e DPL è prevista quando l’entità presunta di lavoro è:",
+    "options": [
+      "≥ 30 giorni",
+      "≥ 200 uomini-giorno",
+      "≥ 10 uomini-giorno",
+      "Sempre"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 63",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=63"
+  },
+  {
+    "id": "L8-011",
+    "topic": "Titolo IV - esempi (linee aeree)",
+    "q": "Tra le attività tipiche commissionate da e-distribuzione ricadenti nel Titolo IV per linee elettriche aeree, le slide indicano:",
+    "options": [
+      "Taglio piante",
+      "Scavi per fondazioni, posa sostegni e relative demolizioni",
+      "Ispezioni",
+      "Sostituzione soli isolatori"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=10"
+  },
+  {
+    "id": "L8-012",
+    "topic": "Titolo IV - esempi (cavo interrato)",
+    "q": "Tra le attività tipiche ricadenti nel Titolo IV per linee in cavo interrato, le slide indicano:",
+    "options": [
+      "Infilaggio e sfilaggio conduttori senza scavo",
+      "Scavi per posa direttamente interrata o canalizzazioni, trivellazioni orizzontali, rifacimenti pavimentazioni stradali",
+      "Sfalcio erba",
+      "Verifiche impianti di terra"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=10"
+  },
+  {
+    "id": "L8-013",
+    "topic": "Non Titolo IV - esempi (linee aeree)",
+    "q": "Tra le attività tipiche NON ricadenti nel Titolo IV per linee elettriche aeree, le slide indicano:",
+    "options": [
+      "Scavi per fondazioni",
+      "Posa sostegni",
+      "Sostituzione di soli isolatori e/o conduttori",
+      "Demolizioni"
+    ],
+    "answerIndex": 2,
+    "refLabel": "Lezione 8 — pag. 11",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=11"
+  },
+  {
+    "id": "L8-014",
+    "topic": "Non Titolo IV - esempi (cavo interrato)",
+    "q": "Tra le attività tipiche NON ricadenti nel Titolo IV per linee in cavo interrato, le slide indicano:",
+    "options": [
+      "Scavi per canalizzazioni",
+      "Infilaggio e sfilaggio di conduttori senza opere di scavo",
+      "Trivellazioni orizzontali",
+      "Rifacimento pavimentazioni stradali"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 11",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=11"
+  },
+  {
+    "id": "L8-015",
+    "topic": "Schema documenti - più imprese e Titolo IV",
+    "q": "Secondo la schematizzazione, se l’attività è Titolo IV e intervengono più imprese (anche non contemporanee), il documento da predisporre è:",
+    "options": [
+      "MArt26-XX",
+      "PSC",
+      "Solo POS",
+      "Solo verbale All.20"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 12",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=12"
+  },
+  {
+    "id": "L8-016",
+    "topic": "Schema documenti - più imprese e non Titolo IV",
+    "q": "Secondo la schematizzazione, se l’attività NON è Titolo IV e intervengono più imprese (anche non contemporanee), il documento da predisporre è:",
+    "options": [
+      "MArt26-XX",
+      "PSC",
+      "Fascicolo dell’opera",
+      "Nessun documento"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 8 — pag. 12",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=12"
+  },
+  {
+    "id": "L8-017",
+    "topic": "DUVRI",
+    "q": "Nella schematizzazione, il MArt26-XX costituisce il DUVRI quando:",
+    "options": [
+      "Sono presenti impianti primari",
+      "Si determinano rischi da interferenza",
+      "Gli uomini-giorno sono ≥ 200",
+      "C’è sempre un subappalto"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 12",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=12"
+  },
+  {
+    "id": "L8-018",
+    "topic": "Allegato Art.89",
+    "q": "Dopo l’appalto, l’incaricato e-distribuzione acquisisce le informazioni su impresa esecutrice/affidataria tramite:",
+    "options": [
+      "Allegato Art. 89",
+      "Allegato XI",
+      "Verbale All.20",
+      "Notifica preliminare"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 8 — pag. 12",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=12"
+  },
+  {
+    "id": "L8-019",
+    "topic": "Ripristini stradali - contestuali",
+    "q": "Ripristini stradali realizzati da altra impresa contestualmente all’esecuzione del lavoro: secondo le slide è un cantiere con:",
+    "options": [
+      "Una sola impresa → MArt26-XX (solo comunicazione rischi specifici)",
+      "Più imprese → PSC e Fascicolo",
+      "Più imprese → solo MArt26-XX",
+      "Una sola impresa → PSC"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 13",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=13"
+  },
+  {
+    "id": "L8-020",
+    "topic": "Ripristini stradali - successivi",
+    "q": "Ripristini stradali realizzati da altra impresa successivamente alla fine del lavoro (dopo ripristino viabilità ordinaria): secondo le slide:",
+    "options": [
+      "Più imprese → PSC e Fascicolo",
+      "Una sola impresa → MArt26-XX (solo comunicazione rischi specifici)",
+      "Sempre PSC",
+      "Sempre DUVRI"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 13",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=13"
+  },
+  {
+    "id": "L8-021",
+    "topic": "Forniture - posa dal fornitore",
+    "q": "Fornitura di calcestruzzo con posa in opera da parte del fornitore del calcestruzzo: secondo le slide:",
+    "options": [
+      "Una sola impresa → MArt26-XX (solo comunicazione rischi specifici)",
+      "Più imprese → PSC e Fascicolo",
+      "Solo POS",
+      "Nessun documento"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 13",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=13"
+  },
+  {
+    "id": "L8-022",
+    "topic": "Forniture - posa dall’appaltatrice",
+    "q": "Fornitura di calcestruzzo con posa in opera da parte del personale dell’impresa appaltatrice: secondo le slide:",
+    "options": [
+      "Più imprese → PSC e Fascicolo",
+      "Una sola impresa → MArt26-XX (solo comunicazione rischi specifici)",
+      "Sempre PSC",
+      "Sempre DUVRI"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 13",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=13"
+  },
+  {
+    "id": "L8-023",
+    "topic": "Presenza personale e-distribuzione - attività operative",
+    "q": "Presenza personale e-distribuzione in un cantiere di unica impresa, con attività operative (es. giunti/terminali o tranciatura cavi): secondo le slide:",
+    "options": [
+      "Una sola impresa → MArt26-XX",
+      "Più imprese → PSC + Fascicolo + POS relativo alle attività svolte dal personale e-distribuzione",
+      "Sempre DUVRI MArt26-XX",
+      "Solo verbale All.20"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 14",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=14"
+  },
+  {
+    "id": "L8-024",
+    "topic": "MArt26-XX cumulativo - quando",
+    "q": "Il MArt26-XX cumulativo è utilizzabile quando:",
+    "options": [
+      "Ci sono lavori in Impianti Primari",
+      "C’è un’unica impresa esecutrice su cantieri differenti con sola natura di rischi specifici elettrici e/o instabilità sostegni e attività della stessa tipologia",
+      "Ci sono più imprese contemporanee",
+      "Ci sono interferenze con terzi gestori"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 33",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=33"
+  },
+  {
+    "id": "L8-025",
+    "topic": "MArt26-XX cumulativo - esclusioni",
+    "q": "Secondo le slide, il MArt26-XX cumulativo:",
+    "options": [
+      "È obbligatorio per lavori in Impianti Primari",
+      "Non può essere utilizzato per lavori in Impianti Primari",
+      "Sostituisce sempre il PSC",
+      "È ammesso solo per attività edili (Titolo IV)"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 33",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=33"
+  },
+  {
+    "id": "L8-026",
+    "topic": "MArt26-XX cumulativo - allegati",
+    "q": "Secondo le slide, l’utilizzo del MArt26-XX cumulativo comporta:",
+    "options": [
+      "Un MArt26-XX per ogni singolo cantiere",
+      "Un solo MArt26-XX con allegati (es. excel/pdf) che identificano univocamente tutti i cantieri e relative planimetrie",
+      "Solo un verbale All.20",
+      "Solo la notifica preliminare"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 33",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=33"
+  },
+  {
+    "id": "L8-027",
+    "topic": "Unità Committente ≠ UT - condizione interferenze",
+    "q": "Nel processo per Unità Committente non coincidente con UT, se dai lavori scaturiscono rischi da interferenze:",
+    "options": [
+      "Il MArt26-XX non si applica",
+      "Il MArt26-XX ha valore di DUVRI",
+      "Serve sempre PSC",
+      "Serve sempre Fascicolo dell’opera"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 31",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=31"
+  },
+  {
+    "id": "L8-028",
+    "topic": "Unità Committente ≠ UT - sopralluogo",
+    "q": "Nel caso sopra (interferenze), l’Incaricato dell’Unità Committente:",
+    "options": [
+      "Organizza un sopralluogo congiunto con almeno un rappresentante UT e dell’Impresa",
+      "Richiede la notifica preliminare",
+      "Nomina il CSP",
+      "Esegue direttamente i lavori"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 8 — pag. 31",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=31"
+  },
+  {
+    "id": "L8-029",
+    "topic": "Unità Committente ≠ UT - verbale",
+    "q": "Nel caso sopra (interferenze), chi redige il verbale di coordinamento (All. 20)?",
+    "options": [
+      "Il CSE",
+      "L’Incaricato dell’Unità Committente",
+      "Il PL dell’impresa",
+      "Il Referente UT"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 31",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=31"
+  },
+  {
+    "id": "L8-030",
+    "topic": "Unità Committente ≠ UT - sezioni A5/A6",
+    "q": "Nel caso sopra (interferenze), l’Incaricato dell’Unità Committente compila:",
+    "options": [
+      "Le sezioni A5 e A6",
+      "Solo la Parte B del ModVal",
+      "Solo la notifica preliminare",
+      "Solo l’Allegato Art.89"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 8 — pag. 31",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=31"
+  },
+  {
+    "id": "L8-031",
+    "topic": "NA - composizione",
+    "q": "Nel Modello NA (accesso CS in esercizio), la Parte A riguarda:",
+    "options": [
+      "Ultimazione/sospensione lavori",
+      "Inizio attività: richiesta accesso alla CS in esercizio",
+      "Notifica preliminare",
+      "Sopralluogo congiunto"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 96",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=96"
+  },
+  {
+    "id": "L8-032",
+    "topic": "NA - composizione",
+    "q": "Nel Modello NA (accesso CS in esercizio), la Parte B riguarda:",
+    "options": [
+      "Inizio attività: richiesta accesso",
+      "Ultimazione/sospensione lavori e riscontro conclusione accesso",
+      "Valutazione uomini-giorno",
+      "Nomina CSE"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 96",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=96"
+  },
+  {
+    "id": "L8-033",
+    "topic": "NA - chi dichiara richiesta accesso",
+    "q": "Secondo le slide, chi deve dichiarare la richiesta di accesso alla CS in esercizio (Parte A del NA)?",
+    "options": [
+      "Il CSE",
+      "Il Preposto ai Lavori (PL) dell’Impresa",
+      "Il RSPP dell’impresa",
+      "Il Datore di Lavoro e-distribuzione"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 96",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=96"
+  },
+  {
+    "id": "L8-034",
+    "topic": "NA - compilazione",
+    "q": "Secondo le slide, la Parte A del modello NA va compilata:",
+    "options": [
+      "A fine settimana",
+      "Al momento dell’accesso dell’Impresa in CS",
+      "Solo se c’è PSC",
+      "Solo in caso di urgenza"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 98",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=98"
+  },
+  {
+    "id": "L8-035",
+    "topic": "NA - riscontro telefonico",
+    "q": "In caso di comunicazione telefonica (NA), le slide indicano che gli incaricati si scambiano:",
+    "options": [
+      "Codici fiscali completi",
+      "Cifre casuali (almeno quattro) come riscontro",
+      "Solo la data e l’ora",
+      "Un QR code"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 98",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=98"
+  },
+  {
+    "id": "L8-036",
+    "topic": "FAQ - riunione/sopralluogo",
+    "q": "Secondo le FAQ, la riunione di coordinamento / sopralluogo congiunto è obbligatoria:",
+    "options": [
+      "Sempre, per qualsiasi lavoro",
+      "In Impianti Primari e quando il MArt26-XX ha valore di DUVRI",
+      "Solo se uomini-giorno ≥ 200",
+      "Solo per lavori in quota"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 149",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=149"
+  },
+  {
+    "id": "L8-037",
+    "topic": "FAQ - attività cicliche",
+    "q": "Secondo le FAQ, per attività cicliche la riunione/sopralluogo congiunto è:",
+    "options": [
+      "Mai necessaria",
+      "Obbligatoria all’inizio del ciclo",
+      "Obbligatoria a fine ciclo",
+      "Richiesta solo se cambia il Referente"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 149",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=149"
+  },
+  {
+    "id": "L8-038",
+    "topic": "FAQ - delega firma",
+    "q": "Secondo le FAQ, un subappaltatore (impresa esecutrice) può essere delegato alla firma di MArt89 e parte C del MArt26:",
+    "options": [
+      "No, mai",
+      "Sì, previa specifica delega dell’impresa appaltatrice",
+      "Sì, senza condizioni",
+      "Solo se è lavoratore autonomo"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 149",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=149"
+  },
+  {
+    "id": "L8-039",
+    "topic": "FAQ - incaricato impresa e PES",
+    "q": "Secondo le FAQ, l’incaricato impresa può NON essere una PES quando:",
+    "options": [
+      "Il lavoro è in BT",
+      "Non sussiste rischio elettrico nelle attività lavorative appaltate",
+      "C’è sempre personale e-distribuzione presente",
+      "È presente PSC"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 149",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=149"
+  },
+  {
+    "id": "L8-040",
+    "topic": "FAQ - committente",
+    "q": "Secondo le FAQ, se non diversamente individuato/delegato, il ruolo di Committente è assunto da:",
+    "options": [
+      "Chi emette la LCL",
+      "Chi firma il contratto di appalto",
+      "Il PL dell’impresa",
+      "Il CSE"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 150",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=150"
+  },
+  {
+    "id": "L8-041",
+    "topic": "FAQ - impianto primario",
+    "q": "Secondo le FAQ, per “Impianto Primario” si intende:",
+    "options": [
+      "Solo Cabina Secondaria",
+      "Cabina Primaria o Centro Satellite",
+      "Qualunque PTP",
+      "Qualunque linea BT"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 148",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=148"
+  },
+  {
+    "id": "L8-042",
+    "topic": "FAQ - AAT 220 kV",
+    "q": "Secondo le FAQ, sono esclusi gli impianti a 220 kV dall’applicazione della IL e sono inclusi:",
+    "options": [
+      "Solo gli impianti BT",
+      "Componenti in Cabina Primaria anche >150 kV e linee fino a 150 kV",
+      "Solo le linee AAT",
+      "Solo i cantieri Titolo IV"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 8 — pag. 148",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-8-modart-modval.pdf#page=148"
+  }
+]

@@ -39,6 +39,11 @@
         "id": "lezione_7_infortuni_rischi_prevalenti",
         "title": "Lezione 7 — Infortuni e rischi prevalenti (Policy 106, rischio elettrico, quota, MMC, emergenza)",
         "file": "questions/questions_lezione_7_infortuni_rischi_prevalenti.json"
+    },
+    {
+        "id": "lezione_8_modart_modval",
+        "title": "Lezione 8 — ModArt e ModVal",
+        "file": "questions/questions_lezione_8_modart_modval.json"
     }
   ]
 }
