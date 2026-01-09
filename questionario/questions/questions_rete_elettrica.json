@@ -1,0 +1,492 @@
+[
+  {
+    "id": "RETE-001",
+    "topic": "Concetti base",
+    "q": "A cosa corrisponde la tensione nominale in un sistema elettrico trifase, secondo le slide?",
+    "options": [
+      "Alla tensione concatenata",
+      "Alla tensione di fase",
+      "Alla tensione di picco",
+      "Alla tensione media su un periodo"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Slide 'La rete elettrica' — pag. 2",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=2"
+  },
+  {
+    "id": "RETE-002",
+    "topic": "Concetti base",
+    "q": "La potenza trasportabile da una linea elettrica, secondo le slide, è proporzionale a:",
+    "options": [
+      "La corrente al quadrato",
+      "La tensione",
+      "La resistenza della linea",
+      "La frequenza di rete"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 2",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=2"
+  },
+  {
+    "id": "RETE-003",
+    "topic": "Concetti base",
+    "q": "A parità di potenza trasportata, le perdite di linea sono:",
+    "options": [
+      "Direttamente proporzionali alla tensione",
+      "Inversamente proporzionali alla tensione",
+      "Inversamente proporzionali al quadrato della tensione",
+      "Indipendenti dalla tensione"
+    ],
+    "answerIndex": 2,
+    "refLabel": "Slide 'La rete elettrica' — pag. 2",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=2"
+  },
+  {
+    "id": "RETE-004",
+    "topic": "Architettura di sistema",
+    "q": "Nelle slide, trasmissione e distribuzione avvengono tipicamente in:",
+    "options": [
+      "AC trifase",
+      "AC monofase",
+      "DC",
+      "AC bifase"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Slide 'La rete elettrica' — pag. 2",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=2"
+  },
+  {
+    "id": "RETE-005",
+    "topic": "Livelli di rete",
+    "q": "Quale valore tipico è associato alla Trasmissione nelle slide?",
+    "options": [
+      "380/132 kV",
+      "15÷20/0,4 kV",
+      "10÷25 kV",
+      "0,4/0,23 kV"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Slide 'La rete elettrica' — pag. 3",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=3"
+  },
+  {
+    "id": "RETE-006",
+    "topic": "Livelli di rete",
+    "q": "Quale rapporto di trasformazione è tipico della Cabina Primaria (CP) nelle slide?",
+    "options": [
+      "132/15÷20 kV",
+      "15÷20/0,4 kV",
+      "380/132 kV",
+      "10÷25 kV"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Slide 'La rete elettrica' — pag. 3",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=3"
+  },
+  {
+    "id": "RETE-007",
+    "topic": "Livelli di rete",
+    "q": "Quale rapporto di trasformazione è tipico della Cabina Secondaria MT/BT nelle slide?",
+    "options": [
+      "132/15÷20 kV",
+      "15÷20/0,4 kV",
+      "380/132 kV",
+      "10÷25 kV"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 3",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=3"
+  },
+  {
+    "id": "RETE-008",
+    "topic": "Definizioni",
+    "q": "Secondo la definizione riportata in slide, l’attività di distribuzione include:",
+    "options": [
+      "Solo la trasmissione su RTN",
+      "Trasporto e trasformazione su reti AT/MT/BT per consegne ai clienti finali",
+      "Solo la produzione in centrale",
+      "Solo la misura dei consumi"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 4",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=4"
+  },
+  {
+    "id": "RETE-009",
+    "topic": "Regole di esercizio",
+    "q": "Secondo le slide, le imprese distributrici hanno l’obbligo di:",
+    "options": [
+      "Connettere alle proprie reti tutti i soggetti che ne facciano richiesta, nel rispetto delle regole tecniche",
+      "Connettere solo i clienti in BT",
+      "Connettere solo i clienti con contratto di fornitura già attivo",
+      "Negare connessioni finché non cambia la tariffa"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Slide 'La rete elettrica' — pag. 4",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=4"
+  },
+  {
+    "id": "RETE-010",
+    "topic": "Rete AT",
+    "q": "La rete di trasmissione/distribuzione in AT descritta nelle slide ha struttura:",
+    "options": [
+      "Radiale pura",
+      "Magliata con neutro efficacemente a terra",
+      "Arborescente con neutro isolato",
+      "Sempre ad anello chiuso senza protezioni"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=5"
+  },
+  {
+    "id": "RETE-011",
+    "topic": "Rete AT",
+    "q": "Le linee AAT a 380 o 220 kV sono denominate nelle slide:",
+    "options": [
+      "Derivazioni",
+      "Arterie",
+      "Prese",
+      "Dorsali"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=5"
+  },
+  {
+    "id": "RETE-012",
+    "topic": "Rete AT",
+    "q": "Le correnti di guasto in AT sono indicate nelle slide come:",
+    "options": [
+      "Sempre inferiori a 1 kA",
+      "Dell’ordine di decine o centinaia di kA",
+      "Sempre inferiori a 10 kA",
+      "Trascurabili grazie alla magliatura"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=5"
+  },
+  {
+    "id": "RETE-013",
+    "topic": "Protezione AT",
+    "q": "Il sistema di protezione citato per la rete AT prevede l’impiego di:",
+    "options": [
+      "Protezione differenziale pura su sbarra",
+      "Protezioni distanziometriche (basate su impedenza di guasto)",
+      "Solo fusibili",
+      "Solo magnetotermici BT"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=5"
+  },
+  {
+    "id": "RETE-014",
+    "topic": "Cabina Primaria",
+    "q": "Quale elemento NON è elencato tra i principali componenti della Cabina Primaria?",
+    "options": [
+      "Sezione AT con sbarre e apparecchiature",
+      "Trasformatori di potenza AT/MT",
+      "Impianto di terra",
+      "Gruppo di misura dell’utente BT"
+    ],
+    "answerIndex": 3,
+    "refLabel": "Slide 'La rete elettrica' — pag. 6",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=6"
+  },
+  {
+    "id": "RETE-015",
+    "topic": "Cabina Primaria",
+    "q": "Tra i componenti della Cabina Primaria è presente la “sala quadri” per:",
+    "options": [
+      "Solo contatori dei clienti",
+      "Comandi e protezioni delle apparecchiature e ausiliari",
+      "Gestione rifiuti e depositi",
+      "Trasformazione MT/BT"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 6",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=6"
+  },
+  {
+    "id": "RETE-016",
+    "topic": "Rete MT — definizioni",
+    "q": "Nelle slide, una “dorsale” MT è:",
+    "options": [
+      "Linea MT che alimenta solo trasformazioni su palo",
+      "Linea MT di collegamento tra due Cabine Primarie, sezionata in punti opportuni",
+      "Linea BT derivata da cabina secondaria",
+      "Collegamento tra contatore e utente"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=8"
+  },
+  {
+    "id": "RETE-017",
+    "topic": "Rete MT — definizioni",
+    "q": "Nelle slide, una “derivazione” MT è:",
+    "options": [
+      "Linea che si diparte da una dorsale per alimentare carichi isolati (tipicamente trasformazioni su palo)",
+      "Collegamento MT tra due cabine primarie",
+      "Linea BT uscente da cabina secondaria",
+      "Tratto tra nodo BT e gruppo di misura"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Slide 'La rete elettrica' — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=8"
+  },
+  {
+    "id": "RETE-018",
+    "topic": "Rete MT — automazione",
+    "q": "Secondo le slide, il punto di sezionamento sulla dorsale può essere:",
+    "options": [
+      "Sempre manuale",
+      "Telecomandato",
+      "Sempre assente",
+      "Solo in BT"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=8"
+  },
+  {
+    "id": "RETE-019",
+    "topic": "Cabina Secondaria MT/BT",
+    "q": "Le apparecchiature MT di una cabina secondaria includono tipicamente:",
+    "options": [
+      "Solo fusibili BT",
+      "Interruttori di manovra-sezionatori o interruttori di cabina secondaria",
+      "Solo interruttori BT 4 poli",
+      "Solo sezionatori AT"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=10"
+  },
+  {
+    "id": "RETE-020",
+    "topic": "Cabina Secondaria MT/BT",
+    "q": "Nelle slide, la corrente nominale In delle apparecchiature MT della cabina secondaria è:",
+    "options": [
+      "100 A",
+      "400 A",
+      "630 A",
+      "1250 A"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=10"
+  },
+  {
+    "id": "RETE-021",
+    "topic": "Cabina Secondaria MT/BT",
+    "q": "Nelle slide, la corrente massima indicata è:",
+    "options": [
+      "1 kA per 10 s",
+      "12,5 kA per 0,5 s",
+      "25 kA per 1 s",
+      "10 kA per 0,1 s"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=10"
+  },
+  {
+    "id": "RETE-022",
+    "topic": "Trasformatori MT/BT",
+    "q": "La potenza nominale massima tipica del trasformatore in cabina secondaria (slide) è:",
+    "options": [
+      "1600 kVA",
+      "630 kVA",
+      "250 kVA",
+      "100 kVA"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=10"
+  },
+  {
+    "id": "RETE-023",
+    "topic": "Trasformatori MT/BT",
+    "q": "Il gruppo di collegamento del trasformatore indicato in slide è:",
+    "options": [
+      "Yy0",
+      "Dyn11",
+      "Dd0",
+      "Yzn5"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=10"
+  },
+  {
+    "id": "RETE-024",
+    "topic": "Apparecchiature BT",
+    "q": "Gli interruttori automatici BT in cabina secondaria sono descritti come:",
+    "options": [
+      "Magnetotermici a 2 poli",
+      "Magnetotermici a 4 poli (3F+N)",
+      "Solo differenziali puri",
+      "Solo sezionatori manuali"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=10"
+  },
+  {
+    "id": "RETE-025",
+    "topic": "Rete BT — definizioni",
+    "q": "Nelle slide, una “dorsale” BT è:",
+    "options": [
+      "Porzione di linea uscente da Cabina Secondaria",
+      "Linea MT tra due cabine primarie",
+      "Linea di collegamento tra contatore e utente",
+      "Linea che si diparte da una dorsale MT"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Slide 'La rete elettrica' — pag. 14",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=14"
+  },
+  {
+    "id": "RETE-026",
+    "topic": "Rete BT — definizioni",
+    "q": "Nelle slide, una “presa” BT è:",
+    "options": [
+      "Porzione di linea che congiunge nodo di distribuzione con gruppo di misura dell’utente",
+      "Linea che collega due cabine primarie",
+      "Porzione di dorsale uscente dalla cabina secondaria",
+      "Linea derivata dalla dorsale che alimenta trasformazioni su palo"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Slide 'La rete elettrica' — pag. 14",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=14"
+  },
+  {
+    "id": "RETE-027",
+    "topic": "Rete BT — topologie",
+    "q": "Secondo le slide, la configurazione BT prevalente (circa 90% dei km) è:",
+    "options": [
+      "Magliata",
+      "Arborescente",
+      "Sempre ad anello chiuso",
+      "Sempre radiale con doppia alimentazione"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 14",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=14"
+  },
+  {
+    "id": "RETE-028",
+    "topic": "Rete BT — consistenze",
+    "q": "Secondo le slide, la quota maggiore di km di rete BT è costituita da:",
+    "options": [
+      "Linee aeree in conduttori nudi",
+      "Linee aeree in cavo",
+      "Linee sotterranee in cavo",
+      "Solo linee su palo in MT"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 15",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=15"
+  },
+  {
+    "id": "RETE-029",
+    "topic": "Rete BT — consistenze",
+    "q": "Nelle slide, le consistenze approssimative delle linee BT sotterranee in cavo sono:",
+    "options": [
+      "~101.000 km",
+      "~279.000 km",
+      "~422.000 km",
+      "~1.000.000 km"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 15",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=15"
+  },
+  {
+    "id": "RETE-030",
+    "topic": "Messa a terra del neutro",
+    "q": "Tra gli scopi della messa a terra del neutro (slide) NON rientra:",
+    "options": [
+      "Contenere le tensioni tra masse e terra in caso di guasto d’isolamento",
+      "Consentire l’intervento dei dispositivi di protezione per eliminare il guasto a terra",
+      "Aumentare intenzionalmente le tensioni di contatto",
+      "Limitare la crescita del potenziale dovuta ai guasti originati dalla rete MT"
+    ],
+    "answerIndex": 2,
+    "refLabel": "Slide 'La rete elettrica' — pag. 16",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=16"
+  },
+  {
+    "id": "RETE-031",
+    "topic": "Messa a terra del neutro",
+    "q": "La messa a terra del neutro consente la protezione contro i contatti indiretti negli impianti utilizzatori tramite:",
+    "options": [
+      "Solo isolamento doppio",
+      "Interruzione dell’alimentazione in sistema TT (CEI 64-8)",
+      "Solo protezione per sovracorrente in BT",
+      "Solo protezione contro fulmini"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 17",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=17"
+  },
+  {
+    "id": "RETE-032",
+    "topic": "Messa a terra del neutro",
+    "q": "Secondo le slide, agli utenti è fatto divieto di:",
+    "options": [
+      "Usare interruttori differenziali",
+      "Usare il neutro come conduttore di protezione o collegare il neutro del distributore alla terra di protezione dell’impianto di utenza",
+      "Avere un impianto di terra",
+      "Usare cavi in rame"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 17",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=17"
+  },
+  {
+    "id": "RETE-033",
+    "topic": "Messa a terra del neutro",
+    "q": "Secondo le slide, la CEI 0-21 obbliga il distributore a esercire la rete BT con:",
+    "options": [
+      "Neutro isolato",
+      "Neutro direttamente a terra",
+      "Neutro collegato solo tramite impedenza",
+      "Neutro non distribuito"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 17",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=17"
+  },
+  {
+    "id": "RETE-034",
+    "topic": "Messa a terra del neutro",
+    "q": "Per il corretto intervento dei differenziali, la resistenza di terra del neutro del distributore (Rn) deve essere:",
+    "options": [
+      "Rn < 10 Ω",
+      "Rn < 180 Ω",
+      "Rn < 1000 Ω",
+      "Rn > 180 Ω"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 17",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=17"
+  },
+  {
+    "id": "RETE-035",
+    "topic": "Telegestione",
+    "q": "Secondo le slide, il sistema di telegestione comunica tramite:",
+    "options": [
+      "Solo cavi in rame BT",
+      "Protocolli 2G/3G/4G e/o fibra ottica",
+      "Solo Wi-Fi",
+      "Solo radio analogica"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'La rete elettrica' — pag. 18",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/la-rete-elettrica.pdf#page=18"
+  }
+]

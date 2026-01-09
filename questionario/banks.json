@@ -1,0 +1,9 @@
+{
+  "banks": [
+    {
+      "id": "rete_elettrica",
+      "title": "Rete elettrica",
+      "file": "questions/questions_rete_elettrica.json"
+    }
+  ]
+}
