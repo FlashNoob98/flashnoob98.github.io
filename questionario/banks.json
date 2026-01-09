@@ -4,6 +4,11 @@
       "id": "rete_elettrica",
       "title": "Rete elettrica",
       "file": "questions/questions_rete_elettrica.json"
+    },
+    {
+  "id": "lezione_1_81_08",
+  "title": "Lezione 1 — D.Lgs. 81/08",
+  "file": "questions/questions_lezione_1_81_08.json"
     }
   ]
 }

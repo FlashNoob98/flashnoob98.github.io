@@ -1,0 +1,492 @@
+[
+  {
+    "id": "81-001",
+    "topic": "Storia della sicurezza",
+    "q": "In quale periodo storico, secondo le slide, emerge in modo evidente la sicurezza sul lavoro con la rivoluzione industriale?",
+    "options": [
+      "Prima metà del XIX secolo",
+      "Seconda metà del XX secolo",
+      "XVII secolo",
+      "Inizio XXI secolo"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 3",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=3"
+  },
+  {
+    "id": "81-002",
+    "topic": "Storia della sicurezza",
+    "q": "Il Factory Act del 1833 (slide) introduce, tra le altre cose:",
+    "options": [
+      "L’obbligo di RSPP in azienda",
+      "Ispettori esterni nelle aziende",
+      "La notifica preliminare nei cantieri",
+      "Il DVR dinamico con aggiornamento entro 30 giorni"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 3",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=3"
+  },
+  {
+    "id": "81-003",
+    "topic": "Storia della sicurezza",
+    "q": "Secondo le slide, la prima legge italiana sul tema (1886) riguardava:",
+    "options": [
+      "La tutela del lavoro dei fanciulli negli opifici, cave e miniere",
+      "La prevenzione incendi nei luoghi di lavoro",
+      "Le prescrizioni minime nei cantieri temporanei o mobili",
+      "La definizione di rischio e pericolo"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 4",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=4"
+  },
+  {
+    "id": "81-004",
+    "topic": "Evoluzione normativa",
+    "q": "Quale direttiva UE (slide) introduce il principio di pianificazione/prevenzione e l’obbligo di valutazione dei rischi?",
+    "options": [
+      "92/57/CEE",
+      "89/391/CEE",
+      "2006/42/CE",
+      "2014/30/UE"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 6",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=6"
+  },
+  {
+    "id": "81-005",
+    "topic": "Cantieri",
+    "q": "Secondo le slide, il D.Lgs. 494/1996 introduce, tra gli strumenti, il:",
+    "options": [
+      "Piano di Sicurezza e Coordinamento (PSC)",
+      "Documento Unico di Valutazione dei Rischi Interferenti (DUVRI)",
+      "Piano Operativo di Sicurezza (POS) obbligatorio per tutte le aziende non edili",
+      "Registro elettronico dei near miss"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 7",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=7"
+  },
+  {
+    "id": "81-006",
+    "topic": "TUS 81/08",
+    "q": "Il D.Lgs. 81/2008 (slide) è in vigore dal:",
+    "options": [
+      "15 maggio 2008",
+      "1 gennaio 2008",
+      "9 aprile 2008",
+      "3 agosto 2007"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=8"
+  },
+  {
+    "id": "81-007",
+    "topic": "TUS 81/08",
+    "q": "Secondo le slide, il D.Lgs. 81/08 è articolato su:",
+    "options": [
+      "13 Titoli e 51 allegati",
+      "10 Titoli e 30 allegati",
+      "12 Titoli e 40 allegati",
+      "15 Titoli e 60 allegati"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=8"
+  },
+  {
+    "id": "81-008",
+    "topic": "Figure e ruoli",
+    "q": "Quale figura (slide) è definita come “persona che sovrintende alla attività lavorativa… ed esercita un funzionale potere di iniziativa”?",
+    "options": [
+      "Dirigente",
+      "Preposto",
+      "RLS",
+      "ASPP"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 14",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=14"
+  },
+  {
+    "id": "81-009",
+    "topic": "Figure e ruoli",
+    "q": "Secondo le slide, il Datore di Lavoro è il soggetto che esercita:",
+    "options": [
+      "Poteri decisionali e di spesa",
+      "Solo poteri consultivi",
+      "Solo poteri tecnici sulla manutenzione",
+      "Solo poteri sanitari"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 12",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=12"
+  },
+  {
+    "id": "81-010",
+    "topic": "Figure e ruoli",
+    "q": "Secondo le slide, il Dirigente è la persona che:",
+    "options": [
+      "Attua le direttive del datore di lavoro organizzando l’attività lavorativa e vigilando su di essa",
+      "Rappresenta i lavoratori in materia di salute e sicurezza",
+      "Effettua la sorveglianza sanitaria",
+      "Svolge solo compiti operativi senza poteri"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 13",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=13"
+  },
+  {
+    "id": "81-011",
+    "topic": "SPP",
+    "q": "Secondo le slide, il Servizio di Prevenzione e Protezione (SPP) è:",
+    "options": [
+      "Solo un insieme di documenti",
+      "Un insieme di persone, sistemi e mezzi finalizzati a prevenzione e protezione dai rischi professionali",
+      "Un ente esterno obbligatorio per tutte le aziende",
+      "Un organo di vigilanza pubblica"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 15",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=15"
+  },
+  {
+    "id": "81-012",
+    "topic": "Sorveglianza sanitaria",
+    "q": "Secondo le slide, la sorveglianza sanitaria è obbligatoria:",
+    "options": [
+      "Sempre, per qualsiasi mansione",
+      "Solo se prevista da un contratto collettivo",
+      "In presenza di rischi professionali specifici indicati nel DVR",
+      "Solo per lavoratori minorenni"
+    ],
+    "answerIndex": 2,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 16",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=16"
+  },
+  {
+    "id": "81-013",
+    "topic": "Obblighi lavoratore",
+    "q": "Secondo le slide, un obbligo chiave del lavoratore è:",
+    "options": [
+      "Delegare i propri obblighi al preposto",
+      "Prendersi cura della propria sicurezza e di quella delle altre persone presenti sul luogo di lavoro",
+      "Definire la politica aziendale HSE",
+      "Nominare il medico competente"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 18",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=18"
+  },
+  {
+    "id": "81-014",
+    "topic": "Obblighi lavoratore",
+    "q": "Secondo le slide, il lavoratore NON deve:",
+    "options": [
+      "Segnalare condizioni di pericolo",
+      "Utilizzare in modo appropriato i DPI",
+      "Rimuovere o modificare senza autorizzazione i dispositivi di sicurezza/segnalazione/controllo",
+      "Partecipare alla formazione"
+    ],
+    "answerIndex": 2,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 19",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=19"
+  },
+  {
+    "id": "81-015",
+    "topic": "Obblighi datore di lavoro",
+    "q": "Secondo le slide, gli obblighi NON delegabili del Datore di Lavoro sono:",
+    "options": [
+      "Nomina RLS e nomina addetti antincendio",
+      "Valutazione di tutti i rischi e designazione RSPP",
+      "Formazione e addestramento e acquisto DPI",
+      "Riunione periodica e comunicazioni INAIL"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 21",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=21"
+  },
+  {
+    "id": "81-016",
+    "topic": "Delega di funzioni",
+    "q": "Secondo le slide, una delega di funzioni valida richiede, tra le condizioni:",
+    "options": [
+      "Solo comunicazione verbale al team",
+      "Atto scritto con data certa e accettazione per iscritto del delegato",
+      "Solo approvazione dell’RLS",
+      "Solo firma del medico competente"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 75",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=75"
+  },
+  {
+    "id": "81-017",
+    "topic": "Delega di funzioni",
+    "q": "Secondo le slide, la delega di funzioni:",
+    "options": [
+      "Elimina sempre ogni obbligo del datore di lavoro",
+      "Non esclude l’obbligo di vigilanza del datore di lavoro sul corretto espletamento da parte del delegato",
+      "È sempre vietata",
+      "È ammessa solo in aziende con meno di 15 dipendenti"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 75",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=75"
+  },
+  {
+    "id": "81-018",
+    "topic": "Formazione/Informazione/Addestramento",
+    "q": "Secondo le slide, la “formazione” è:",
+    "options": [
+      "Complesso attività dirette a fornire conoscenze utili alla gestione dei rischi (es. volantini)",
+      "Processo educativo che trasferisce conoscenze e procedure per svolgere i compiti in sicurezza",
+      "Attività pratica per apprendere uso corretto di attrezzature e procedure",
+      "Solo affiancamento sul campo senza teoria"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 24",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=24"
+  },
+  {
+    "id": "81-019",
+    "topic": "Formazione/Informazione/Addestramento",
+    "q": "Secondo le slide, l’“addestramento” riguarda:",
+    "options": [
+      "Solo test di apprendimento online",
+      "L’uso corretto di attrezzature/macchine/DPI e procedure di lavoro",
+      "La sola consegna di un documento informativo",
+      "Solo la definizione di obiettivi annuali"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 24",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=24"
+  },
+  {
+    "id": "81-020",
+    "topic": "Processo di valutazione del rischio",
+    "q": "Qual è il primo step del processo di valutazione del rischio (slide)?",
+    "options": [
+      "Valutare i rischi",
+      "Individuare aree di lavoro e fonti di pericolo",
+      "Attuare le misure e verificarne l’applicazione",
+      "Capitalizzare l’esperienza"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 44",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=44"
+  },
+  {
+    "id": "81-021",
+    "topic": "Prevenzione vs Protezione",
+    "q": "Secondo le slide, una misura di protezione è:",
+    "options": [
+      "Qualunque azione che evita o riduce la possibilità che accada un evento indesiderato",
+      "Qualunque sistema che limita le conseguenze di un evento indesiderato accaduto (es. DPI)",
+      "Un controllo di ingegneria che elimina il pericolo",
+      "Solo una procedura scritta"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 45",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=45"
+  },
+  {
+    "id": "81-022",
+    "topic": "Gerarchia controlli",
+    "q": "Secondo le slide, cosa è preferibile tra DPI e misure collettive?",
+    "options": [
+      "DPI sempre, perché più rapidi da distribuire",
+      "Misure collettive rispetto a quelle individuali",
+      "Sono equivalenti, si sceglie a caso",
+      "Prima DPI, poi prevenzione"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 46",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=46"
+  },
+  {
+    "id": "81-023",
+    "topic": "Valutazione rischio",
+    "q": "Secondo le slide, la relazione più semplice per il rischio è:",
+    "options": [
+      "R = D / P",
+      "R = P × D",
+      "R = P + D",
+      "R = (P × D) / 2"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 47",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=47"
+  },
+  {
+    "id": "81-024",
+    "topic": "Matrice rischio",
+    "q": "Secondo la tabella in slide, un rischio “Critico” corrisponde a:",
+    "options": [
+      "R = 16",
+      "6 ≤ R ≤ 8",
+      "1 ≤ R ≤ 4",
+      "9 ≤ R ≤ 12"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 50",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=50"
+  },
+  {
+    "id": "81-025",
+    "topic": "Rischio residuo",
+    "q": "Secondo le slide, il rischio residuo (RR) è calcolato come:",
+    "options": [
+      "RR = RI + KT",
+      "RR = RI × KT",
+      "RR = KT / RI",
+      "RR = RI − KT"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 51",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=51"
+  },
+  {
+    "id": "81-026",
+    "topic": "Preposto",
+    "q": "Secondo le slide (art.19), il preposto deve verificare che accedano alle zone a rischio grave e specifico:",
+    "options": [
+      "Solo i lavoratori con adeguate istruzioni",
+      "Tutti i lavoratori, purché dotati di DPI",
+      "Solo i dirigenti",
+      "Chiunque abbia firmato il registro presenze"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 31",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=31"
+  },
+  {
+    "id": "81-027",
+    "topic": "Preposto",
+    "q": "Secondo le slide, se il preposto rileva deficienze/condizioni di pericolo e serve, deve:",
+    "options": [
+      "Ignorare e proseguire per non fermare la produzione",
+      "Interrompere temporaneamente l’attività e segnalare tempestivamente al datore di lavoro e al dirigente",
+      "Segnalare solo a fine turno",
+      "Attendere l’arrivo dell’RLS prima di intervenire"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 32",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=32"
+  },
+  {
+    "id": "81-028",
+    "topic": "RLS",
+    "q": "Secondo le slide, l’RLS:",
+    "options": [
+      "È responsabile della sorveglianza sanitaria",
+      "Accede ai luoghi di lavoro ed è consultato per la valutazione dei rischi",
+      "È l’organo di vigilanza esterno",
+      "Sostituisce il datore di lavoro nei poteri di spesa"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 34",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=34"
+  },
+  {
+    "id": "81-029",
+    "topic": "DVR dinamico",
+    "q": "Secondo le slide, il DVR deve essere aggiornato entro 30 giorni quando:",
+    "options": [
+      "Cambia il logo aziendale",
+      "Ci sono cambiamenti sostanziali (processi/organizzazione/nomine/normativa/sede) o esiti sorveglianza sanitaria lo richiedono",
+      "Finisce l’anno fiscale",
+      "Si sostituisce un DPI"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 28",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=28"
+  },
+  {
+    "id": "81-030",
+    "topic": "Organi di vigilanza",
+    "q": "Secondo le slide (art.13), tra gli enti di vigilanza e controllo rientra:",
+    "options": [
+      "ASL",
+      "ARERA",
+      "GSE",
+      "ISPRA (solo ambiente)"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 56",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=56"
+  },
+  {
+    "id": "81-031",
+    "topic": "SGI",
+    "q": "Secondo le slide, il ciclo PDCA (Deming) significa:",
+    "options": [
+      "Plan-Do-Check-Act",
+      "Prevent-Detect-Correct-Audit",
+      "Plan-Define-Control-Approve",
+      "Produce-Deliver-Collect-Archive"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 62",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=62"
+  },
+  {
+    "id": "81-032",
+    "topic": "SGI — norme",
+    "q": "Secondo le slide, ISO 45001 è riferita a:",
+    "options": [
+      "Gestione qualità",
+      "Gestione salute e sicurezza sul lavoro",
+      "Gestione energia",
+      "Gestione ambientale"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 63",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=63"
+  },
+  {
+    "id": "81-033",
+    "topic": "Reason — Swiss cheese",
+    "q": "Secondo le slide, l’infortunio si verifica quando:",
+    "options": [
+      "Il pericolo viene eliminato",
+      "Si allineano le carenze (buchi) nelle difese",
+      "La probabilità è sempre zero",
+      "Il DPI è nuovo"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 66",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=66"
+  },
+  {
+    "id": "81-034",
+    "topic": "Incidente vs Infortunio",
+    "q": "Secondo le slide, un “incidente” è:",
+    "options": [
+      "Sempre un evento con danno al lavoratore",
+      "Evento non previsto che interrompe un’attività e non necessariamente produce danno/infortunio",
+      "Solo un infortunio in itinere",
+      "Un evento sempre dovuto a dolo del lavoratore"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 54",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=54"
+  },
+  {
+    "id": "81-035",
+    "topic": "Infortunio in itinere",
+    "q": "Secondo le slide, l’infortunio in itinere riguarda:",
+    "options": [
+      "Solo incidenti dentro l’unità produttiva",
+      "Eventi negli ordinari tragitti da e per il posto di lavoro (inclusi spostamenti per mensa esterna)",
+      "Solo malattie professionali",
+      "Eventi durante ferie e permessi"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Slide 'Lezione 1 — 81/08' — pag. 54",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-1-81-08.pdf#page=54"
+  }
+]
