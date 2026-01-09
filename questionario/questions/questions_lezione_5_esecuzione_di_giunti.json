@@ -1,0 +1,434 @@
+[
+  {
+    "id": "L5-001",
+    "topic": "Concetti base",
+    "q": "Nel caso di intervento su cavo MT interrato, la verifica di assenza di tensione sul posto di lavoro viene effettuata tramite:",
+    "options": [
+      "Misura con multimetro sul cavo in tensione",
+      "Tranciatura del cavo già messo a terra e in cortocircuito agli estremi",
+      "Misura con pinza amperometrica sulla guaina",
+      "Prova di isolamento con megger prima del sezionamento"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 1",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=1"
+  },
+  {
+    "id": "L5-002",
+    "topic": "Differenze di potenziale",
+    "q": "Secondo le slide, le differenze di potenziale da cui proteggersi durante la tranciatura/giunzione sono di due tipi:",
+    "options": [
+      "Capacitiva e induttiva",
+      "Longitudinale e trasversale",
+      "Diretta e alternata",
+      "Statica e dinamica"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 1",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=1"
+  },
+  {
+    "id": "L5-003",
+    "topic": "DdP longitudinale",
+    "q": "La d.d.p. longitudinale può interessare l’operatore quando, dopo la tranciatura, entra in contatto con:",
+    "options": [
+      "Solo la terra del cantiere",
+      "Due parti metalliche (anime/schermi) riferite alle cabine secondarie agli estremi opposti",
+      "Solo la guaina esterna non metallica",
+      "Solo il tappeto isolante"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 1",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=1"
+  },
+  {
+    "id": "L5-004",
+    "topic": "DdP trasversale",
+    "q": "La d.d.p. trasversale interessa l’operatore quando è a contatto con:",
+    "options": [
+      "Due schermi metallici e basta",
+      "La terra (fondo/pareti della buca) e una o più anime/schermi metallici del tronco di cavo",
+      "Solo il casco con visiera",
+      "Solo guanti da lavoro"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 1",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=1"
+  },
+  {
+    "id": "L5-005",
+    "topic": "Misure di tutela",
+    "q": "Per assicurare il lavoratore dall’insorgenza di pericolose d.d.p., secondo le slide è necessario:",
+    "options": [
+      "Solo aumentare la profondità dello scavo",
+      "Realizzare equipotenzialità sul posto di lavoro e utilizzare i necessari DPI",
+      "Solo ridurre la durata dell’attività",
+      "Solo posizionare un cartello di pericolo"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 1",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=1"
+  },
+  {
+    "id": "L5-006",
+    "topic": "Sequenza operativa",
+    "q": "Qual è la sequenza corretta delle operazioni secondo le slide?",
+    "options": [
+      "Equipotenzialità → tranciatura → giunti fase 1 → giunti fasi 2 e 3",
+      "Tranciatura → equipotenzialità → giunti fasi 2 e 3 → giunto fase 1",
+      "Giunti fase 1 → tranciatura → equipotenzialità → giunti fasi 2 e 3",
+      "Tranciatura → giunto fase 1 → equipotenzialità → giunti fasi 2 e 3"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 2",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=2"
+  },
+  {
+    "id": "L5-007",
+    "topic": "DPI e dotazioni",
+    "q": "Quale combinazione di DPI/dotazioni è indicata nelle slide come necessaria (panoramica)?",
+    "options": [
+      "Solo guanti da lavoro",
+      "Guanti isolanti classe 0, tronchetti isolanti, casco con visiera, tappeto isolante (oltre a guanti da lavoro)",
+      "Solo occhiali e scarpe",
+      "Solo imbracatura anticaduta"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 2",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=2"
+  },
+  {
+    "id": "L5-008",
+    "topic": "Equipotenzialità — preparazione",
+    "q": "Per predisporre il dispositivo di equipotenzialità, le slide indicano di serrare i cavi di collegamento:",
+    "options": [
+      "Al contatore BT e al quadro generale",
+      "Alle morse perforanti e al dispersore di terra già infisso",
+      "Al trasformatore e al relè di protezione",
+      "Alle sole pareti dello scavo"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 3",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=3"
+  },
+  {
+    "id": "L5-009",
+    "topic": "Equipotenzialità — DPI fase 2",
+    "q": "Durante la realizzazione dell’equipotenzialità (fase 2), le slide prevedono:",
+    "options": [
+      "Solo guanti da lavoro",
+      "Guanti isolanti (classe 0) e tronchetti isolanti",
+      "Solo casco con visiera",
+      "Nessun DPI, perché il cavo è tranciato"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 3",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=3"
+  },
+  {
+    "id": "L5-010",
+    "topic": "Tappeto isolante — posizionamento",
+    "q": "Secondo le slide, il tappeto isolante va disposto:",
+    "options": [
+      "Solo sul fondo dello scavo",
+      "Su fondo e pareti dello scavo",
+      "Solo sui bordi esterni",
+      "Solo sotto gli attrezzi"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 3",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=3"
+  },
+  {
+    "id": "L5-011",
+    "topic": "Morse perforanti",
+    "q": "Le morse perforanti devono essere applicate (slide) ad entrambi i lati tranciati:",
+    "options": [
+      "Di tutte e tre le fasi simultaneamente",
+      "Di una fase (es. fase 1) durante la realizzazione dell’equipotenzialità",
+      "Solo sulla fase 3",
+      "Solo sugli schermi, mai sulle anime"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 3",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=3"
+  },
+  {
+    "id": "L5-012",
+    "topic": "Attenzione operativa",
+    "q": "Durante la perforazione (slide), quale rischio specifico viene richiamato?",
+    "options": [
+      "Rischio chimico da guaina",
+      "Contatto simultaneo di parti del corpo non isolate con sezione metallica del cavo e terreno (necessità tappeto isolante)",
+      "Rischio rumore",
+      "Rischio incendio da estintori"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 3",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=3"
+  },
+  {
+    "id": "L5-013",
+    "topic": "Giunti fasi 2 e 3",
+    "q": "Dopo l’equipotenzialità, la realizzazione delle giunzioni sulle fasi 2 e 3 può procedere con:",
+    "options": [
+      "Guanti isolanti classe 0 obbligatori",
+      "Semplici guanti da lavoro",
+      "Nessun guanto",
+      "Solo guanti dielettrici classe 3"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 4",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=4"
+  },
+  {
+    "id": "L5-014",
+    "topic": "Giunto fase 1 — scenario",
+    "q": "Per eseguire il giunto sulla fase 1, secondo le slide bisogna:",
+    "options": [
+      "Aggiungere un secondo dispositivo di equipotenzialità",
+      "Rimuovere il dispositivo di equipotenzialità",
+      "Lasciare il dispositivo e tagliare le fasi 2 e 3",
+      "Rimuovere il tappeto isolante"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=5"
+  },
+  {
+    "id": "L5-015",
+    "topic": "Giunto fase 1 — equipotenzialità",
+    "q": "Con il dispositivo rimosso per la fase 1, secondo le slide:",
+    "options": [
+      "Equipotenzialità longitudinale e trasversale restano garantite",
+      "Equipotenzialità longitudinale è garantita tramite fasi 2 e 3, mentre quella trasversale non è garantita",
+      "Equipotenzialità trasversale è garantita ma non quella longitudinale",
+      "Nessuna forma di equipotenzialità è necessaria"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=5"
+  },
+  {
+    "id": "L5-016",
+    "topic": "Giunto fase 1 — mitigazione",
+    "q": "Per garantire isolamento rispetto al potenziale del posto di lavoro nella fase 1, le slide indicano:",
+    "options": [
+      "Usare solo guanti da lavoro",
+      "Disporre tappeto anche lungo i bordi dello scavo e utilizzare tronchetti isolanti",
+      "Eliminare il dispersore di terra",
+      "Aumentare la corrente di prova"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=5"
+  },
+  {
+    "id": "L5-017",
+    "topic": "Riferimenti e pericoli",
+    "q": "Secondo le slide, la normativa di riferimento per lavori fuori tensione richiamata è:",
+    "options": ["CEI 11-27", "DPR 151/2011", "ISO 45001", "CEI 0-21"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 5 — pag. 6",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=6"
+  },
+  {
+    "id": "L5-018",
+    "topic": "Rischio elettrocuzione",
+    "q": "Secondo le slide, un pericolo per chi esegue la giunzione è dovuto a possibili d.d.p. per:",
+    "options": [
+      "Solo umidità nello scavo",
+      "Mancato sezionamento/errore di manovra e tensione trasferita (a seguito di guasto) su parti attive e schermi",
+      "Solo sovratemperatura del tappeto",
+      "Solo rischio meccanico da utensili"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 6",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=6"
+  },
+  {
+    "id": "L5-019",
+    "topic": "5 regole d’oro",
+    "q": "Qual è la regola che prevede la verifica di assenza tensione (slide)?",
+    "options": [
+      "1) Sezionare completamente l’impianto",
+      "3) Verificare assenza tensione",
+      "4) Mettere a terra e in cortocircuito",
+      "5) Delimitare la zona di lavoro"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 7",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=7"
+  },
+  {
+    "id": "L5-020",
+    "topic": "5 regole d’oro",
+    "q": "Secondo le slide, la messa a terra e in cortocircuito e l’equipotenzialità sul posto di lavoro è (a cura):",
+    "options": ["RI", "PL", "DL", "RSPP"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 7",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=7"
+  },
+  {
+    "id": "L5-021",
+    "topic": "Tranciatura — apprestamenti",
+    "q": "Prima della tranciatura, tra gli apprestamenti di sicurezza indicati nelle slide c’è:",
+    "options": [
+      "Collegare la tranciacavi ad un dispersore di terra",
+      "Rimuovere tutte le terre e cortocircuiti in cabina",
+      "Aumentare la tensione per stabilizzare la linea",
+      "Lasciare attive le richiusure automatiche"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 5 — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=8"
+  },
+  {
+    "id": "L5-022",
+    "topic": "Tranciatura — richiusure",
+    "q": "Secondo le slide, prima della tranciatura bisogna:",
+    "options": [
+      "Escludere le richiusure automatiche di tutte le linee MT afferenti in cabina primaria",
+      "Attivare le richiusure per aumentare affidabilità",
+      "Verificare assenza tensione solo in cabina secondaria",
+      "Ridurre la profondità dello scavo"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 5 — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=8"
+  },
+  {
+    "id": "L5-023",
+    "topic": "Tranciatura — DPI",
+    "q": "Durante la tranciatura del cavo, le slide indicano come DPI:",
+    "options": [
+      "Guanti isolanti classe 0 e tappeto lungo le pareti",
+      "Tronchetti isolanti e visiera",
+      "Solo guanti da lavoro",
+      "Solo cuffie antirumore"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=8"
+  },
+  {
+    "id": "L5-024",
+    "topic": "Istruzione operativa",
+    "q": "La tranciatura del cavo deve essere effettuata secondo la modalità descritta nell’istruzione:",
+    "options": ["EM 1103", "EM 1059", "EA 0320", "EA 0362"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 5 — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=8"
+  },
+  {
+    "id": "L5-025",
+    "topic": "Tappeto isolante — obiettivi",
+    "q": "Secondo le slide, il tappeto isolante deve essere posizionato anche per:",
+    "options": [
+      "Aumentare la velocità di esecuzione",
+      "Segregare il cavo interessato dai lavori da eventuali altri cavi/sottoservizi presenti",
+      "Sostituire i guanti isolanti",
+      "Ridurre la necessità di equipotenzialità"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 9",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=9"
+  },
+  {
+    "id": "L5-026",
+    "topic": "Tappeto isolante — prevenzione contatto simultaneo",
+    "q": "Secondo le slide, il tappeto deve evitare che l’operatore possa avere contatto simultaneo con:",
+    "options": [
+      "Casco e visiera",
+      "Parte metallica del cavo e terreno circostante",
+      "Guanti e tronchetti",
+      "Due attrezzi contemporaneamente"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 9",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=9"
+  },
+  {
+    "id": "L5-027",
+    "topic": "Tappeto isolante — riferimenti",
+    "q": "Secondo le slide, la norma di riferimento per il tappeto isolante è:",
+    "options": ["CEI ENV 61111", "CEI 11-27", "CEI 0-21", "ISO 45001"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 5 — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=10"
+  },
+  {
+    "id": "L5-028",
+    "topic": "Tappeto isolante — specifica tecnica",
+    "q": "Secondo le slide, la specifica tecnica ENEL citata per il tappeto isolante è:",
+    "options": ["EA 0362", "EA 0320", "EM 1103", "EA 0310"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 5 — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=10"
+  },
+  {
+    "id": "L5-029",
+    "topic": "Tappeto isolante — requisiti visivi",
+    "q": "Secondo le slide, il tappeto isolante deve essere realizzato in unico strato senza:",
+    "options": [
+      "Marcature indelebili",
+      "Giunzioni, gonfiori, screpolature, inclusioni di bolle d’aria/corpi estranei, muffa o difetti visibili",
+      "Rivestimento superficiale",
+      "Dimensioni standard"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=10"
+  },
+  {
+    "id": "L5-030",
+    "topic": "Tappeto isolante — spessore",
+    "q": "Secondo le slide, lo spessore del tappeto isolante deve essere:",
+    "options": ["Non inferiore a 1 mm", "Non inferiore a 2 mm", "Non inferiore a 3 mm", "Non inferiore a 5 mm"],
+    "answerIndex": 2,
+    "refLabel": "Lezione 5 — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=10"
+  },
+  {
+    "id": "L5-031",
+    "topic": "Riepilogo DPI per fasi",
+    "q": "Nel riepilogo finale (slide), quali DPI sono previsti per la “Realizzazione condizioni di equipotenzialità”?",
+    "options": [
+      "Solo guanti da lavoro",
+      "Guanti isolanti + tronchetti + tappeto lungo le pareti",
+      "Tronchetti isolanti e visiera",
+      "Solo casco con visiera"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 11",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=11"
+  },
+  {
+    "id": "L5-032",
+    "topic": "Riepilogo DPI per fasi",
+    "q": "Nel riepilogo finale (slide), quali DPI sono previsti per la “Giunzione delle fasi 2 e 3”?",
+    "options": [
+      "Guanti isolanti + tronchetti",
+      "Guanti da lavoro",
+      "Tronchetti isolanti e visiera",
+      "Guanti isolanti classe 3"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 11",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=11"
+  },
+  {
+    "id": "L5-033",
+    "topic": "Riepilogo DPI per fasi",
+    "q": "Nel riepilogo finale (slide), per la “Giunzione fase 1” sono previsti:",
+    "options": [
+      "Solo guanti da lavoro",
+      "Guanti da lavoro + tronchetti + tappeto lungo le pareti",
+      "Tronchetti isolanti e visiera",
+      "Solo casco con visiera"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 5 — pag. 11",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-5-esecuzione-di-giunti.pdf#page=11"
+  }
+]

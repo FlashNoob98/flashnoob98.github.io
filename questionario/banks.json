@@ -19,6 +19,16 @@
   "id": "lezione_3_incendio_elettrico_esplosione",
   "title": "Lezione 3 — Incendio / Elettrico / Esplosione",
   "file": "questions/questions_lezione_3_incendio_elettrico_esplosione.json"
-}
+    },
+    {
+        "id": "lezione_4_titolo_iv",
+        "title": "Lezione 4 — Titolo IV (Cantieri)",
+        "file": "questions/questions_lezione_4_titolo_iv.json"
+    },
+    {
+        "id": "lezione_5_esecuzione_di_giunti",
+        "title": "Lezione 5 — Esecuzione di giunti",
+        "file": "questions/questions_lezione_5_esecuzione_di_giunti.json"
+    }
   ]
 }

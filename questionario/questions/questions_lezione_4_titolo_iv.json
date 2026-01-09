@@ -1,0 +1,588 @@
+[
+  {
+    "id": "L4-001",
+    "topic": "Agenda",
+    "q": "Quali macro-temi sono inclusi nell’agenda della lezione Titolo IV?",
+    "options": [
+      "Titolo IV (Capo I/II, applicazione/definizioni, figure e ruoli), gestione interferenze (Titolo IV e Titolo I), attività in cantiere (PJC, rischi interferenziali, Stop Work)",
+      "Solo rischio elettrico e distanze",
+      "Solo antincendio e CPI",
+      "Solo rifiuti e terre e rocce"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 2",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=2"
+  },
+  {
+    "id": "L4-002",
+    "topic": "Struttura Titolo IV",
+    "q": "Secondo le slide, il Titolo IV si articola in:",
+    "options": [
+      "Capo I (misure per salute e sicurezza nei cantieri) e Capo II (prevenzione infortuni nelle costruzioni e lavori in quota)",
+      "Capo I (rischio elettrico) e Capo II (ATEX)",
+      "Un solo capo dedicato ai DPI",
+      "Tre capi: cantieri, incendi, rifiuti"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 3",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=3"
+  },
+  {
+    "id": "L4-003",
+    "topic": "Capo I — articoli",
+    "q": "Quale articolo (slide) riguarda la Notifica Preliminare (NP)?",
+    "options": ["Art. 90", "Art. 99", "Art. 100", "Art. 96"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 4 — pag. 4",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=4"
+  },
+  {
+    "id": "L4-004",
+    "topic": "Capo I — articoli",
+    "q": "Quale articolo (slide) riguarda il Piano di Sicurezza e Coordinamento (PSC)?",
+    "options": ["Art. 100", "Art. 95", "Art. 91", "Art. 98"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 4",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=4"
+  },
+  {
+    "id": "L4-005",
+    "topic": "Capo I — articoli",
+    "q": "Quale articolo (slide) riguarda gli obblighi del committente o del responsabile dei lavori?",
+    "options": ["Art. 90", "Art. 92", "Art. 94", "Art. 97"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 4",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=4"
+  },
+  {
+    "id": "L4-006",
+    "topic": "Applicazione",
+    "q": "Secondo le slide (Art. 88), il Capo I contiene disposizioni specifiche relative a:",
+    "options": [
+      "Misure per tutela salute e sicurezza nei cantieri temporanei o mobili",
+      "Solo gestione rifiuti in cantiere",
+      "Solo rischio incendio nei locali",
+      "Solo rischio elettrico"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=5"
+  },
+  {
+    "id": "L4-007",
+    "topic": "Definizioni",
+    "q": "Secondo le slide (Art. 89), un “cantiere temporaneo o mobile” è:",
+    "options": [
+      "Qualunque luogo dove si effettuano lavori edili o di ingegneria civile elencati in Allegato X",
+      "Qualunque ambiente con rischio elettrico",
+      "Solo un’area recintata con cartelli",
+      "Solo una sede aziendale con uffici"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=5"
+  },
+  {
+    "id": "L4-008",
+    "topic": "Allegati",
+    "q": "Quale allegato (slide) riporta l’elenco dei lavori edili o di ingegneria civile?",
+    "options": ["Allegato X", "Allegato XII", "Allegato XV", "Allegato I"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 4-5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=4"
+  },
+  {
+    "id": "L4-009",
+    "topic": "Allegati",
+    "q": "Quale allegato (slide) riguarda i contenuti della Notifica Preliminare?",
+    "options": ["Allegato XII", "Allegato X", "Allegato XV", "Allegato XI"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 4",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=4"
+  },
+  {
+    "id": "L4-010",
+    "topic": "Allegati",
+    "q": "Quale allegato (slide) riguarda i contenuti minimi dei piani di sicurezza nei cantieri (PSC/POS)?",
+    "options": ["Allegato XV", "Allegato X", "Allegato XII", "Allegato II"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 4",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=4"
+  },
+  {
+    "id": "L4-011",
+    "topic": "Figure e ruoli",
+    "q": "Secondo le slide, il Committente è:",
+    "options": [
+      "Il soggetto per conto del quale l’intera opera viene realizzata",
+      "Il soggetto che esegue materialmente i lavori",
+      "Il soggetto che fa la sorveglianza sanitaria",
+      "Il soggetto che redige il POS dell’impresa"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 7",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=7"
+  },
+  {
+    "id": "L4-012",
+    "topic": "Figure e ruoli",
+    "q": "Secondo le slide, il Responsabile dei Lavori (RL) è:",
+    "options": [
+      "Soggetto incaricato dal committente per svolgere i compiti attribuiti al committente dal decreto",
+      "Il lavoratore autonomo che opera in cantiere",
+      "Il datore di lavoro dell’impresa esecutrice",
+      "Il coordinatore per l’esecuzione"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 7",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=7"
+  },
+  {
+    "id": "L4-013",
+    "topic": "Figure e ruoli",
+    "q": "Secondo le slide, il CSP (Coordinatore per la Progettazione) è:",
+    "options": [
+      "Soggetto incaricato dal committente per la progettazione dell’opera in materia di sicurezza e salute (redige PSC)",
+      "Soggetto che verifica la coerenza dei POS con il PSC in fase di esecuzione",
+      "Il lavoratore autonomo che contribuisce alla realizzazione dell’opera",
+      "Il datore di lavoro committente ex art. 26"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 7",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=7"
+  },
+  {
+    "id": "L4-014",
+    "topic": "Figure e ruoli",
+    "q": "Secondo le slide, il CSE (Coordinatore per l’Esecuzione) svolge:",
+    "options": [
+      "Sopralluoghi in cantiere e monitora il corretto rispetto delle prescrizioni previste dal PSC",
+      "Solo la redazione del PSC in fase di progettazione",
+      "Solo l’addestramento dei lavoratori",
+      "Solo la gestione rifiuti"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 7",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=7"
+  },
+  {
+    "id": "L4-015",
+    "topic": "Figure e ruoli",
+    "q": "Secondo le slide, l’Impresa affidataria è:",
+    "options": [
+      "L’impresa a cui è affidata l’opera",
+      "L’impresa che fa solo consegne materiali",
+      "Il lavoratore autonomo",
+      "L’ente di vigilanza"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 7",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=7"
+  },
+  {
+    "id": "L4-016",
+    "topic": "Figure e ruoli",
+    "q": "Secondo le slide, l’Impresa esecutrice è:",
+    "options": [
+      "Impresa che esegue l’opera",
+      "Impresa che redige il PSC",
+      "Committente",
+      "Responsabile dei lavori"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 7",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=7"
+  },
+  {
+    "id": "L4-017",
+    "topic": "Figure e ruoli",
+    "q": "Secondo le slide, il Lavoratore autonomo è:",
+    "options": [
+      "Persona fisica la cui attività professionale contribuisce alla realizzazione dell’opera",
+      "Persona fisica che lavora solo in ufficio",
+      "Persona giuridica che gestisce appalti",
+      "Un soggetto con sola funzione di vigilanza"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 7",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=7"
+  },
+  {
+    "id": "L4-018",
+    "topic": "CSP e CSE",
+    "q": "Secondo le slide, CSP e CSE:",
+    "options": [
+      "Possono coincidere",
+      "Non possono mai coincidere",
+      "Coincidono solo per cantieri in BT",
+      "Coincidono solo per lavori in emergenza"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 7",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=7"
+  },
+  {
+    "id": "L4-019",
+    "topic": "Interferenze",
+    "q": "Secondo le slide, la gestione delle interferenze si rende necessaria quando:",
+    "options": [
+      "Due o più aziende operano nella stessa area lavorativa nello stesso momento o in successione, e l’attività di chi precede può influenzare la sicurezza di chi opera dopo",
+      "C’è una sola impresa e un solo lavoratore",
+      "Non esistono rischi specifici",
+      "Si opera solo in ufficio"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=8"
+  },
+  {
+    "id": "L4-020",
+    "topic": "Applicazione Titolo IV",
+    "q": "Nel flowchart delle slide, se il lavoro è svolto da una sola impresa, il committente/RL deve:",
+    "options": [
+      "Comunicare i rischi specifici presenti nell’ambiente di lavoro",
+      "Nominare CSP e CSE",
+      "Inviare la Notifica Preliminare",
+      "Redigere il POS al posto dell’impresa"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 9",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=9"
+  },
+  {
+    "id": "L4-021",
+    "topic": "Applicazione Titolo IV",
+    "q": "Nel flowchart delle slide, se il lavoro NON è svolto da una sola impresa, il committente/RL deve anche:",
+    "options": [
+      "Nominare CSP e CSE e inviare Notifica Preliminare",
+      "Solo comunicare rischi specifici",
+      "Solo redigere POS",
+      "Solo applicare Stop Work"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 9",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=9"
+  },
+  {
+    "id": "L4-022",
+    "topic": "POS",
+    "q": "Nel flowchart delle slide, chi redige il Piano Operativo di Sicurezza (POS)?",
+    "options": [
+      "L’impresa",
+      "Il committente",
+      "Il CSP",
+      "Il CSE"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 9",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=9"
+  },
+  {
+    "id": "L4-023",
+    "topic": "CSP — responsabilità",
+    "q": "Secondo le slide, il CSP in fase di progettazione:",
+    "options": [
+      "Analizza interferenze e stabilisce misure per ridurre i rischi interferenti; elabora il PSC",
+      "Verifica applicazione misure del PSC in campo",
+      "Redige il POS dell’impresa",
+      "Gestisce i DPI di cantiere"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=10"
+  },
+  {
+    "id": "L4-024",
+    "topic": "CSP — eccezione",
+    "q": "Secondo le slide, il CSP non è obbligato a redigere il PSC per:",
+    "options": [
+      "Lavori su guasto/emergenza",
+      "Tutti i cantieri con più imprese",
+      "Lavori in quota",
+      "Cantieri con notifica preliminare"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=10"
+  },
+  {
+    "id": "L4-025",
+    "topic": "CSE — responsabilità",
+    "q": "Secondo le slide, il CSE:",
+    "options": [
+      "Verifica applicazione misure del PSC e l’idoneità/coerenza dei POS con il PSC",
+      "Redige il PSC in fase di progettazione",
+      "È sempre il datore di lavoro dell’impresa",
+      "Redige la Notifica Preliminare per conto dell’impresa"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=10"
+  },
+  {
+    "id": "L4-026",
+    "topic": "CSE — poteri",
+    "q": "Secondo le slide, il CSE può:",
+    "options": [
+      "Segnalare inosservanze e proporre sospensione lavori/risoluzione contratto",
+      "Sostituire il committente in modo automatico",
+      "Redigere POS per tutte le imprese",
+      "Eseguire lavori elettrici sotto tensione"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=10"
+  },
+  {
+    "id": "L4-027",
+    "topic": "PSC",
+    "q": "Secondo le slide, il PSC è:",
+    "options": [
+      "Redatto durante la progettazione e specifico per ogni singolo cantiere",
+      "Un documento standard valido per tutte le imprese e tutti i cantieri",
+      "Un documento opzionale sempre e comunque",
+      "Il documento di idoneità tecnico-professionale"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 11",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=11"
+  },
+  {
+    "id": "L4-028",
+    "topic": "PSC — focus",
+    "q": "Secondo le slide, il PSC ha focus sui:",
+    "options": [
+      "Rischi aggiuntivi rispetto a quelli specifici propri delle singole imprese/lavoratori autonomi",
+      "Rischi esclusivamente sanitari",
+      "Rischi fiscali e amministrativi",
+      "Rischi di mercato"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 11",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=11"
+  },
+  {
+    "id": "L4-029",
+    "topic": "PSC — eccezione continuità servizio",
+    "q": "Secondo le slide, il PSC può non essere redatto quando:",
+    "options": [
+      "Per lavori la cui esecuzione immediata è necessaria per garantire continuità nell’erogazione di servizi essenziali",
+      "C’è una sola impresa in qualunque caso",
+      "Il cantiere dura meno di 1 giorno",
+      "Il cantiere è in BT"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 11",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=11"
+  },
+  {
+    "id": "L4-030",
+    "topic": "POS",
+    "q": "Secondo le slide, il POS deve:",
+    "options": [
+      "Considerare attività/lavorazioni della propria impresa e dei lavoratori autonomi sub-affidatari; descrivere attività e modalità organizzative",
+      "Essere uguale al PSC",
+      "Essere redatto dal CSE",
+      "Riguardare esclusivamente i rischi del committente"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 11",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=11"
+  },
+  {
+    "id": "L4-031",
+    "topic": "POS — contenuti",
+    "q": "Secondo le slide, il POS contiene anche:",
+    "options": [
+      "Riferimenti degli incaricati alle emergenze e le procedure complementari eventualmente richieste dal PSC",
+      "Solo l’elenco DPI",
+      "Solo il cronoprogramma lavori",
+      "Solo i costi della sicurezza"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 11",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=11"
+  },
+  {
+    "id": "L4-032",
+    "topic": "Art. 26 — obblighi",
+    "q": "Secondo le slide, l’art. 26 impone al Datore di Lavoro Committente di comunicare all’impresa appaltatrice:",
+    "options": [
+      "Informazioni dettagliate sui rischi specifici presenti nell’ambiente e sulle misure di prevenzione/emergenza adottate",
+      "Solo i rischi specifici dell’impresa appaltatrice",
+      "Solo le procedure operative dell’impresa",
+      "Solo l’elenco dei materiali"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 12",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=12"
+  },
+  {
+    "id": "L4-033",
+    "topic": "Art. 26 — perimetro rischi",
+    "q": "Secondo le slide, la comunicazione ex art. 26 riguarda:",
+    "options": [
+      "Rischi specifici presenti negli ambienti di lavoro di cui il Committente ha disponibilità giuridica (non i rischi propri dell’appaltatore)",
+      "Tutti i rischi dell’appaltatore e subappaltatore",
+      "Solo rischi interferenziali",
+      "Solo rischi elettrici"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 12",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=12"
+  },
+  {
+    "id": "L4-034",
+    "topic": "MArt26",
+    "q": "Secondo le slide, in e-distribuzione l’obbligo di comunicazione ex art.26 viene ottemperato con:",
+    "options": [
+      "Moduli MArt26, indifferentemente da natura prestazione/impianto/contratto",
+      "Solo PSC",
+      "Solo POS",
+      "Solo verbale di coordinamento"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 12",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=12"
+  },
+  {
+    "id": "L4-035",
+    "topic": "DUVRI — quando",
+    "q": "Secondo le slide, in caso di presenza di più imprese esecutrici il DdL committente deve:",
+    "options": [
+      "Promuovere cooperazione e coordinamento elaborando un unico documento (DUVRI) con misure per eliminare o ridurre rischi da interferenza",
+      "Redigere PSC al posto del CSP",
+      "Sostituire i POS con un verbale",
+      "Eliminare il PJC perché coperto dal DUVRI"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 13",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=13"
+  },
+  {
+    "id": "L4-036",
+    "topic": "DUVRI — definizione rischio interferenza",
+    "q": "Secondo le slide, c’è rischio da interferenza quando:",
+    "options": [
+      "L’attività di un’impresa può generare rischi per lavoratori di un’altra impresa nello stesso ambiente anche in momenti diversi",
+      "Due lavoratori della stessa impresa operano insieme",
+      "C’è un solo fornitore",
+      "L’attività è solo amministrativa"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 13",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=13"
+  },
+  {
+    "id": "L4-037",
+    "topic": "DUVRI — modalità e-distribuzione",
+    "q": "Secondo le slide, l’obbligo DUVRI viene ottemperato utilizzando:",
+    "options": [
+      "Moduli MArt26 compilati come DUVRI",
+      "Solo PSC",
+      "Solo PJC",
+      "Solo POS dell’impresa affidataria"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 13",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=13"
+  },
+  {
+    "id": "L4-038",
+    "topic": "PJC",
+    "q": "Secondo le slide, il Pre Job Check (PJC) è un documento in cui preposto e addetti condividono informazioni su:",
+    "options": [
+      "Ambiente di lavoro, rischi presenti e fasi più pericolose, ruoli/responsabilità, DPI e DPC necessari",
+      "Solo i costi della sicurezza",
+      "Solo la turnazione del personale",
+      "Solo i numeri di telefono"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 14",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=14"
+  },
+  {
+    "id": "L4-039",
+    "topic": "Rischi interferenziali — investimento",
+    "q": "Secondo le slide, tra le misure per ridurre l’investimento all’interno del cantiere è indicato:",
+    "options": [
+      "Moderare la velocità e mantenere sgombere le vie di transito; alta visibilità; assistenza alle manovre",
+      "Sostare in area di impatto per controllare meglio",
+      "Eliminare i segnali acustici dei mezzi",
+      "Lasciare i transiti non delimitati"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 15",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=15"
+  },
+  {
+    "id": "L4-040",
+    "topic": "Rischi interferenziali — movimentazione carichi",
+    "q": "Secondo le slide, durante movimentazione carichi è indicato (tra le altre):",
+    "options": [
+      "Non sostare o transitare sotto carichi sospesi e verificare idoneità macchinari/veicoli",
+      "Transitare sotto carichi sospesi se con casco",
+      "Posizionare il mezzo senza valutare linee elettriche",
+      "Ignorare l’area di impatto"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 15",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=15"
+  },
+  {
+    "id": "L4-041",
+    "topic": "Rischi interferenziali — caduta oggetti",
+    "q": "Secondo le slide, per mitigare caduta oggetti è indicato:",
+    "options": [
+      "Individuare/delimitare area d’impatto e seguire il movimento posizionandosi fuori area; assicurare attrezzi piccoli in borse/cinture",
+      "Stazionare in area d’impatto per controllare",
+      "Lanciare gli attrezzi per velocizzare",
+      "Evitare qualunque delimitazione"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 15",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=15"
+  },
+  {
+    "id": "L4-042",
+    "topic": "Stop Work Policy — principi",
+    "q": "Secondo le slide, la Stop Work Policy si basa sul principio che:",
+    "options": [
+      "La salute e sicurezza sono valori fondamentali e chi segnala in buona fede non subisce conseguenze",
+      "Lo stop è consentito solo al committente",
+      "Lo stop è una sanzione disciplinare automatica",
+      "Lo stop si applica solo a fine giornata"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 16",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=16"
+  },
+  {
+    "id": "L4-043",
+    "topic": "Stop Work Policy — quando",
+    "q": "Secondo le slide, la Stop Work è motivata da:",
+    "options": [
+      "Osservazione di situazione di imminente ed evidente pericolo per l’integrità fisica; richiede interruzione immediata",
+      "Qualsiasi dubbio non verificato, senza necessità di fermare",
+      "Solo da eventi già accaduti (infortunio)",
+      "Solo da richieste del cliente"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 17",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=17"
+  },
+  {
+    "id": "L4-044",
+    "topic": "Stop Work Policy — chi",
+    "q": "Secondo le slide, chi può applicare la Stop Work?",
+    "options": [
+      "Tutto il personale e-distribuzione può arrestare attività di colleghi o imprese; il personale d’impresa può arrestare proprie attività e anche quelle di e-distribuzione/altre imprese presenti",
+      "Solo il CSE",
+      "Solo il CSP",
+      "Solo l’ente di vigilanza"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 4 — pag. 17",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-4-titolo-IV.pdf#page=17"
+  }
+]
