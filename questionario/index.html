@@ -55,18 +55,27 @@
         <span class="pill">Domande totali <span id="poolSize">-</span></span>
       </div>
 
-      <!-- Selettore argomenti -->
-      <div class="picker" id="topicPicker" style="display:none;">
-        <div class="pickerHead">
-          <div class="pickerTitle">Seleziona argomenti (pool)</div>
-          <div class="pickerBtns">
-            <button class="btn" id="pickAll" type="button">Seleziona tutto</button>
-            <button class="btn" id="pickNone" type="button">Deseleziona tutto</button>
-          </div>
+    <!-- Selettore argomenti (collassabile) -->
+    <div class="picker" id="topicPicker" style="display:none;">
+    <button class="pickerRow" id="pickerToggle" type="button" aria-expanded="false">
+        <div class="pickerRowLeft">
+        <div class="pickerTitle">Seleziona argomenti (pool)</div>
+        <div class="small" id="pickerSummary">Caricamento…</div>
         </div>
+        <div class="chev" id="pickerChev">▾</div>
+    </button>
+
+    <div class="pickerBody" id="pickerBody" style="display:none;">
+        <div class="pickerBtns">
+        <button class="btn" id="pickAll" type="button">Seleziona tutto</button>
+        <button class="btn" id="pickNone" type="button">Deseleziona tutto</button>
+        </div>
+
         <div class="pickerList" id="topicList"></div>
         <div class="small" id="topicHint" style="margin-top:10px;"></div>
-      </div>
+    </div>
+    </div>
+    <!-- /Selettore argomenti -->
 
       <div class="progress"><div class="bar" id="bar"></div></div>
       <div class="small" id="topic"></div>
