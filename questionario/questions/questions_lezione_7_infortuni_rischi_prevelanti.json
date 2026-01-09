@@ -1,0 +1,366 @@
+[
+  {
+    "id": "L7-001",
+    "topic": "Agenda",
+    "q": "Quali argomenti copre la lezione secondo la prima slide?",
+    "options": [
+      "Definizione e classificazione incidenti (Policy 106), valutazione rischi e prevenzione, rischi prevalenti, emergenza",
+      "Solo rischio elettrico e CEI 11-27",
+      "Solo Titolo IV e PSC",
+      "Solo rifiuti e ADR"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 7 — pag. 1",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=1"
+  },
+  {
+    "id": "L7-002",
+    "topic": "Rischi prevalenti",
+    "q": "Quale dei seguenti NON è tra le tipologie di eventi H&S mostrate come “rischi prevalenti”?",
+    "options": [
+      "Elettrocuzione/arco elettrico",
+      "Caduta dall’alto (>2m)",
+      "Incendio",
+      "Esposizione a rumore (ipoacusia)"
+    ],
+    "answerIndex": 3,
+    "refLabel": "Lezione 7 — pag. 4",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=4"
+  },
+  {
+    "id": "L7-003",
+    "topic": "Definizioni",
+    "q": "Secondo le slide, un “incidente di sicurezza” è:",
+    "options": [
+      "Un evento previsto nel POS",
+      "Un evento imprevisto e indesiderato in cui si è verificato o avrebbe potuto verificarsi un infortunio",
+      "Qualsiasi deviazione amministrativa",
+      "Solo un infortunio con prognosi > 30 giorni"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 7 — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=5"
+  },
+  {
+    "id": "L7-004",
+    "topic": "Classi evento",
+    "q": "Quale definizione corrisponde a “Near Miss” secondo le slide?",
+    "options": [
+      "Incidente con assenza dal lavoro di almeno un giorno",
+      "Incidente che non ha provocato lesioni ma che poteva potenzialmente provocarle",
+      "Incidente che richiede trattamento medico in struttura sanitaria",
+      "Osservazione su un comportamento sicuro"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 7 — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=5"
+  },
+  {
+    "id": "L7-005",
+    "topic": "Safety Observation",
+    "q": "Secondo le slide, una “Safety Observation” è:",
+    "options": [
+      "Un comportamento o situazione non sicura/rischiosa che non ha provocato un incidente ma potrebbe causarlo",
+      "Un infortunio con prognosi superiore a 30 giorni",
+      "Un evento sempre classificato HiPo",
+      "Un documento equivalente al DUVRI"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 7 — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=5"
+  },
+  {
+    "id": "L7-006",
+    "topic": "Classificazione infortuni",
+    "q": "Quali sono le categorie di classificazione infortuni riportate nelle slide?",
+    "options": [
+      "Fatali (FAT), Che cambiano permanentemente la vita (LC ACC), Alto Potenziale (HiPo), Altri (OTH)",
+      "Lieve, Medio, Grave, Critico",
+      "Infortunio, First Aid, Near Miss, Observation",
+      "BT, MT, AT, EAT"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 7 — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=8"
+  },
+  {
+    "id": "L7-007",
+    "topic": "HiPo",
+    "q": "Quando un infortunio si classifica HiPo secondo le slide?",
+    "options": [
+      "Quando la prognosi è sempre > 30 giorni",
+      "Quando la dinamica, indipendentemente dal danno reale, avrebbe potuto provocare un FAT o un LC ACC",
+      "Quando avviene in itinere",
+      "Quando coinvolge solo danni materiali"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 7 — pag. 8-9",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=9"
+  },
+  {
+    "id": "L7-008",
+    "topic": "HiPo - esclusioni",
+    "q": "Secondo le slide, la classificazione HiPo NON si applica:",
+    "options": [
+      "Agli infortuni sul lavoro durante spostamento (es. in macchina, bicicletta, camion)",
+      "Agli infortuni da caduta dall’alto",
+      "Agli infortuni da elettrico",
+      "Agli infortuni da intrappolamento"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 7 — pag. 9",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=9"
+  },
+  {
+    "id": "L7-009",
+    "topic": "Incidente sul lavoro / itinere",
+    "q": "Quale definizione è corretta per “incidente in itinere” secondo le slide?",
+    "options": [
+      "Incidente avvenuto durante l’attività lavorativa",
+      "Incidente durante il normale trasferimento casa-lavoro (e viceversa) o verso luogo di consumazione pasti se non mensa interna",
+      "Incidente avvenuto solo in cantiere",
+      "Incidente avvenuto durante la formazione"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 7 — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=10"
+  },
+  {
+    "id": "L7-010",
+    "topic": "Analisi eventi H&S",
+    "q": "Secondo le slide, quali eventi H&S devono essere analizzati?",
+    "options": [
+      "Solo gli infortuni con prognosi > 30 giorni",
+      "Tutti gli eventi H&S (infortuni, first aid, near miss, safety observation)",
+      "Solo i near miss",
+      "Solo gli eventi elettrici"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 7 — pag. 11",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=11"
+  },
+  {
+    "id": "L7-011",
+    "topic": "Pericolo vs Rischio",
+    "q": "Secondo le slide, il “pericolo” è:",
+    "options": [
+      "La probabilità che il danno si verifichi",
+      "La fonte potenziale di un danno",
+      "L’effetto del danno sul lavoratore",
+      "Un evento già accaduto"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 7 — pag. 13",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=13"
+  },
+  {
+    "id": "L7-012",
+    "topic": "Formula rischio",
+    "q": "Qual è la formula del rischio riportata nelle slide?",
+    "options": [
+      "R = D / P",
+      "R = P × D",
+      "R = P + D",
+      "R = D − P"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 7 — pag. 13",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=13"
+  },
+  {
+    "id": "L7-013",
+    "topic": "Obblighi non delegabili DL",
+    "q": "Quali sono gli obblighi non delegabili del Datore di Lavoro riportati nelle slide?",
+    "options": [
+      "Designazione del RSPP e valutazione dei rischi (DVR)",
+      "Nomina del preposto e redazione PSC",
+      "Redazione POS e rilascio permessi di lavoro",
+      "Solo formazione e addestramento"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 7 — pag. 16",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=16"
+  },
+  {
+    "id": "L7-014",
+    "topic": "Gerarchia controlli",
+    "q": "Qual è l’ordine (dall’opzione più efficace alla meno efficace) della gerarchia di controllo mostrata?",
+    "options": [
+      "DPI → controlli amministrativi → controlli di ingegneria → sostituzione → eliminazione",
+      "Eliminazione → sostituzione → controllo di ingegneria → controlli amministrativi → DPI",
+      "Controlli amministrativi → DPI → eliminazione → sostituzione → ingegneria",
+      "Sostituzione → eliminazione → DPI → ingegneria → amministrativi"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 7 — pag. 20",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=20"
+  },
+  {
+    "id": "L7-015",
+    "topic": "Azioni pericolose",
+    "q": "Secondo le slide, le “violazioni” sono:",
+    "options": [
+      "Azioni pericolose volontarie",
+      "Errori senza consapevolezza e volontarietà",
+      "Eventi climatici non previsti",
+      "Near miss automaticamente HiPo"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 7 — pag. 23",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=23"
+  },
+  {
+    "id": "L7-016",
+    "topic": "Rischio elettrico - contatti",
+    "q": "Secondo le slide, i due tipi di contatto con parti in tensione sono:",
+    "options": [
+      "Contatto in quota e contatto a terra",
+      "Contatto diretto e contatto indiretto",
+      "Contatto statico e contatto dinamico",
+      "Contatto capacitivo e induttivo"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 7 — pag. 29-30",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=29"
+  },
+  {
+    "id": "L7-017",
+    "topic": "Elettrocuzione",
+    "q": "Secondo le slide, la gravità dell’elettrocuzione dipende (tra gli altri) da:",
+    "options": [
+      "Solo dalla marca degli attrezzi",
+      "Intensità e durata della corrente, tensione di contatto, frequenza, organi coinvolti e impedenza del corpo umano",
+      "Solo dalla temperatura ambiente",
+      "Solo dall’altezza del sostegno"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 7 — pag. 31",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=31"
+  },
+  {
+    "id": "L7-018",
+    "topic": "Effetti corrente",
+    "q": "Quale effetto della corrente elettrica è indicato nelle slide come responsabile di oltre il 90% delle morti?",
+    "options": [
+      "Ustioni",
+      "Fibrillazione ventricolare",
+      "Tetanizzazione",
+      "Arresto respiratorio"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 7 — pag. 32",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=32"
+  },
+  {
+    "id": "L7-019",
+    "topic": "Arco elettrico",
+    "q": "Secondo le slide, in un corto circuito la temperatura può superare:",
+    "options": [
+      "1.000°C",
+      "10.000°C",
+      "500°C",
+      "2.000°C"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 7 — pag. 36",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=36"
+  },
+  {
+    "id": "L7-020",
+    "topic": "Impianto di terra - definizioni",
+    "q": "Secondo le slide, il “dispersore” è:",
+    "options": [
+      "Un conduttore in contatto elettrico col terreno o annegato nel calcestruzzo a contatto col terreno",
+      "Un DPI contro arco elettrico",
+      "Un sezionatore MT",
+      "Una barriera contro contatti diretti"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 7 — pag. 45",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=45"
+  },
+  {
+    "id": "L7-021",
+    "topic": "Lavori in quota - definizione",
+    "q": "Secondo l’Art. 107 richiamato nelle slide, “lavori in quota” sono attività che espongono a caduta da altezza superiore a:",
+    "options": [
+      "1 m",
+      "2 m",
+      "3 m",
+      "5 m"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 7 — pag. 56",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=56"
+  },
+  {
+    "id": "L7-022",
+    "topic": "Lavori in quota - priorità",
+    "q": "Secondo le slide (Art. 111/115), qual è la priorità nella protezione contro le cadute dall’alto?",
+    "options": [
+      "DPI prima di tutto",
+      "Misure collettive (parapetti, reti) prima dei DPI",
+      "Solo formazione",
+      "Solo segnaletica"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 7 — pag. 57",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=57"
+  },
+  {
+    "id": "L7-023",
+    "topic": "Movimentazione carichi - riferimenti",
+    "q": "Secondo le slide, la movimentazione manuale dei carichi è trattata nel D.Lgs. 81/08:",
+    "options": [
+      "Titolo VI",
+      "Titolo IV",
+      "Titolo I",
+      "Titolo III"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 7 — pag. 68",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=68"
+  },
+  {
+    "id": "L7-024",
+    "topic": "Movimentazione carichi - 10 punti",
+    "q": "Tra i “10 punti da ricordare” sulla movimentazione carichi, quale è riportato nelle slide?",
+    "options": [
+      "Divieto di improvvisazione",
+      "DPI sempre indossati",
+      "Non usare lo smartphone",
+      "Non trasportare passeggeri"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 7 — pag. 71",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=71"
+  },
+  {
+    "id": "L7-025",
+    "topic": "Emergenza - recupero",
+    "q": "Secondo le slide, è buona norma effettuare con periodicità almeno ____ simulazioni di emergenza che prevedano recupero operatore in quota.",
+    "options": [
+      "Annuale",
+      "Biennale",
+      "Triennale",
+      "Quinquennale"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 7 — pag. 74",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=74"
+  },
+  {
+    "id": "L7-026",
+    "topic": "Emergenza - numero guasti",
+    "q": "Secondo le slide, per far “staccare” la corrente occorre chiamare il servizio segnalazione guasti ed emergenze e-distribuzione al numero:",
+    "options": [
+      "112",
+      "118",
+      "803 500",
+      "800 900 800"
+    ],
+    "answerIndex": 2,
+    "refLabel": "Lezione 7 — pag. 76",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-7-infortuni-e-rischi-prevalenti.pdf#page=76"
+  }
+]

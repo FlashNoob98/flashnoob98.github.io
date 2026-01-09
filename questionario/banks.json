@@ -34,6 +34,11 @@
         "id": "lezione_6_controlli_cantiere",
         "title": "Lezione 6 — Controlli cantiere (CCO, schede A1/A2/A3A, VR, NC)",
         "file": "questions/questions_lezione_6_controlli_cantiere.json"
+    },
+    {
+        "id": "lezione_7_infortuni_rischi_prevalenti",
+        "title": "Lezione 7 — Infortuni e rischi prevalenti (Policy 106, rischio elettrico, quota, MMC, emergenza)",
+        "file": "questions/questions_lezione_7_infortuni_rischi_prevalenti.json"
     }
   ]
 }
