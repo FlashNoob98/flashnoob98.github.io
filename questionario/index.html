@@ -30,6 +30,17 @@
     .btn.primary { border-color: rgba(96,165,250,.7); }
     .score { font-weight: 600; }
     code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+
+    /* Topic picker */
+    .picker { margin: 12px 0 8px; padding: 12px; border-radius: 12px; border: 1px solid rgba(255,255,255,.10); background: rgba(255,255,255,.03); }
+    .pickerHead { display:flex; align-items:center; justify-content:space-between; gap:10px; flex-wrap:wrap; }
+    .pickerTitle { font-weight:600; }
+    .pickerBtns { display:flex; gap:8px; flex-wrap:wrap; }
+    .pickerList { display:grid; gap:8px; margin-top:10px; }
+    .row { display:flex; align-items:center; gap:10px; padding:6px 0; }
+    .row span { flex:1; }
+    .count { opacity:.75; }
+    .warn { color: #fbbf24; }
   </style>
 </head>
 <body>
@@ -42,6 +53,19 @@
         <span class="pill">Punteggio <span class="score" id="score">0</span></span>
         <span class="pill">Seed <span id="seed"></span></span>
         <span class="pill">Domande totali <span id="poolSize">-</span></span>
+      </div>
+
+      <!-- Selettore argomenti -->
+      <div class="picker" id="topicPicker" style="display:none;">
+        <div class="pickerHead">
+          <div class="pickerTitle">Seleziona argomenti (pool)</div>
+          <div class="pickerBtns">
+            <button class="btn" id="pickAll" type="button">Seleziona tutto</button>
+            <button class="btn" id="pickNone" type="button">Deseleziona tutto</button>
+          </div>
+        </div>
+        <div class="pickerList" id="topicList"></div>
+        <div class="small" id="topicHint" style="margin-top:10px;"></div>
       </div>
 
       <div class="progress"><div class="bar" id="bar"></div></div>
@@ -114,7 +138,17 @@
   let seed = Number(qs("seed")) || Math.floor(Math.random() * 1e9);
   let rng = mulberry32(seed);
 
+  // Manifest + cache per bank
+  let BANKS = [];                    // [{id,title,file}]
+  const BANK_DATA = new Map();       // id -> { meta, questionsTagged, count }
+
+  // Selezione utente (persistita)
+  const LS_KEY = "selectedBanks_v1";
+  let selectedBankIds = new Set();   // id
+
+  // Pool effettivo (merge delle selezioni)
   let QUESTION_BANK = [];
+
   let quiz = [];
   let i = 0;
   let score = 0;
@@ -134,6 +168,136 @@
   const btnRestart = document.getElementById("restart");
   const btnCopy = document.getElementById("copyLink");
 
+  const elPicker = document.getElementById("topicPicker");
+  const elTopicList = document.getElementById("topicList");
+  const elTopicHint = document.getElementById("topicHint");
+  const btnPickAll = document.getElementById("pickAll");
+  const btnPickNone = document.getElementById("pickNone");
+
+  function saveSelection(){
+    try {
+      localStorage.setItem(LS_KEY, JSON.stringify(Array.from(selectedBankIds)));
+    } catch(_) {}
+  }
+  function loadSelection(){
+    try {
+      const raw = localStorage.getItem(LS_KEY);
+      if(!raw) return null;
+      const arr = JSON.parse(raw);
+      return Array.isArray(arr) ? arr : null;
+    } catch(_) { return null; }
+  }
+
+  function uniqById(arr){
+    const m = new Map();
+    for(const q of arr) m.set(q.id, q);
+    return Array.from(m.values());
+  }
+
+  function rebuildQuestionBankFromSelection(){
+    let merged = [];
+    for(const id of selectedBankIds){
+      const b = BANK_DATA.get(id);
+      if(b && Array.isArray(b.questionsTagged)) merged.push(...b.questionsTagged);
+    }
+    merged = uniqById(merged);
+
+    QUESTION_BANK = merged;
+    elPool.textContent = String(QUESTION_BANK.length);
+
+    // KPI selezione
+    const selectedCount = selectedBankIds.size;
+    const totalSelectedQuestions = QUESTION_BANK.length;
+
+    if(selectedCount === 0){
+      elTopicHint.innerHTML = `<span class="warn">Seleziona almeno un argomento.</span>`;
+      return false;
+    }
+    if(totalSelectedQuestions < 10){
+      elTopicHint.innerHTML = `<span class="warn">Pool selezionato troppo piccolo: ${totalSelectedQuestions} (min 10). Seleziona più argomenti.</span>`;
+      return false;
+    }
+
+    elTopicHint.textContent = `Attivi: ${selectedCount} argomenti — pool: ${totalSelectedQuestions} domande.`;
+    return true;
+  }
+
+  function renderTopicPicker(){
+    elPicker.style.display = "block";
+    elTopicList.innerHTML = "";
+
+    for(const b of BANKS){
+      const data = BANK_DATA.get(b.id);
+      const count = data ? data.count : 0;
+
+      const row = document.createElement("label");
+      row.className = "row";
+
+      const cb = document.createElement("input");
+      cb.type = "checkbox";
+      cb.dataset.bankId = b.id;
+      cb.checked = selectedBankIds.has(b.id);
+
+      const title = document.createElement("span");
+      title.textContent = b.title || b.id;
+
+      const cnt = document.createElement("span");
+      cnt.className = "count";
+      cnt.textContent = `(${count})`;
+
+      cb.addEventListener("change", () => {
+        if(cb.checked) selectedBankIds.add(b.id);
+        else selectedBankIds.delete(b.id);
+
+        saveSelection();
+        const ok = rebuildQuestionBankFromSelection();
+
+        // se la selezione è valida, rigenera immediatamente il quiz mantenendo seed
+        if(ok) buildQuiz();
+        else {
+          // blocca UI quiz finché non valido
+          elTopic.textContent = "Selezione argomenti";
+          elQ.textContent = "Pool non valido: seleziona più argomenti per avviare il quiz.";
+          elOpts.innerHTML = "";
+          elFb.innerHTML = "";
+          btnNext.disabled = true;
+          elBar.style.width = "0%";
+          elIdx.textContent = "1";
+          elScore.textContent = "0";
+        }
+      });
+
+      row.appendChild(cb);
+      row.appendChild(title);
+      row.appendChild(cnt);
+
+      elTopicList.appendChild(row);
+    }
+
+    btnPickAll.onclick = () => {
+      selectedBankIds = new Set(BANKS.map(b => b.id));
+      saveSelection();
+      // aggiorna checkbox
+      elTopicList.querySelectorAll('input[type="checkbox"][data-bank-id]').forEach(cb => cb.checked = true);
+      if(rebuildQuestionBankFromSelection()) buildQuiz();
+    };
+
+    btnPickNone.onclick = () => {
+      selectedBankIds.clear();
+      saveSelection();
+      elTopicList.querySelectorAll('input[type="checkbox"][data-bank-id]').forEach(cb => cb.checked = false);
+      rebuildQuestionBankFromSelection();
+      elTopic.textContent = "Selezione argomenti";
+      elQ.textContent = "Seleziona almeno un argomento per avviare il quiz.";
+      elOpts.innerHTML = "";
+      elFb.innerHTML = "";
+      btnNext.disabled = true;
+      elBar.style.width = "0%";
+      elIdx.textContent = "1";
+      elScore.textContent = "0";
+    };
+  }
+
   async function loadAllBanks(){
     const manifestRes = await fetch("./banks.json", { cache: "no-store" });
     if(!manifestRes.ok) throw new Error(`Errore caricamento banks.json (${manifestRes.status})`);
@@ -143,24 +307,45 @@
       throw new Error("banks.json non valido o senza banks[]");
     }
 
-    const all = [];
-    for (const b of manifest.banks) {
+    BANKS = manifest.banks;
+
+    // carico tutti i pool (serve per conteggi e per selezione)
+    for (const b of BANKS) {
       const res = await fetch("./" + b.file, { cache: "no-store" });
       if(!res.ok) throw new Error(`Errore caricamento ${b.file} (${res.status})`);
       const part = await res.json();
       validateBank(part, b.file);
-      // opzionale: tag banco nel topic
-      const tagged = part.map(q => ({ ...q, topic: b.title ? `${b.title} — ${q.topic}` : q.topic }));
-      all.push(...tagged);
+
+      // Tag nel topic per distinguere pool
+      const questionsTagged = part.map(q => ({ ...q, topic: b.title ? `${b.title} — ${q.topic}` : q.topic }));
+      BANK_DATA.set(b.id, { meta: b, questionsTagged, count: questionsTagged.length });
     }
 
-    if(all.length < 10) throw new Error(`Pool totale troppo piccolo: ${all.length} (min 10)`);
-    QUESTION_BANK = all;
-    elPool.textContent = String(QUESTION_BANK.length);
+    // default selezione: da localStorage, altrimenti tutto
+    const saved = loadSelection();
+    if(saved && saved.length){
+      // filtra eventuali id non più presenti
+      const present = new Set(BANKS.map(b => b.id));
+      selectedBankIds = new Set(saved.filter(id => present.has(id)));
+      if(selectedBankIds.size === 0) selectedBankIds = new Set(BANKS.map(b => b.id));
+    } else {
+      selectedBankIds = new Set(BANKS.map(b => b.id));
+    }
+    saveSelection();
+
+    renderTopicPicker();
+
+    // prima costruzione pool
+    const ok = rebuildQuestionBankFromSelection();
+    if(!ok) throw new Error("Seleziona argomenti: pool insufficiente (min 10).");
   }
 
   function buildQuiz(){
     rng = mulberry32(seed);
+
+    const ok = rebuildQuestionBankFromSelection();
+    if(!ok) return;
+
     const pool10 = shuffle(QUESTION_BANK, rng).slice(0, 10);
     quiz = pool10.map(q => shuffleOptionsKeepAnswer(q, rng));
 
@@ -238,13 +423,18 @@
       elOpts.innerHTML = "";
       elFb.innerHTML = `<div class="feedback">
         <div style="font-weight:600;margin-bottom:6px;">KPI: ${score}/10</div>
-        <div class="small">Clicca “Nuovo quiz” per estrarre altre 10 domande random dal pool.</div>
+        <div class="small">Clicca “Nuovo quiz” per estrarre altre 10 domande random dal pool selezionato.</div>
       </div>`;
       btnNext.disabled = true;
     }
   };
 
   btnRestart.onclick = () => {
+    // se selezione non valida, non riparte
+    if(QUESTION_BANK.length < 10){
+      alert("Pool selezionato troppo piccolo. Seleziona più argomenti.");
+      return;
+    }
     seed = Math.floor(Math.random() * 1e9);
     history.replaceState(null, "", setQS("seed", seed));
     buildQuiz();
