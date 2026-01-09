@@ -1,0 +1,460 @@
+[
+  {
+    "id": "L2-001",
+    "topic": "Quadro legislativo",
+    "q": "Secondo le slide, quale norma del 1942 introduce l’obbligo generale dell’imprenditore di tutelare integrità fisica e personalità morale dei lavoratori?",
+    "options": ["Art. 2087 del Codice Civile", "DPR 547/1955", "D.Lgs. 81/2008", "Direttiva 89/391/CEE"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 2 — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=5"
+  },
+  {
+    "id": "L2-002",
+    "topic": "Quadro legislativo",
+    "q": "La direttiva citata nelle slide che introduce pianificazione/prevenzione e obbligo di valutazione dei rischi è:",
+    "options": ["92/57/CEE", "89/391/CEE", "2006/42/CE", "2014/35/UE"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 6",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=6"
+  },
+  {
+    "id": "L2-003",
+    "topic": "TUS 81/08",
+    "q": "Secondo le slide, il Testo Unico (D.Lgs. 81/08) è in vigore dal:",
+    "options": ["15 maggio 2008", "9 aprile 2008", "1 gennaio 2009", "3 agosto 2007"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 2 — pag. 7",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=7"
+  },
+  {
+    "id": "L2-004",
+    "topic": "TUS 81/08",
+    "q": "Secondo le slide, il D.Lgs. 81/2008 è articolato su:",
+    "options": ["13 Titoli e 51 allegati", "10 Titoli e 30 allegati", "12 Titoli e 40 allegati", "15 Titoli e 60 allegati"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 2 — pag. 7",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=7"
+  },
+  {
+    "id": "L2-005",
+    "topic": "Struttura normativa",
+    "q": "Quale Titolo del D.Lgs. 81/08 è associato ai Cantieri Temporanei o Mobili, secondo la slide riepilogativa?",
+    "options": ["Titolo III", "Titolo IV", "Titolo VI", "Titolo VIII"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=8"
+  },
+  {
+    "id": "L2-006",
+    "topic": "Definizioni — pericolo/rischio",
+    "q": "Scenario: “Coccodrillo in giardino”. Nelle slide, l’animale in sé rappresenta:",
+    "options": ["Un rischio", "Un pericolo", "Un near miss", "Una verifica"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 12",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=12"
+  },
+  {
+    "id": "L2-007",
+    "topic": "Definizioni — pericolo/rischio",
+    "q": "Scenario: “Giocare con il coccodrillo in giardino”. Nelle slide questo è:",
+    "options": ["Pericolo", "Rischio", "Controllo", "Verifica"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 12",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=12"
+  },
+  {
+    "id": "L2-008",
+    "topic": "Definizioni — pericolo/rischio",
+    "q": "Secondo le slide, può esistere pericolo senza rischio quando:",
+    "options": ["Non c’è esposizione al pericolo", "C’è sempre esposizione", "Il danno è sempre grave", "La probabilità è sempre alta"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 2 — pag. 13",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=13"
+  },
+  {
+    "id": "L2-009",
+    "topic": "Definizioni — pericolo",
+    "q": "Secondo le slide, il pericolo è:",
+    "options": [
+      "Probabilità di subire un danno",
+      "Proprietà o qualità intrinseca con potenziale di causare danni",
+      "Evento non previsto che interrompe un’attività",
+      "Indicatore di frequenza degli infortuni"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 14",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=14"
+  },
+  {
+    "id": "L2-010",
+    "topic": "Definizioni — rischio",
+    "q": "Secondo le slide, la misura più semplice del rischio è:",
+    "options": ["R = P + D", "R = P × D", "R = D / P", "R = (P × D) / 10"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 15",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=15"
+  },
+  {
+    "id": "L2-011",
+    "topic": "Percezione del rischio",
+    "q": "Secondo le slide, la frase corretta è:",
+    "options": ["I pericoli si valutano, i rischi si identificano", "I pericoli si identificano, i rischi si valutano", "Pericolo e rischio sono sinonimi", "Il rischio è indipendente dal contesto"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 16",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=16"
+  },
+  {
+    "id": "L2-012",
+    "topic": "Near Miss / Safety observation",
+    "q": "Secondo le slide, “Safety Observation” include tipicamente:",
+    "options": ["Solo near miss", "Condizione insicura e atto insicuro", "Solo infortunio", "Solo verifica periodica"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 18",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=18"
+  },
+  {
+    "id": "L2-013",
+    "topic": "Near Miss — iceberg",
+    "q": "Nel modello “iceberg” riportato, cosa è più numeroso rispetto agli infortuni?",
+    "options": ["Solo infortuni mortali", "Anomalie non riportate e near miss", "Solo infortuni gravi", "Solo infortuni minori"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 19",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=19"
+  },
+  {
+    "id": "L2-014",
+    "topic": "Prevenzione vs protezione",
+    "q": "Secondo le slide, “prevenzione” significa:",
+    "options": [
+      "Limitare i danni di un evento accaduto",
+      "Evitare o diminuire i rischi professionali",
+      "Misurare il rischio residuo",
+      "Registrare una verifica periodica"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 20",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=20"
+  },
+  {
+    "id": "L2-015",
+    "topic": "Prevenzione vs protezione",
+    "q": "Secondo le slide, “protezione” significa:",
+    "options": [
+      "Eliminare il pericolo",
+      "Limitare i danni di un evento indesiderato accaduto (es. DPI)",
+      "Individuare i pericoli",
+      "Stimare probabilità e magnitudo"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 20",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=20"
+  },
+  {
+    "id": "L2-016",
+    "topic": "Incidente vs infortunio",
+    "q": "Secondo le slide, un incidente:",
+    "options": ["È sempre un infortunio", "Non necessariamente causa danno o infortunio", "È solo in itinere", "È sempre dovuto a cause mediche"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 21",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=21"
+  },
+  {
+    "id": "L2-017",
+    "topic": "Infortunio sul lavoro",
+    "q": "Secondo le slide, l’infortunio sul lavoro include (EUROSTAT) anche:",
+    "options": ["Le malattie professionali", "Gli atti intenzionali da parte di altre persone", "Le lesioni autoprovocate", "Gli infortuni in itinere"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 22",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=22"
+  },
+  {
+    "id": "L2-018",
+    "topic": "Infortunio in itinere",
+    "q": "Scenario: tragitto lavoro–mensa esterna abituale. Nelle slide rientra in:",
+    "options": ["Infortunio in itinere", "Malattia professionale", "Near miss", "Controllo sensoriale"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 2 — pag. 23",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=23"
+  },
+  {
+    "id": "L2-019",
+    "topic": "Cause infortuni",
+    "q": "Secondo le slide, tra i fattori che contribuiscono agli infortuni rientra:",
+    "options": ["Solo condizioni ambientali", "Assenza di metodi di lavoro (improvvisazione)", "Solo DPI non disponibili", "Solo cause mediche"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 25",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=25"
+  },
+  {
+    "id": "L2-020",
+    "topic": "Indicatori HSE",
+    "q": "Secondo le slide, il “Tasso di Frequenza” è:",
+    "options": [
+      "Giorni di assenza ogni mille ore lavorate",
+      "Numero di infortuni ogni milione di ore lavorate",
+      "Numero di near miss ogni giorno",
+      "Numero di audit per trimestre"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 26",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=26"
+  },
+  {
+    "id": "L2-021",
+    "topic": "Indicatori HSE",
+    "q": "Secondo le slide, il “Tasso di Gravità” è:",
+    "options": [
+      "Giorni di assenza per infortuni ogni mille ore lavorate",
+      "Numero di infortuni ogni milione di ore lavorate",
+      "Durata media = infortuni / giorni di assenza",
+      "Indice sintetico = TF × TG / 10"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 2 — pag. 26",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=26"
+  },
+  {
+    "id": "L2-022",
+    "topic": "Indicatori HSE",
+    "q": "Secondo le slide, l’indicatore sintetico di rischio residuo (fenomeno infortunistico) è definito come:",
+    "options": ["TF × TG / 10", "TF + TG", "TG / TF", "(TF × TG) × 10"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 2 — pag. 26",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=26"
+  },
+  {
+    "id": "L2-023",
+    "topic": "Controllo vs verifica",
+    "q": "Scenario: prima dell’uso controlli visivamente un’attrezzatura senza strumenti e senza registrare nulla. Nelle slide questo è:",
+    "options": ["Verifica", "Controllo", "Audit", "Ispezione periodica registrata"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 28",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=28"
+  },
+  {
+    "id": "L2-024",
+    "topic": "Controllo vs verifica",
+    "q": "Scenario: l’organizzazione pianifica un accertamento periodico con strumenti specifici e con registrazione. Nelle slide questo è:",
+    "options": ["Controllo", "Verifica", "Near miss", "Prevenzione"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 29",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=29"
+  },
+  {
+    "id": "L2-025",
+    "topic": "Soggetti aziendali",
+    "q": "Secondo le slide, le figure della sicurezza collaborano con l’obiettivo di:",
+    "options": ["Massimizzare i costi HSE", "Ridurre al minimo rischi e pericoli correlati alle attività lavorative", "Ridurre la formazione", "Eliminare i controlli"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 31",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=31"
+  },
+  {
+    "id": "L2-026",
+    "topic": "Valutazione dei rischi",
+    "q": "Secondo le slide, la valutazione dei rischi è finalizzata anche a:",
+    "options": ["Definire i turni di lavoro", "Individuare misure di prevenzione/protezione e un programma di miglioramento", "Scegliere i fornitori", "Aumentare la produzione"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 35",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=35"
+  },
+  {
+    "id": "L2-027",
+    "topic": "Valutazione dei rischi",
+    "q": "Chi è coinvolto nella redazione del DVR secondo le slide?",
+    "options": [
+      "Solo il RSPP",
+      "Il Datore di Lavoro con collaborazione RSPP e Medico Competente, previa consultazione RLS",
+      "Solo il Medico Competente",
+      "Solo il Preposto"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 36",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=36"
+  },
+  {
+    "id": "L2-028",
+    "topic": "Classificazione rischi",
+    "q": "Secondo le slide, i principali macro-gruppi di rischio sono:",
+    "options": [
+      "Solo sicurezza e salute",
+      "Sicurezza, salute (malattia professionale), trasversali (tecnico-organizzativi-gestionali)",
+      "Solo rischi trasversali",
+      "Solo rischi ambientali"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 37",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=37"
+  },
+  {
+    "id": "L2-029",
+    "topic": "Rischi sicurezza",
+    "q": "Quale dei seguenti è elencato nelle slide tra i “rischi per la sicurezza”?",
+    "options": ["Rumore", "Vibrazioni", "Caduta nel vuoto", "Microclima"],
+    "answerIndex": 2,
+    "refLabel": "Lezione 2 — pag. 38",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=38"
+  },
+  {
+    "id": "L2-030",
+    "topic": "Rischi salute",
+    "q": "Secondo le slide, rumore e vibrazioni rientrano in:",
+    "options": ["Agenti fisici", "Agenti biologici", "Agenti chimici", "Rischi trasversali"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 2 — pag. 39",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=39"
+  },
+  {
+    "id": "L2-031",
+    "topic": "Rischi trasversali",
+    "q": "Secondo le slide, lo stress lavoro-correlato rientra in:",
+    "options": ["Rischi trasversali (psicosociali)", "Agenti chimici", "Rischi elettrici", "Rischi da caduta oggetti"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 2 — pag. 40",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=40"
+  },
+  {
+    "id": "L2-032",
+    "topic": "Gestione del rischio",
+    "q": "Secondo le slide, le fasi del processo di gestione del rischio includono:",
+    "options": ["Analisi, valutazione, riduzione, trattamento del rischio residuo", "Solo valutazione e audit", "Solo DPI e formazione", "Solo prevenzione tecnica"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 2 — pag. 41",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=41"
+  },
+  {
+    "id": "L2-033",
+    "topic": "Analisi del rischio",
+    "q": "Secondo le slide, la prima azione nell’analisi del rischio è:",
+    "options": ["Individuare i rimedi", "Scomporre il lavoro in fasi", "Attribuire D e P", "Applicare i DPI"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 42",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=42"
+  },
+  {
+    "id": "L2-034",
+    "topic": "Valutazione del rischio",
+    "q": "Secondo le slide, i due fattori della valutazione quantitativa del rischio sono:",
+    "options": ["Costo e tempo", "Probabilità (frequenza) e Danno (magnitudo)", "DPI e DPC", "Esperienza e formazione"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 43",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=43"
+  },
+  {
+    "id": "L2-035",
+    "topic": "Formula rischio",
+    "q": "Secondo le slide, la sicurezza è rappresentabile come:",
+    "options": ["Il prodotto del rischio", "L’inverso del rischio", "La somma di P e D", "Un valore fisso"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 44",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=44"
+  },
+  {
+    "id": "L2-036",
+    "topic": "Scala Probabilità",
+    "q": "Nella scala P (slide), “Molto probabile” corrisponde a valore:",
+    "options": ["1", "2", "3", "4"],
+    "answerIndex": 3,
+    "refLabel": "Lezione 2 — pag. 46",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=46"
+  },
+  {
+    "id": "L2-037",
+    "topic": "Scala Danno",
+    "q": "Nella scala D (slide), la morte e/o effetti totalmente invalidanti corrispondono a livello:",
+    "options": ["Lieve (1)", "Medio (2)", "Grave (3)", "Molto grave (4)"],
+    "answerIndex": 3,
+    "refLabel": "Lezione 2 — pag. 47",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=47"
+  },
+  {
+    "id": "L2-038",
+    "topic": "Matrice del rischio",
+    "q": "Secondo la matrice in slide, con P=4 e D=4 il rischio R è:",
+    "options": ["8", "12", "16", "4"],
+    "answerIndex": 2,
+    "refLabel": "Lezione 2 — pag. 48",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=48"
+  },
+  {
+    "id": "L2-039",
+    "topic": "Gerarchia controlli",
+    "q": "Secondo le slide, la gerarchia di gestione del rischio parte da:",
+    "options": ["DPI", "Misure organizzative", "Eliminazione del rischio", "Formazione"],
+    "answerIndex": 2,
+    "refLabel": "Lezione 2 — pag. 51",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=51"
+  },
+  {
+    "id": "L2-040",
+    "topic": "Gestione rischio residuo",
+    "q": "Secondo le slide, tra protezioni collettive e DPI la preferenza è per:",
+    "options": ["DPI sempre", "Protezioni collettive prima dei DPI", "Sono equivalenti", "Prima DPI poi eliminazione rischio"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 49",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=49"
+  },
+  {
+    "id": "L2-041",
+    "topic": "DPI — responsabilità",
+    "q": "Secondo le slide, i lavoratori hanno l’obbligo di:",
+    "options": ["Usare i DPI e segnalare eventuali deficienze", "Acquistare i DPI", "Definire le norme tecniche", "Sostituire i DPC con DPI"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 2 — pag. 52",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=52"
+  },
+  {
+    "id": "L2-042",
+    "topic": "Lavori in altezza — errori tipici",
+    "q": "Scenario: delimiti male l’area e non prevedi percorsi alternativi pedonali/disabili. Nelle slide questo è un esempio di:",
+    "options": ["Buona pratica", "Errore da evitare nei lavori in altezza", "Procedura standard corretta", "Verifica periodica"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 54",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=54"
+  },
+  {
+    "id": "L2-043",
+    "topic": "Rischio elettrico — errori tipici",
+    "q": "Scenario: ometti isolamento/equipotenzialità in presenza di rischio elettrico. Nelle slide è indicato come:",
+    "options": ["Comportamento raccomandato", "Cosa NON bisogna fare", "Verifica obbligatoria", "Misura organizzativa sufficiente"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 55",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=55"
+  },
+  {
+    "id": "L2-044",
+    "topic": "Movimentazione carichi — errori tipici",
+    "q": "Scenario: usi una scala in modo improprio per movimentare/operare. Nelle slide è trattato in:",
+    "options": ["Buone pratiche", "Cosa NON fare", "Indicatori", "Definizioni base"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 58",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=58"
+  },
+  {
+    "id": "L2-045",
+    "topic": "Macchine e attrezzature — errori tipici",
+    "q": "Secondo le slide, è vietato (o comunque da evitare) stazionare sotto:",
+    "options": ["Carichi sospesi", "Scale a libro", "Quadri BT", "Segnaletica di cantiere"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 2 — pag. 60",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=60"
+  },
+  {
+    "id": "L2-046",
+    "topic": "Mobilità — errori tipici",
+    "q": "Secondo le slide, quale comportamento è un errore tipico in mobilità/cantiere?",
+    "options": ["Vincolare stabilmente il carico trasportato", "Disattendere la viabilità di cantiere", "Fare briefing pre-job", "Usare cintura di sicurezza quando prevista"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 61",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=61"
+  },
+  {
+    "id": "L2-047",
+    "topic": "Caduta oggetti dall’alto",
+    "q": "Secondo le slide, stazionare o passare sotto carichi sospesi o durante la lavorazione è:",
+    "options": ["Consentito se indossi DPI", "Vietato", "Consentito se c’è un preposto", "Consentito fuori orario"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 2 — pag. 62",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-2-81-08.pdf#page=62"
+  }
+]

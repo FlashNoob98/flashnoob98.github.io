@@ -1,0 +1,694 @@
+[
+  {
+    "id": "L3-001",
+    "topic": "Agenda",
+    "q": "Quali macro-temi sono in agenda nella lezione?",
+    "options": [
+      "Rischio incendio e CPI; rischio elettrico e caduta dall’alto; luoghi con pericolo di esplosione ATEX",
+      "Solo rischio chimico; solo rumore; solo vibrazioni",
+      "Appalti e DUVRI; rifiuti; terre e rocce",
+      "DPI; segnaletica; formazione lavoratori"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 1",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=1"
+  },
+  {
+    "id": "L3-002",
+    "topic": "Combustione",
+    "q": "Perché si verifichi una combustione è necessaria la presenza di:",
+    "options": [
+      "Solo combustibile e acqua",
+      "Combustibile, comburente e sorgente di calore (innesco)",
+      "Comburente e DPI",
+      "Solo temperatura di accensione"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 3 — pag. 3",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=3"
+  },
+  {
+    "id": "L3-003",
+    "topic": "Combustione",
+    "q": "La “temperatura di infiammabilità” (liquidi) è definita come:",
+    "options": [
+      "La temperatura massima della fiamma",
+      "La minima temperatura alla quale emettono vapori sufficienti a formare con l’aria una miscela che può incendiarsi se sottoposta alla temperatura di accensione",
+      "La temperatura alla quale la miscela brucia spontaneamente senza apporto esterno",
+      "La temperatura alla quale il combustibile diventa solido"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 3 — pag. 4",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=4"
+  },
+  {
+    "id": "L3-004",
+    "topic": "Combustione",
+    "q": "Il “campo di infiammabilità” indica:",
+    "options": [
+      "L’intervallo di concentrazioni combustibile-comburente per cui la miscela risulta infiammabile",
+      "La distanza minima di sicurezza dalle parti attive",
+      "La temperatura massima dei fumi",
+      "Il tempo massimo di evacuazione"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 4",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=4"
+  },
+  {
+    "id": "L3-005",
+    "topic": "Combustione",
+    "q": "La “temperatura di accensione” è:",
+    "options": [
+      "La minima temperatura alla quale la miscela combustibile-comburente inizia a bruciare spontaneamente e in modo continuo senza ulteriore apporto esterno",
+      "La minima temperatura alla quale i fumi diventano visibili",
+      "La temperatura alla quale un liquido emette vapori",
+      "La temperatura di esercizio di un trasformatore"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=5"
+  },
+  {
+    "id": "L3-006",
+    "topic": "Combustione",
+    "q": "La “temperatura teorica di combustione” (o massima della fiamma) è:",
+    "options": [
+      "La temperatura minima di innesco",
+      "Il più elevato valore raggiunto dai prodotti della combustione in condizioni ideali con aria teorica minima",
+      "La temperatura della superficie esterna del combustibile",
+      "La temperatura interna di un locale"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 3 — pag. 5",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=5"
+  },
+  {
+    "id": "L3-007",
+    "topic": "Valutazione rischio incendio",
+    "q": "Secondo le slide, la valutazione dei rischi di incendio e le misure conseguenti costituiscono:",
+    "options": [
+      "Un documento separato dal DVR e facoltativo",
+      "Parte specifica del DVR",
+      "Un adempimento solo per cantieri",
+      "Un adempimento solo per attività ATEX"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 3 — pag. 6",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=6"
+  },
+  {
+    "id": "L3-008",
+    "topic": "Valutazione rischio incendio",
+    "q": "Obiettivo della valutazione del rischio incendio: consentire al datore di lavoro di:",
+    "options": [
+      "Ridurre i costi di manutenzione",
+      "Prendere i provvedimenti necessari per salvaguardare la sicurezza di lavoratori e altre persone presenti",
+      "Evitare la formazione antincendio",
+      "Eliminare le vie di uscita per ridurre accessi"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 3 — pag. 6",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=6"
+  },
+  {
+    "id": "L3-009",
+    "topic": "Misure antincendio",
+    "q": "Quale tra questi è un gruppo di misure citato nelle slide?",
+    "options": [
+      "Rivelazione e allarme in caso di incendio",
+      "Trading e risk management",
+      "Gestione fiscale e contabile",
+      "Ottimizzazione SEO del sito"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 7",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=7"
+  },
+  {
+    "id": "L3-010",
+    "topic": "Valutazione rischio incendio",
+    "q": "La valutazione del rischio incendio si articola in fasi: la prima è:",
+    "options": [
+      "Classificazione rischio residuo",
+      "Individuazione di ogni pericolo di incendio",
+      "Formazione addetti emergenza",
+      "Pianificazione delle procedure di evacuazione"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 3 — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=8"
+  },
+  {
+    "id": "L3-011",
+    "topic": "Valutazione rischio incendio",
+    "q": "Nelle slide, tra i soggetti “esposti” da considerare nella valutazione sono citati:",
+    "options": [
+      "Solo i tecnici elettrici",
+      "Pubblico, disabili, infermi, ecc.",
+      "Solo il datore di lavoro",
+      "Solo i visitatori occasionali"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 3 — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=8"
+  },
+  {
+    "id": "L3-012",
+    "topic": "Valutazione rischio incendio",
+    "q": "Prima di classificare il rischio residuo, la valutazione prevede:",
+    "options": [
+      "Eliminazione o riduzione dei pericoli (eliminare/spostare/segregare sostanze o fonti di innesco)",
+      "Solo acquisto estintori",
+      "Solo prove di evacuazione",
+      "Solo audit documentale"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 8",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=8"
+  },
+  {
+    "id": "L3-013",
+    "topic": "Rischio incendio elevato",
+    "q": "Un luogo è a rischio incendio elevato quando:",
+    "options": [
+      "È sempre classificabile come basso",
+      "Sussistono notevoli probabilità di sviluppo e propagazione nella fase iniziale, o non è classificabile come basso/medio",
+      "Ha solo estintori portatili",
+      "È all’aperto"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 3 — pag. 9",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=9"
+  },
+  {
+    "id": "L3-014",
+    "topic": "Rischio incendio elevato",
+    "q": "Nelle slide, un locale può essere a rischio elevato anche indipendentemente dalle sostanze infiammabili quando:",
+    "options": [
+      "Le persone sono tutte addestrate",
+      "Affollamento/stato luoghi/limitazioni motorie rendono difficoltosa l’evacuazione",
+      "C’è illuminazione di emergenza",
+      "È presente un impianto di terra"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 3 — pag. 9",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=9"
+  },
+  {
+    "id": "L3-015",
+    "topic": "Esempi rischio elevato",
+    "q": "Quale è indicata come attività a rischio incendio elevato (esempi non esaustivi)?",
+    "options": [
+      "Centrali termoelettriche",
+      "Uffici open space sotto i 300 m²",
+      "Depositi di acqua potabile",
+      "Locale mensa aziendale"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 10",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=10"
+  },
+  {
+    "id": "L3-016",
+    "topic": "CPI e attività soggette",
+    "q": "Nel contesto CPI, le slide citano come punto chiave:",
+    "options": [
+      "Confronto tra documentazione tecnica della pratica e stato di fatto (sopralluogo/verifica documentale)",
+      "Solo gestione presenze",
+      "Solo gestione rifiuti",
+      "Solo gestione DPI"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 11",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=11"
+  },
+  {
+    "id": "L3-017",
+    "topic": "DPR 151/2011",
+    "q": "Secondo le slide, il DPR 151/2011:",
+    "options": [
+      "Introduce la SCIA antincendio e semplifica gli adempimenti",
+      "Abolisce ogni controllo VVF",
+      "È un regolamento su rifiuti speciali",
+      "Riguarda esclusivamente ATEX"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 13",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=13"
+  },
+  {
+    "id": "L3-018",
+    "topic": "DPR 151/2011",
+    "q": "Il DPR 151/2011 abroga e sostituisce (slide):",
+    "options": [
+      "DPR 37/1998 e DM 16/02/1982 (elenco attività soggette a CPI) tra gli altri",
+      "D.Lgs. 81/08",
+      "CEI 11-27",
+      "ISO 45001"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 13",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=13"
+  },
+  {
+    "id": "L3-019",
+    "topic": "DM 15 luglio 2014",
+    "q": "Il DM 15 luglio 2014 riguarda:",
+    "options": [
+      "Regola tecnica PI per macchine elettriche fisse con liquidi isolanti combustibili > 1 m³",
+      "Formazione addetti antincendio",
+      "Valori di tensione nominale impianti",
+      "Gestione cantieri temporanei"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 14",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=14"
+  },
+  {
+    "id": "L3-020",
+    "topic": "Relazione tecnica installazioni",
+    "q": "Nelle slide, in relazione alle installazioni, deve essere sempre considerata:",
+    "options": [
+      "Una macchina elettrica di riserva (non collegata alla rete)",
+      "Una seconda mensa di emergenza",
+      "Una scala aggiuntiva",
+      "Una terza via di fuga anche se inutile"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 15",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=15"
+  },
+  {
+    "id": "L3-021",
+    "topic": "Sistema di contenimento",
+    "q": "Secondo le indicazioni in slide (CEI EN 61936-1), la fossa di contenimento per apparecchiature all’esterno deve estendersi:",
+    "options": [
+      "Almeno 1,5 m oltre qualsiasi parte delle apparecchiature immerse in liquido",
+      "Solo 10 cm oltre l’ingombro",
+      "Esattamente pari all’ingombro",
+      "Solo sul lato accessibile"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 16",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=16"
+  },
+  {
+    "id": "L3-022",
+    "topic": "Sistema di contenimento",
+    "q": "Per sistemi comuni a più macchine, le slide indicano di evitare la propagazione con esempi come:",
+    "options": [
+      "Strati di ghiaietto, tubazioni riempite con fluido, tagliafiamma, ecc.",
+      "Solo cartelli monitori",
+      "Solo illuminazione di emergenza",
+      "Solo DPI"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 16",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=16"
+  },
+  {
+    "id": "L3-023",
+    "topic": "Attività 48 (PI)",
+    "q": "Nelle slide, l’attività soggetta ai controlli PI per macchine elettriche fisse con liquidi isolanti combustibili > 1 m³ è:",
+    "options": [
+      "Attività 48 (DPR 151/2011)",
+      "Attività 63 (attuale)",
+      "Attività 12",
+      "Attività 99"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 22",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=22"
+  },
+  {
+    "id": "L3-024",
+    "topic": "Categorie A/B/C",
+    "q": "Secondo le slide, la categoria C è associata a:",
+    "options": [
+      "Rischio basso e complessità limitata",
+      "Rischio medio e complessità media",
+      "Rischio elevato e/o alta complessità tecnica e gestionale",
+      "Attività non soggette a controlli"
+    ],
+    "answerIndex": 2,
+    "refLabel": "Lezione 3 — pag. 22",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=22"
+  },
+  {
+    "id": "L3-025",
+    "topic": "Rinnovo periodico",
+    "q": "Tra gli adempimenti previsti (slide) è citato il rinnovo periodico di conformità antincendio ogni:",
+    "options": ["2 anni", "3 anni", "5 anni", "10 anni"],
+    "answerIndex": 2,
+    "refLabel": "Lezione 3 — pag. 22",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=22"
+  },
+  {
+    "id": "L3-026",
+    "topic": "Ruoli PI e-distribuzione",
+    "q": "IAA (Incaricato Attività Antincendio) è:",
+    "options": [
+      "Il titolare legale dell’attività 48B",
+      "Persona incaricata a supporto del RAA: gestione documenti, scadenze, controlli periodici e registrazioni PIU’",
+      "Un ispettore dei VVF",
+      "Il medico competente"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 3 — pag. 18",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=18"
+  },
+  {
+    "id": "L3-027",
+    "topic": "Ruoli PI e-distribuzione",
+    "q": "RAA (Responsabile Attività Antincendio) è individuato nelle slide come:",
+    "options": [
+      "Responsabile della UT con delega dal Datore di Lavoro in applicazione al D.Lgs. 81/08",
+      "Un ruolo esterno ai processi aziendali",
+      "Una figura solo di cantiere temporaneo",
+      "Un ruolo equivalente al RLS"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 19",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=19"
+  },
+  {
+    "id": "L3-028",
+    "topic": "Ruoli PI e-distribuzione",
+    "q": "Secondo le slide, ai sensi del DPR 151/2011 il RAA è:",
+    "options": [
+      "Il titolare dell’attività 48B (allegato I)",
+      "Il titolare dell’attività ATEX",
+      "Il titolare della rete BT",
+      "Il titolare del DVR aziendale per tutta l’azienda"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 19",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=19"
+  },
+  {
+    "id": "L3-029",
+    "topic": "Ruoli PI e-distribuzione",
+    "q": "SUPERVISORV nelle slide è:",
+    "options": [
+      "Presidio del processo gestione adempimenti attività 48.1B nelle UT di e-distribuzione",
+      "Il RSPP aziendale",
+      "Il capo squadra di un’impresa appaltatrice",
+      "Il VVF di riferimento"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 20",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=20"
+  },
+  {
+    "id": "L3-030",
+    "topic": "CS multitrasformatore",
+    "q": "Nelle slide, l’obbligo di deposito SCIA ricorre anche quando:",
+    "options": [
+      "C’è più di una macchina con volumi d’olio singolarmente < 1 m³ ma non sono rispettate distanze/setti",
+      "C’è un solo trasformatore < 1 m³ in area isolata",
+      "Non ci sono liquidi isolanti combustibili",
+      "L’impianto è solo BT"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 21",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=21"
+  },
+  {
+    "id": "L3-031",
+    "topic": "Lavori in quota",
+    "q": "Il D.Lgs. 81/2008 definisce lavoro in quota come attività con rischio di caduta dall’alto da altezza superiore a:",
+    "options": ["1 m", "2 m", "3 m", "5 m"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 3 — pag. 26",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=26"
+  },
+  {
+    "id": "L3-032",
+    "topic": "Caduta dall’alto — principi",
+    "q": "Prima della scalata di un sostegno è necessario:",
+    "options": [
+      "Effettuare verifica di integrità e stabilità per stabilire le modalità di scalata",
+      "Salire subito e poi controllare in quota",
+      "Affidarsi solo all’esperienza personale",
+      "Eseguire solo una verifica documentale in ufficio"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 27",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=27"
+  },
+  {
+    "id": "L3-033",
+    "topic": "Caduta dall’alto — fasi dinamiche",
+    "q": "Durante le fasi dinamiche (salita/discesa/spostamento) è obbligatorio utilizzare:",
+    "options": [
+      "Solo posizionamento sul lavoro",
+      "Un sistema di arresto caduta (o trattenuta nel caso di autocestello)",
+      "Solo casco con sottogola",
+      "Solo guanti isolanti"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 3 — pag. 27",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=27"
+  },
+  {
+    "id": "L3-034",
+    "topic": "Caduta dall’alto — stazionamento",
+    "q": "Durante lo stazionamento in quota bisogna utilizzare sempre:",
+    "options": [
+      "Sistema di posizionamento sul lavoro (o trattenuta in autocestello/trasformatore AT/MT)",
+      "Solo cordino porta-attrezzi",
+      "Solo segnaletica a terra",
+      "Solo scarpe antinfortunistiche"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 27",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=27"
+  },
+  {
+    "id": "L3-035",
+    "topic": "Caduta dall’alto — doppio sistema",
+    "q": "Se il posizionamento non garantisce la trattenuta (es. cordino intorno al palo), occorre:",
+    "options": [
+      "Proseguire ugualmente se l’operatore è esperto",
+      "Utilizzare contemporaneamente anche un sistema di arresto caduta",
+      "Ridurre la durata dell’attività",
+      "Chiedere solo una supervisione verbale"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 3 — pag. 27",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=27"
+  },
+  {
+    "id": "L3-036",
+    "topic": "Caduta dall’alto — emergenza",
+    "q": "Per lavori in elevazione bisogna sempre prevedere:",
+    "options": [
+      "Una procedura di emergenza per recupero operatore non autosufficiente",
+      "Solo un audit a fine lavoro",
+      "Solo una riunione mensile",
+      "Solo un cartello di divieto"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 27",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=27"
+  },
+  {
+    "id": "L3-037",
+    "topic": "Pre Job Check — anticaduta",
+    "q": "Nel flusso “Pre Job Check” (slide), se non è disponibile un sistema anticaduta utilizzabile, l’esito è:",
+    "options": [
+      "Si procede comunque",
+      "STOP WORK",
+      "Si procede solo in coppia",
+      "Si procede solo con DPI elettrici"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 3 — pag. 28",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=28"
+  },
+  {
+    "id": "L3-038",
+    "topic": "Metodi lavoro — priorità",
+    "q": "Nelle slide, per raggiungere la quota su PALO, l’ordine di priorità dei metodi include come primo:",
+    "options": ["EM1059", "EM1050", "EM1057", "EM1414"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 29",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=29"
+  },
+  {
+    "id": "L3-039",
+    "topic": "Metodi scala fissa a parete",
+    "q": "Per scala fissa a parete priva di anticaduta, le slide indicano (in ordine di priorità):",
+    "options": ["EM1415 – EM1403", "EM1059 – EM1054", "EM1500 – EM1060", "EM1052 – EM1050"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 30",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=30"
+  },
+  {
+    "id": "L3-040",
+    "topic": "Rischio elettrico — inquadramento",
+    "q": "Nel D.Lgs. 81/08, il rischio elettrico è trattato (slide) in Titolo III Capo III con articoli:",
+    "options": [
+      "80–86 (obblighi, requisiti, lavori sotto tensione/prossimità, fulmini, verifiche)",
+      "15–20 (misure generali)",
+      "90–100 (cantieri)",
+      "200–210 (sanzioni generiche)"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 32",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=32"
+  },
+  {
+    "id": "L3-041",
+    "topic": "Normazione tecnica",
+    "q": "Quale ente è indicato come ente italiano di normazione elettrotecnica (slide)?",
+    "options": ["IEC", "CENELEC", "CEI", "ISO"],
+    "answerIndex": 2,
+    "refLabel": "Lezione 3 — pag. 33",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=33"
+  },
+  {
+    "id": "L3-042",
+    "topic": "Regola d’arte",
+    "q": "Secondo le slide, le norme emanate dal CEI sono riconosciute “regola d’arte” secondo:",
+    "options": ["Legge 186/68", "DPR 151/11", "DM 03/9/21", "ISO 9001"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 34",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=34"
+  },
+  {
+    "id": "L3-043",
+    "topic": "CEI 11-27",
+    "q": "La norma CEI 11-27 (slide) mette in atto i principi del D.Lgs. 81/08 per l’esecuzione di un lavoro elettrico includendo:",
+    "options": [
+      "Valutazione rischi, preparazione tecnica, istruzione personale, organizzazione e comunicazione",
+      "Solo DPI e cartellonistica",
+      "Solo manutenzione impianti",
+      "Solo procedure antincendio"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 35",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=35"
+  },
+  {
+    "id": "L3-044",
+    "topic": "CEI 11-27 — applicazione",
+    "q": "Secondo le slide, CEI 11-27 si applica anche ai lavori non elettrici svolti in presenza di rischio elettrico quando si opera:",
+    "options": [
+      "A distanza minore di quella indicata in Tab.1 Allegato IX da parti attive non protette o non sufficientemente protette",
+      "Sempre e comunque a qualsiasi distanza",
+      "Solo in BT in area sicura",
+      "Solo se c’è rischio incendio elevato"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 35",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=35"
+  },
+  {
+    "id": "L3-045",
+    "topic": "Procedure integrative e-distribuzione",
+    "q": "Le “Procedure integrative per la prevenzione del rischio elettrico” (slide) sono:",
+    "options": [
+      "Prescrizioni operative di sicurezza per programmazione ed esecuzione attività, emesse da e-distribuzione",
+      "Un documento VVF per CPI",
+      "Una norma CEI sostitutiva delle norme tecniche nazionali",
+      "Un documento esclusivo per lavori edili"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 36",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=36"
+  },
+  {
+    "id": "L3-046",
+    "topic": "Rischio elettrico — conseguenze",
+    "q": "Secondo le slide, il rischio elettrico non controllato può dare origine a:",
+    "options": [
+      "Elettrocuzione e ustioni/gravi lesioni",
+      "Solo stress lavoro-correlato",
+      "Solo caduta dall’alto",
+      "Solo sanzioni amministrative senza danni"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 37",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=37"
+  },
+  {
+    "id": "L3-047",
+    "topic": "Cause elettrocuzione",
+    "q": "Tra le possibili cause di elettrocuzione, le slide includono:",
+    "options": [
+      "Mancati sezionamenti, errori di manovra, rialimentazioni intempestive, induzioni da parallelismi, trasferimenti di potenziale",
+      "Solo mancanza DPI",
+      "Solo errore di reporting",
+      "Solo uso improprio di estintori"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 37",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=37"
+  },
+  {
+    "id": "L3-048",
+    "topic": "5 Regole d’Oro",
+    "q": "Quale sequenza è corretta per i lavori fuori tensione secondo le 5 Regole d’Oro in slide?",
+    "options": [
+      "Verificare assenza tensione → iniziare → sezionare → cartelli → MAT/CC",
+      "Sezionare → impedire richiusura/cartelli → verificare assenza tensione → MAT e CC/equipotenzialità → precauzioni aggiuntive per parti attive vicine",
+      "Delimitare → iniziare → verificare → sezionare → MAT/CC",
+      "Solo sezionare e iniziare"
+    ],
+    "answerIndex": 1,
+    "refLabel": "Lezione 3 — pag. 38",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=38"
+  },
+  {
+    "id": "L3-049",
+    "topic": "Distanze e zone",
+    "q": "Secondo le slide, la “zona prossima” è lo spazio:",
+    "options": [
+      "Esterno alla zona di lavoro sotto tensione delimitato dalla distanza DV",
+      "Interno alla distanza DL",
+      "Esterno alla zona prossima delimitato dalla DA9",
+      "Sempre coincidente con area sicura"
+    ],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 39",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=39"
+  },
+  {
+    "id": "L3-050",
+    "topic": "Tabella distanze (Allegato IX)",
+    "q": "Secondo la tabella in slide, per Un ≤ 1 kV la distanza DA9 (limite per lavori non elettrici) è:",
+    "options": ["300 mm", "1200 mm", "3000 mm", "7000 mm"],
+    "answerIndex": 2,
+    "refLabel": "Lezione 3 — pag. 40",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=40"
+  },
+  {
+    "id": "L3-051",
+    "topic": "Tabella distanze (Allegato IX)",
+    "q": "Secondo la tabella in slide, per Un = 15 kV la distanza DV (limite esterno zona prossima) è:",
+    "options": ["1160 mm", "3000 mm", "1120 mm", "3500 mm"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 40",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=40"
+  },
+  {
+    "id": "L3-052",
+    "topic": "Tabella distanze (Allegato IX)",
+    "q": "Secondo la tabella in slide, per Un = 132 kV la distanza DA9 è:",
+    "options": ["5000 mm", "7000 mm", "3000 mm", "4000 mm"],
+    "answerIndex": 0,
+    "refLabel": "Lezione 3 — pag. 40",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=40"
+  },
+  {
+    "id": "L3-053",
+    "topic": "Tabella distanze (Allegato IX)",
+    "q": "Secondo la tabella in slide, per Un = 380 kV la distanza DV è:",
+    "options": ["3000 mm", "4000 mm", "7000 mm", "2500 mm"],
+    "answerIndex": 1,
+    "refLabel": "Lezione 3 — pag. 40",
+    "refUrl": "https://flashnoob98.github.io/questionario/docs/lezione-3-incendio-elettrico-esplosione.pdf#page=40"
+  }
+]
